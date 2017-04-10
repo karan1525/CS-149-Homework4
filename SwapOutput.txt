@@ -1,0 +1,1175 @@
+
++------------------------------+
+| Swapping Simulation Run 1    |
++------------------------------+
+
+Process: Name: A Size:  3 Duration  5
+Process: Name: B Size:  2 Duration 31
+Process: Name: C Size:  2 Duration  5
+Process: Name: D Size:  2 Duration 17
+Process: Name: E Size:  1 Duration 11
+Process: Name: F Size:  1 Duration 31
+Process: Name: G Size:  3 Duration 11
+Process: Name: H Size:  1 Duration  5
+Process: Name: I Size:  5 Duration 17
+Process: Name: J Size:  3 Duration 17
+Process: Name: K Size:  2 Duration 11
+Process: Name: L Size:  4 Duration 11
+Process: Name: M Size:  1 Duration 31
+Process: Name: N Size:  2 Duration 11
+Process: Name: O Size:  4 Duration 31
+Process: Name: P Size:  4 Duration 11
+Process: Name: Q Size:  2 Duration 31
+Process: Name: R Size:  1 Duration  5
+Process: Name: S Size:  4 Duration 17
+Process: Name: T Size:  4 Duration 31
+Process: Name: U Size:  3 Duration  5
+Process: Name: V Size:  4 Duration 17
+Process: Name: W Size:  1 Duration 17
+Process: Name: X Size:  4 Duration 17
+Process: Name: Y Size:  4 Duration 31
+Process: Name: Z Size:  5 Duration 11
+Process: Name: a Size:  1 Duration  5
+Process: Name: b Size:  3 Duration  5
+Process: Name: c Size:  5 Duration 31
+Process: Name: d Size:  3 Duration 17
+Process: Name: e Size:  3 Duration 17
+Process: Name: f Size:  1 Duration 31
+Process: Name: g Size:  3 Duration 17
+Process: Name: h Size:  5 Duration 11
+Process: Name: i Size:  1 Duration 31
+Process: Name: j Size:  1 Duration  5
+Process: Name: k Size:  1 Duration  5
+Process: Name: l Size:  2 Duration 11
+Process: Name: m Size:  4 Duration 11
+Process: Name: n Size:  4 Duration 11
+Process: Name: o Size:  5 Duration  5
+Process: Name: p Size:  3 Duration  5
+Process: Name: q Size:  3 Duration 31
+Process: Name: r Size:  2 Duration  5
+Process: Name: s Size:  3 Duration 17
+Process: Name: t Size:  3 Duration 11
+Process: Name: u Size:  2 Duration 31
+Process: Name: v Size:  2 Duration 17
+Process: Name: w Size:  5 Duration 11
+Process: Name: x Size:  5 Duration 17
+Process: Name: y Size:  2 Duration 11
+Process: Name: z Size:  5 Duration 11
+Process: Name: 0 Size:  5 Duration 31
+Process: Name: 1 Size:  1 Duration  5
+Process: Name: 2 Size:  5 Duration 11
+Process: Name: 3 Size:  5 Duration 31
+Process: Name: 4 Size:  4 Duration 31
+Process: Name: 5 Size:  3 Duration 17
+Process: Name: 6 Size:  4 Duration 31
+Process: Name: 7 Size:  5 Duration 11
+Process: Name: 8 Size:  3 Duration 31
+Process: Name: 9 Size:  5 Duration 11
+Process: Name: ¡ Size:  2 Duration 11
+Process: Name: ™ Size:  2 Duration 31
+Process: Name: £ Size:  5 Duration 17
+Process: Name: ¢ Size:  2 Duration  5
+Process: Name: ∞ Size:  3 Duration  5
+Process: Name: § Size:  5 Duration  5
+Process: Name: ¶ Size:  3 Duration 11
+Process: Name: • Size:  3 Duration  5
+Process: Name: ª Size:  5 Duration 11
+Process: Name: º Size:  5 Duration 11
+Process: Name: – Size:  5 Duration  5
+Process: Name: ≠ Size:  2 Duration 17
+Process: Name: ! Size:  5 Duration 31
+Process: Name: @ Size:  1 Duration 17
+Process: Name: # Size:  4 Duration 17
+Process: Name: $ Size:  4 Duration  5
+Process: Name: % Size:  4 Duration 11
+Process: Name: ^ Size:  1 Duration  5
+Process: Name: & Size:  5 Duration 11
+Process: Name: * Size:  5 Duration 17
+Process: Name: ( Size:  3 Duration  5
+Process: Name: ) Size:  3 Duration 17
+Process: Name: + Size:  1 Duration 11
+Process: Name: å Size:  1 Duration  5
+Process: Name: ∫ Size:  1 Duration 17
+Process: Name: ç Size:  4 Duration 11
+Process: Name: ∂ Size:  2 Duration 11
+Process: Name: ´ Size:  2 Duration 17
+Process: Name: ƒ Size:  5 Duration 31
+Process: Name: © Size:  3 Duration  5
+Process: Name: ˙ Size:  4 Duration 31
+Process: Name: ˆ Size:  5 Duration 17
+Process: Name: ∆ Size:  3 Duration 17
+Process: Name: ˚ Size:  3 Duration  5
+Process: Name: ¬ Size:  1 Duration  5
+Process: Name: µ Size:  2 Duration 31
+Process: Name: ˜ Size:  1 Duration 17
+Process: Name: ø Size:  3 Duration  5
+Process: Name: π Size:  4 Duration 31
+Process: Name: œ Size:  1 Duration 31
+Process: Name: ® Size:  3 Duration  5
+Process: Name: ß Size:  2 Duration  5
+Process: Name: † Size:  4 Duration  5
+Process: Name: ¨ Size:  2 Duration 11
+Process: Name: √ Size:  3 Duration  5
+Process: Name: ∑ Size:  3 Duration 17
+Process: Name: ≈ Size:  3 Duration 11
+Process: Name: ¥ Size:  1 Duration 17
+Process: Name: Ω Size:  1 Duration 11
+Process: Name: { Size:  3 Duration 11
+Process: Name: } Size:  2 Duration 31
+Process: Name: : Size:  1 Duration  5
+Process: Name: ' Size:  5 Duration 17
+Process: Name: < Size:  4 Duration 11
+Process: Name: > Size:  2 Duration 17
+Process: Name: ? Size:  4 Duration 11
+Process: Name: | Size:  4 Duration 11
+Process: Name: / Size:  3 Duration  5
+Process: Name: Å Size:  5 Duration 17
+Process: Name: ı Size:  3 Duration  5
+Process: Name: Ç Size:  1 Duration 11
+Process: Name: Î Size:  3 Duration 11
+Process: Name: ´ Size:  1 Duration  5
+Process: Name: Ï Size:  5 Duration 11
+Process: Name: ˝ Size:  2 Duration 31
+Process: Name: Ó Size:  2 Duration  5
+Process: Name: ˆ Size:  5 Duration 11
+Process: Name: Ô Size:  3 Duration 17
+Process: Name:  Size:  4 Duration 11
+Process: Name: Ò Size:  1 Duration 31
+Process: Name: Â Size:  2 Duration 11
+Process: Name: ˜ Size:  2 Duration  5
+Process: Name: Ø Size:  4 Duration 17
+Process: Name: ∏ Size:  3 Duration 31
+Process: Name: Œ Size:  5 Duration  5
+Process: Name: ‰ Size:  5 Duration 11
+Process: Name: Í Size:  3 Duration 17
+Process: Name: ˇ Size:  4 Duration 31
+Process: Name: ¨ Size:  5 Duration 11
+Process: Name: ◊ Size:  1 Duration 31
+Process: Name: „ Size:  1 Duration 17
+Process: Name: ˛ Size:  2 Duration 17
+Process: Name: Á Size:  5 Duration  5
+Process: Name: ¸ Size:  3 Duration 11
+Process: Name: € Size:  3 Duration 31
+Process: Name: ‹ Size:  4 Duration 31
+Process: Name: › Size:  3 Duration 17
+Process: Name: ‡ Size:  3 Duration 11
+Process: Name: ° Size:  5 Duration 11
+Process: Name: · Size:  2 Duration 17
+Process: Name: ‚ Size:  3 Duration  5
+Process: Name: ± Size:  4 Duration 17
+Process: Name: Ú Size:  2 Duration 31
+Process: Name: Æ Size:  1 Duration 31
+Process: Name: ˘ Size:  1 Duration 31
+Process: Name: ¿ Size:  2 Duration 17
+
+----------
+
+__FIRST FIT__
+
+time  0: Swapped In Process A Size is  5 Duration is 3
+A...................................................................................................
+time  0: Swapped In Process A Size is  5 Duration is 3
+AA..................................................................................................
+time  0: Swapped In Process A Size is  5 Duration is 3
+AAA.................................................................................................
+time  0: Swapped In Process A Size is  5 Duration is 3
+AAAA................................................................................................
+time  0: Swapped In Process A Size is  5 Duration is 3
+AAAAA...............................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAAB..............................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABB.............................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBB............................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBB...........................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBB..........................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBB.........................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBB........................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBB.......................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBB......................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBB.....................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBB....................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBB...................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBB..................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBB.................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBB................................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBB...............................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBB..............................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBB.............................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBBB............................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBBBB...........................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBBBBB..........................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBBBBBB.........................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBBBBBBB........................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBBBBBBBB.......................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBBBBBBBBB......................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBBBBBBBBBB.....................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBBBBBBBBBBB....................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBB...................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBBB..................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBBBB.................................................................
+time  0: Swapped In Process B Size is 31 Duration is 2
+AAAAABBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB................................................................
+time  2: Swapped Out Process A
+.....BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB................................................................
+
+
+----------
+
+__STATS FOR PROCESSES__
+
+FIRST FIT: 7.2
+
++------------------------------+
+| Swapping Simulation Run 2    |
++------------------------------+
+
+Process: Name: A Size:  5 Duration  5
+Process: Name: B Size:  4 Duration  5
+Process: Name: C Size:  4 Duration  5
+Process: Name: D Size:  3 Duration 11
+Process: Name: E Size:  2 Duration 17
+Process: Name: F Size:  4 Duration 11
+Process: Name: G Size:  1 Duration 17
+Process: Name: H Size:  2 Duration 31
+Process: Name: I Size:  4 Duration  5
+Process: Name: J Size:  5 Duration 17
+Process: Name: K Size:  5 Duration  5
+Process: Name: L Size:  4 Duration 11
+Process: Name: M Size:  1 Duration 31
+Process: Name: N Size:  3 Duration 11
+Process: Name: O Size:  2 Duration 31
+Process: Name: P Size:  2 Duration 17
+Process: Name: Q Size:  1 Duration  5
+Process: Name: R Size:  3 Duration 31
+Process: Name: S Size:  5 Duration 11
+Process: Name: T Size:  4 Duration  5
+Process: Name: U Size:  5 Duration 11
+Process: Name: V Size:  5 Duration 11
+Process: Name: W Size:  1 Duration 31
+Process: Name: X Size:  3 Duration 11
+Process: Name: Y Size:  4 Duration 11
+Process: Name: Z Size:  1 Duration 31
+Process: Name: a Size:  3 Duration 17
+Process: Name: b Size:  4 Duration  5
+Process: Name: c Size:  2 Duration 31
+Process: Name: d Size:  1 Duration  5
+Process: Name: e Size:  2 Duration  5
+Process: Name: f Size:  5 Duration 11
+Process: Name: g Size:  1 Duration 31
+Process: Name: h Size:  2 Duration 11
+Process: Name: i Size:  1 Duration 11
+Process: Name: j Size:  1 Duration 17
+Process: Name: k Size:  1 Duration  5
+Process: Name: l Size:  2 Duration 11
+Process: Name: m Size:  2 Duration 17
+Process: Name: n Size:  4 Duration  5
+Process: Name: o Size:  1 Duration 11
+Process: Name: p Size:  5 Duration 17
+Process: Name: q Size:  1 Duration 17
+Process: Name: r Size:  4 Duration  5
+Process: Name: s Size:  2 Duration 11
+Process: Name: t Size:  3 Duration 11
+Process: Name: u Size:  2 Duration 31
+Process: Name: v Size:  3 Duration 11
+Process: Name: w Size:  1 Duration 11
+Process: Name: x Size:  2 Duration  5
+Process: Name: y Size:  3 Duration 31
+Process: Name: z Size:  5 Duration  5
+Process: Name: 0 Size:  5 Duration 11
+Process: Name: 1 Size:  3 Duration 17
+Process: Name: 2 Size:  4 Duration 31
+Process: Name: 3 Size:  5 Duration 17
+Process: Name: 4 Size:  4 Duration 11
+Process: Name: 5 Size:  1 Duration 11
+Process: Name: 6 Size:  3 Duration 31
+Process: Name: 7 Size:  1 Duration 11
+Process: Name: 8 Size:  5 Duration  5
+Process: Name: 9 Size:  5 Duration 11
+Process: Name: ¡ Size:  1 Duration 17
+Process: Name: ™ Size:  3 Duration  5
+Process: Name: £ Size:  1 Duration 17
+Process: Name: ¢ Size:  3 Duration 11
+Process: Name: ∞ Size:  5 Duration 17
+Process: Name: § Size:  5 Duration  5
+Process: Name: ¶ Size:  4 Duration 11
+Process: Name: • Size:  4 Duration 11
+Process: Name: ª Size:  1 Duration  5
+Process: Name: º Size:  3 Duration 31
+Process: Name: – Size:  1 Duration 17
+Process: Name: ≠ Size:  1 Duration 11
+Process: Name: ! Size:  4 Duration 31
+Process: Name: @ Size:  1 Duration 31
+Process: Name: # Size:  1 Duration 17
+Process: Name: $ Size:  4 Duration  5
+Process: Name: % Size:  3 Duration 31
+Process: Name: ^ Size:  4 Duration  5
+Process: Name: & Size:  1 Duration 17
+Process: Name: * Size:  5 Duration  5
+Process: Name: ( Size:  1 Duration 11
+Process: Name: ) Size:  2 Duration 17
+Process: Name: + Size:  1 Duration  5
+Process: Name: å Size:  2 Duration 11
+Process: Name: ∫ Size:  2 Duration 17
+Process: Name: ç Size:  1 Duration 17
+Process: Name: ∂ Size:  5 Duration  5
+Process: Name: ´ Size:  3 Duration 11
+Process: Name: ƒ Size:  3 Duration 31
+Process: Name: © Size:  5 Duration  5
+Process: Name: ˙ Size:  1 Duration 17
+Process: Name: ˆ Size:  1 Duration 31
+Process: Name: ∆ Size:  4 Duration 17
+Process: Name: ˚ Size:  3 Duration 11
+Process: Name: ¬ Size:  2 Duration 31
+Process: Name: µ Size:  2 Duration 17
+Process: Name: ˜ Size:  5 Duration  5
+Process: Name: ø Size:  3 Duration 31
+Process: Name: π Size:  5 Duration 31
+Process: Name: œ Size:  1 Duration 17
+Process: Name: ® Size:  2 Duration  5
+Process: Name: ß Size:  5 Duration 17
+Process: Name: † Size:  3 Duration 31
+Process: Name: ¨ Size:  2 Duration  5
+Process: Name: √ Size:  2 Duration 11
+Process: Name: ∑ Size:  2 Duration 11
+Process: Name: ≈ Size:  4 Duration  5
+Process: Name: ¥ Size:  2 Duration 17
+Process: Name: Ω Size:  5 Duration 17
+Process: Name: { Size:  1 Duration  5
+Process: Name: } Size:  2 Duration 17
+Process: Name: : Size:  1 Duration 11
+Process: Name: ' Size:  3 Duration 17
+Process: Name: < Size:  5 Duration 11
+Process: Name: > Size:  5 Duration 31
+Process: Name: ? Size:  5 Duration  5
+Process: Name: | Size:  4 Duration 11
+Process: Name: / Size:  3 Duration 11
+Process: Name: Å Size:  4 Duration 31
+Process: Name: ı Size:  2 Duration 31
+Process: Name: Ç Size:  5 Duration 11
+Process: Name: Î Size:  2 Duration 31
+Process: Name: ´ Size:  4 Duration 17
+Process: Name: Ï Size:  2 Duration 11
+Process: Name: ˝ Size:  5 Duration 11
+Process: Name: Ó Size:  2 Duration  5
+Process: Name: ˆ Size:  2 Duration 11
+Process: Name: Ô Size:  3 Duration 31
+Process: Name:  Size:  1 Duration  5
+Process: Name: Ò Size:  3 Duration 31
+Process: Name: Â Size:  4 Duration 31
+Process: Name: ˜ Size:  3 Duration 31
+Process: Name: Ø Size:  5 Duration 11
+Process: Name: ∏ Size:  1 Duration  5
+Process: Name: Œ Size:  4 Duration 31
+Process: Name: ‰ Size:  1 Duration  5
+Process: Name: Í Size:  5 Duration 31
+Process: Name: ˇ Size:  3 Duration 17
+Process: Name: ¨ Size:  2 Duration 17
+Process: Name: ◊ Size:  5 Duration 17
+Process: Name: „ Size:  1 Duration 31
+Process: Name: ˛ Size:  3 Duration  5
+Process: Name: Á Size:  1 Duration 17
+Process: Name: ¸ Size:  3 Duration 31
+Process: Name: € Size:  4 Duration 31
+Process: Name: ‹ Size:  5 Duration  5
+Process: Name: › Size:  3 Duration 31
+Process: Name: ‡ Size:  1 Duration 11
+Process: Name: ° Size:  3 Duration 11
+Process: Name: · Size:  2 Duration 17
+Process: Name: ‚ Size:  3 Duration  5
+Process: Name: ± Size:  3 Duration 11
+Process: Name: Ú Size:  2 Duration  5
+Process: Name: Æ Size:  1 Duration 31
+Process: Name: ˘ Size:  4 Duration 17
+Process: Name: ¿ Size:  1 Duration 17
+
+----------
+
+__FIRST FIT__
+
+time  0: Swapped In Process A Size is  5 Duration is 5
+A...................................................................................................
+time  0: Swapped In Process A Size is  5 Duration is 5
+AA..................................................................................................
+time  0: Swapped In Process A Size is  5 Duration is 5
+AAA.................................................................................................
+time  0: Swapped In Process A Size is  5 Duration is 5
+AAAA................................................................................................
+time  0: Swapped In Process A Size is  5 Duration is 5
+AAAAA...............................................................................................
+time  0: Swapped In Process B Size is  5 Duration is 4
+AAAAAB..............................................................................................
+time  0: Swapped In Process B Size is  5 Duration is 4
+AAAAABB.............................................................................................
+time  0: Swapped In Process B Size is  5 Duration is 4
+AAAAABBB............................................................................................
+time  0: Swapped In Process B Size is  5 Duration is 4
+AAAAABBBB...........................................................................................
+time  0: Swapped In Process B Size is  5 Duration is 4
+AAAAABBBBB..........................................................................................
+time  0: Swapped In Process C Size is  5 Duration is 4
+AAAAABBBBBC.........................................................................................
+time  0: Swapped In Process C Size is  5 Duration is 4
+AAAAABBBBBCC........................................................................................
+time  0: Swapped In Process C Size is  5 Duration is 4
+AAAAABBBBBCCC.......................................................................................
+time  0: Swapped In Process C Size is  5 Duration is 4
+AAAAABBBBBCCCC......................................................................................
+time  0: Swapped In Process C Size is  5 Duration is 4
+AAAAABBBBBCCCCC.....................................................................................
+time  0: Swapped In Process D Size is 11 Duration is 3
+AAAAABBBBBCCCCCD....................................................................................
+time  0: Swapped In Process D Size is 11 Duration is 3
+AAAAABBBBBCCCCCDD...................................................................................
+time  0: Swapped In Process D Size is 11 Duration is 3
+AAAAABBBBBCCCCCDDD..................................................................................
+time  0: Swapped In Process D Size is 11 Duration is 3
+AAAAABBBBBCCCCCDDDD.................................................................................
+time  0: Swapped In Process D Size is 11 Duration is 3
+AAAAABBBBBCCCCCDDDDD................................................................................
+time  0: Swapped In Process D Size is 11 Duration is 3
+AAAAABBBBBCCCCCDDDDDD...............................................................................
+time  0: Swapped In Process D Size is 11 Duration is 3
+AAAAABBBBBCCCCCDDDDDDD..............................................................................
+time  0: Swapped In Process D Size is 11 Duration is 3
+AAAAABBBBBCCCCCDDDDDDDD.............................................................................
+time  0: Swapped In Process D Size is 11 Duration is 3
+AAAAABBBBBCCCCCDDDDDDDDD............................................................................
+time  0: Swapped In Process D Size is 11 Duration is 3
+AAAAABBBBBCCCCCDDDDDDDDDD...........................................................................
+time  0: Swapped In Process D Size is 11 Duration is 3
+AAAAABBBBBCCCCCDDDDDDDDDDD..........................................................................
+time  3: Swapped Out Process A
+.....BBBBBCCCCCDDDDDDDDDDD..........................................................................
+
+
+----------
+
+__STATS FOR PROCESSES__
+
+FIRST FIT: 12.4
+
++------------------------------+
+| Swapping Simulation Run 3    |
++------------------------------+
+
+Process: Name: A Size:  2 Duration 31
+Process: Name: B Size:  3 Duration 31
+Process: Name: C Size:  5 Duration 31
+Process: Name: D Size:  4 Duration 11
+Process: Name: E Size:  2 Duration 11
+Process: Name: F Size:  4 Duration  5
+Process: Name: G Size:  2 Duration  5
+Process: Name: H Size:  3 Duration  5
+Process: Name: I Size:  4 Duration 11
+Process: Name: J Size:  5 Duration 17
+Process: Name: K Size:  1 Duration 31
+Process: Name: L Size:  3 Duration  5
+Process: Name: M Size:  5 Duration 11
+Process: Name: N Size:  3 Duration  5
+Process: Name: O Size:  5 Duration 17
+Process: Name: P Size:  3 Duration 31
+Process: Name: Q Size:  5 Duration 17
+Process: Name: R Size:  1 Duration 31
+Process: Name: S Size:  3 Duration 31
+Process: Name: T Size:  1 Duration 31
+Process: Name: U Size:  4 Duration  5
+Process: Name: V Size:  4 Duration 17
+Process: Name: W Size:  5 Duration 11
+Process: Name: X Size:  2 Duration 31
+Process: Name: Y Size:  3 Duration 11
+Process: Name: Z Size:  1 Duration 31
+Process: Name: a Size:  5 Duration 17
+Process: Name: b Size:  2 Duration 17
+Process: Name: c Size:  2 Duration 17
+Process: Name: d Size:  1 Duration 11
+Process: Name: e Size:  1 Duration 17
+Process: Name: f Size:  5 Duration 11
+Process: Name: g Size:  4 Duration 17
+Process: Name: h Size:  2 Duration 17
+Process: Name: i Size:  2 Duration 11
+Process: Name: j Size:  1 Duration 17
+Process: Name: k Size:  4 Duration  5
+Process: Name: l Size:  1 Duration 17
+Process: Name: m Size:  3 Duration  5
+Process: Name: n Size:  2 Duration 17
+Process: Name: o Size:  5 Duration  5
+Process: Name: p Size:  4 Duration 31
+Process: Name: q Size:  2 Duration 17
+Process: Name: r Size:  1 Duration 17
+Process: Name: s Size:  4 Duration  5
+Process: Name: t Size:  5 Duration 17
+Process: Name: u Size:  2 Duration  5
+Process: Name: v Size:  5 Duration 31
+Process: Name: w Size:  4 Duration 11
+Process: Name: x Size:  4 Duration 17
+Process: Name: y Size:  5 Duration 31
+Process: Name: z Size:  1 Duration 31
+Process: Name: 0 Size:  5 Duration 31
+Process: Name: 1 Size:  2 Duration 31
+Process: Name: 2 Size:  2 Duration  5
+Process: Name: 3 Size:  5 Duration  5
+Process: Name: 4 Size:  5 Duration 31
+Process: Name: 5 Size:  2 Duration  5
+Process: Name: 6 Size:  4 Duration  5
+Process: Name: 7 Size:  3 Duration  5
+Process: Name: 8 Size:  3 Duration 11
+Process: Name: 9 Size:  3 Duration 31
+Process: Name: ¡ Size:  2 Duration 11
+Process: Name: ™ Size:  3 Duration 11
+Process: Name: £ Size:  5 Duration 11
+Process: Name: ¢ Size:  3 Duration  5
+Process: Name: ∞ Size:  3 Duration  5
+Process: Name: § Size:  1 Duration 31
+Process: Name: ¶ Size:  5 Duration 17
+Process: Name: • Size:  4 Duration 17
+Process: Name: ª Size:  3 Duration 17
+Process: Name: º Size:  2 Duration 17
+Process: Name: – Size:  3 Duration  5
+Process: Name: ≠ Size:  1 Duration 31
+Process: Name: ! Size:  1 Duration  5
+Process: Name: @ Size:  1 Duration  5
+Process: Name: # Size:  4 Duration 11
+Process: Name: $ Size:  5 Duration 17
+Process: Name: % Size:  4 Duration  5
+Process: Name: ^ Size:  4 Duration  5
+Process: Name: & Size:  3 Duration 31
+Process: Name: * Size:  2 Duration 31
+Process: Name: ( Size:  3 Duration 17
+Process: Name: ) Size:  4 Duration  5
+Process: Name: + Size:  2 Duration 11
+Process: Name: å Size:  1 Duration 17
+Process: Name: ∫ Size:  3 Duration 17
+Process: Name: ç Size:  2 Duration 31
+Process: Name: ∂ Size:  5 Duration 17
+Process: Name: ´ Size:  5 Duration 31
+Process: Name: ƒ Size:  1 Duration 17
+Process: Name: © Size:  3 Duration 17
+Process: Name: ˙ Size:  1 Duration 11
+Process: Name: ˆ Size:  4 Duration 31
+Process: Name: ∆ Size:  5 Duration 11
+Process: Name: ˚ Size:  1 Duration 11
+Process: Name: ¬ Size:  1 Duration 11
+Process: Name: µ Size:  3 Duration 11
+Process: Name: ˜ Size:  3 Duration  5
+Process: Name: ø Size:  2 Duration 17
+Process: Name: π Size:  4 Duration  5
+Process: Name: œ Size:  3 Duration 11
+Process: Name: ® Size:  4 Duration  5
+Process: Name: ß Size:  4 Duration 17
+Process: Name: † Size:  3 Duration 17
+Process: Name: ¨ Size:  1 Duration 11
+Process: Name: √ Size:  4 Duration 11
+Process: Name: ∑ Size:  1 Duration 31
+Process: Name: ≈ Size:  2 Duration  5
+Process: Name: ¥ Size:  2 Duration 31
+Process: Name: Ω Size:  2 Duration 31
+Process: Name: { Size:  4 Duration 17
+Process: Name: } Size:  2 Duration 17
+Process: Name: : Size:  5 Duration 31
+Process: Name: ' Size:  3 Duration 11
+Process: Name: < Size:  3 Duration  5
+Process: Name: > Size:  1 Duration 17
+Process: Name: ? Size:  2 Duration 17
+Process: Name: | Size:  1 Duration 11
+Process: Name: / Size:  3 Duration 17
+Process: Name: Å Size:  5 Duration 11
+Process: Name: ı Size:  4 Duration  5
+Process: Name: Ç Size:  4 Duration  5
+Process: Name: Î Size:  5 Duration 17
+Process: Name: ´ Size:  5 Duration 11
+Process: Name: Ï Size:  2 Duration 17
+Process: Name: ˝ Size:  4 Duration 31
+Process: Name: Ó Size:  3 Duration 31
+Process: Name: ˆ Size:  2 Duration 11
+Process: Name: Ô Size:  1 Duration 17
+Process: Name:  Size:  2 Duration  5
+Process: Name: Ò Size:  4 Duration 17
+Process: Name: Â Size:  2 Duration 11
+Process: Name: ˜ Size:  5 Duration  5
+Process: Name: Ø Size:  5 Duration  5
+Process: Name: ∏ Size:  3 Duration 31
+Process: Name: Œ Size:  2 Duration  5
+Process: Name: ‰ Size:  2 Duration  5
+Process: Name: Í Size:  5 Duration 17
+Process: Name: ˇ Size:  2 Duration 17
+Process: Name: ¨ Size:  3 Duration 17
+Process: Name: ◊ Size:  4 Duration 17
+Process: Name: „ Size:  4 Duration 31
+Process: Name: ˛ Size:  2 Duration 11
+Process: Name: Á Size:  1 Duration 17
+Process: Name: ¸ Size:  5 Duration  5
+Process: Name: € Size:  1 Duration 17
+Process: Name: ‹ Size:  5 Duration  5
+Process: Name: › Size:  4 Duration 11
+Process: Name: ‡ Size:  1 Duration 31
+Process: Name: ° Size:  5 Duration 31
+Process: Name: · Size:  1 Duration 17
+Process: Name: ‚ Size:  4 Duration  5
+Process: Name: ± Size:  5 Duration 11
+Process: Name: Ú Size:  2 Duration  5
+Process: Name: Æ Size:  3 Duration 17
+Process: Name: ˘ Size:  1 Duration  5
+Process: Name: ¿ Size:  4 Duration 11
+
+----------
+
+__FIRST FIT__
+
+time  0: Swapped In Process A Size is 31 Duration is 2
+A...................................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AA..................................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAA.................................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAA................................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAA...............................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAA..............................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAA.............................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAA............................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAA...........................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAA..........................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAA.........................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAA........................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAA.......................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAA......................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAA.....................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAA....................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAA...................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAA..................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAA.................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAA................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAA...............................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAA..............................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAA.............................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAA............................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAA...........................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAAA..........................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAAAA.........................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAAAAA........................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAA.......................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA......................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....................................................................
+time  2: Swapped Out Process A
+....................................................................................................
+
+
+----------
+
+__STATS FOR PROCESSES__
+
+FIRST FIT: 18.6
+
++------------------------------+
+| Swapping Simulation Run 4    |
++------------------------------+
+
+Process: Name: A Size:  2 Duration  5
+Process: Name: B Size:  5 Duration  5
+Process: Name: C Size:  4 Duration 11
+Process: Name: D Size:  3 Duration 17
+Process: Name: E Size:  2 Duration  5
+Process: Name: F Size:  5 Duration  5
+Process: Name: G Size:  1 Duration 11
+Process: Name: H Size:  1 Duration 17
+Process: Name: I Size:  3 Duration  5
+Process: Name: J Size:  5 Duration 11
+Process: Name: K Size:  4 Duration  5
+Process: Name: L Size:  3 Duration  5
+Process: Name: M Size:  4 Duration 17
+Process: Name: N Size:  2 Duration 17
+Process: Name: O Size:  4 Duration 17
+Process: Name: P Size:  5 Duration 17
+Process: Name: Q Size:  3 Duration 17
+Process: Name: R Size:  1 Duration 11
+Process: Name: S Size:  2 Duration 31
+Process: Name: T Size:  2 Duration 11
+Process: Name: U Size:  3 Duration  5
+Process: Name: V Size:  4 Duration 31
+Process: Name: W Size:  4 Duration 17
+Process: Name: X Size:  4 Duration 31
+Process: Name: Y Size:  3 Duration  5
+Process: Name: Z Size:  1 Duration 31
+Process: Name: a Size:  1 Duration  5
+Process: Name: b Size:  4 Duration  5
+Process: Name: c Size:  5 Duration 31
+Process: Name: d Size:  1 Duration 31
+Process: Name: e Size:  4 Duration 31
+Process: Name: f Size:  3 Duration 11
+Process: Name: g Size:  2 Duration 31
+Process: Name: h Size:  4 Duration 11
+Process: Name: i Size:  4 Duration 11
+Process: Name: j Size:  5 Duration 11
+Process: Name: k Size:  1 Duration 11
+Process: Name: l Size:  2 Duration 17
+Process: Name: m Size:  3 Duration 11
+Process: Name: n Size:  1 Duration 31
+Process: Name: o Size:  3 Duration 17
+Process: Name: p Size:  4 Duration 11
+Process: Name: q Size:  4 Duration 31
+Process: Name: r Size:  5 Duration 17
+Process: Name: s Size:  2 Duration 11
+Process: Name: t Size:  3 Duration  5
+Process: Name: u Size:  4 Duration 17
+Process: Name: v Size:  3 Duration 11
+Process: Name: w Size:  4 Duration  5
+Process: Name: x Size:  5 Duration 31
+Process: Name: y Size:  3 Duration 11
+Process: Name: z Size:  4 Duration  5
+Process: Name: 0 Size:  4 Duration 17
+Process: Name: 1 Size:  4 Duration  5
+Process: Name: 2 Size:  5 Duration 31
+Process: Name: 3 Size:  4 Duration 17
+Process: Name: 4 Size:  3 Duration 31
+Process: Name: 5 Size:  1 Duration 17
+Process: Name: 6 Size:  5 Duration  5
+Process: Name: 7 Size:  3 Duration  5
+Process: Name: 8 Size:  2 Duration 31
+Process: Name: 9 Size:  3 Duration  5
+Process: Name: ¡ Size:  5 Duration 11
+Process: Name: ™ Size:  2 Duration 31
+Process: Name: £ Size:  4 Duration  5
+Process: Name: ¢ Size:  1 Duration 11
+Process: Name: ∞ Size:  4 Duration 11
+Process: Name: § Size:  2 Duration  5
+Process: Name: ¶ Size:  3 Duration 17
+Process: Name: • Size:  4 Duration 17
+Process: Name: ª Size:  1 Duration  5
+Process: Name: º Size:  5 Duration 11
+Process: Name: – Size:  2 Duration  5
+Process: Name: ≠ Size:  3 Duration 17
+Process: Name: ! Size:  5 Duration 17
+Process: Name: @ Size:  5 Duration 31
+Process: Name: # Size:  3 Duration 31
+Process: Name: $ Size:  3 Duration 31
+Process: Name: % Size:  4 Duration 17
+Process: Name: ^ Size:  1 Duration 31
+Process: Name: & Size:  1 Duration 31
+Process: Name: * Size:  1 Duration 11
+Process: Name: ( Size:  3 Duration  5
+Process: Name: ) Size:  3 Duration 31
+Process: Name: + Size:  5 Duration 31
+Process: Name: å Size:  5 Duration  5
+Process: Name: ∫ Size:  1 Duration 31
+Process: Name: ç Size:  4 Duration 31
+Process: Name: ∂ Size:  4 Duration  5
+Process: Name: ´ Size:  5 Duration 11
+Process: Name: ƒ Size:  2 Duration 31
+Process: Name: © Size:  3 Duration 31
+Process: Name: ˙ Size:  4 Duration  5
+Process: Name: ˆ Size:  1 Duration 11
+Process: Name: ∆ Size:  5 Duration 31
+Process: Name: ˚ Size:  2 Duration 31
+Process: Name: ¬ Size:  3 Duration  5
+Process: Name: µ Size:  4 Duration  5
+Process: Name: ˜ Size:  5 Duration 31
+Process: Name: ø Size:  3 Duration 31
+Process: Name: π Size:  5 Duration 31
+Process: Name: œ Size:  2 Duration 17
+Process: Name: ® Size:  4 Duration 17
+Process: Name: ß Size:  3 Duration 31
+Process: Name: † Size:  5 Duration 11
+Process: Name: ¨ Size:  4 Duration  5
+Process: Name: √ Size:  4 Duration 31
+Process: Name: ∑ Size:  3 Duration  5
+Process: Name: ≈ Size:  5 Duration 17
+Process: Name: ¥ Size:  3 Duration 11
+Process: Name: Ω Size:  2 Duration  5
+Process: Name: { Size:  5 Duration 11
+Process: Name: } Size:  1 Duration 11
+Process: Name: : Size:  3 Duration 11
+Process: Name: ' Size:  3 Duration 31
+Process: Name: < Size:  1 Duration 11
+Process: Name: > Size:  1 Duration 11
+Process: Name: ? Size:  1 Duration 11
+Process: Name: | Size:  3 Duration 17
+Process: Name: / Size:  2 Duration  5
+Process: Name: Å Size:  4 Duration  5
+Process: Name: ı Size:  2 Duration 31
+Process: Name: Ç Size:  3 Duration 17
+Process: Name: Î Size:  2 Duration  5
+Process: Name: ´ Size:  2 Duration 11
+Process: Name: Ï Size:  3 Duration  5
+Process: Name: ˝ Size:  3 Duration 11
+Process: Name: Ó Size:  2 Duration 17
+Process: Name: ˆ Size:  1 Duration 31
+Process: Name: Ô Size:  1 Duration 17
+Process: Name:  Size:  5 Duration  5
+Process: Name: Ò Size:  2 Duration 11
+Process: Name: Â Size:  4 Duration  5
+Process: Name: ˜ Size:  1 Duration 11
+Process: Name: Ø Size:  1 Duration 31
+Process: Name: ∏ Size:  3 Duration 31
+Process: Name: Œ Size:  3 Duration 11
+Process: Name: ‰ Size:  5 Duration  5
+Process: Name: Í Size:  2 Duration  5
+Process: Name: ˇ Size:  1 Duration 31
+Process: Name: ¨ Size:  3 Duration 17
+Process: Name: ◊ Size:  4 Duration  5
+Process: Name: „ Size:  3 Duration  5
+Process: Name: ˛ Size:  5 Duration 17
+Process: Name: Á Size:  4 Duration  5
+Process: Name: ¸ Size:  5 Duration 17
+Process: Name: € Size:  3 Duration 11
+Process: Name: ‹ Size:  5 Duration  5
+Process: Name: › Size:  2 Duration  5
+Process: Name: ‡ Size:  5 Duration  5
+Process: Name: ° Size:  1 Duration 17
+Process: Name: · Size:  3 Duration 17
+Process: Name: ‚ Size:  5 Duration 11
+Process: Name: ± Size:  4 Duration 31
+Process: Name: Ú Size:  4 Duration 31
+Process: Name: Æ Size:  4 Duration 17
+Process: Name: ˘ Size:  3 Duration 31
+Process: Name: ¿ Size:  5 Duration 11
+
+----------
+
+__FIRST FIT__
+
+time  0: Swapped In Process A Size is  5 Duration is 2
+A...................................................................................................
+time  0: Swapped In Process A Size is  5 Duration is 2
+AA..................................................................................................
+time  0: Swapped In Process A Size is  5 Duration is 2
+AAA.................................................................................................
+time  0: Swapped In Process A Size is  5 Duration is 2
+AAAA................................................................................................
+time  0: Swapped In Process A Size is  5 Duration is 2
+AAAAA...............................................................................................
+time  0: Swapped In Process B Size is  5 Duration is 5
+AAAAAB..............................................................................................
+time  0: Swapped In Process B Size is  5 Duration is 5
+AAAAABB.............................................................................................
+time  0: Swapped In Process B Size is  5 Duration is 5
+AAAAABBB............................................................................................
+time  0: Swapped In Process B Size is  5 Duration is 5
+AAAAABBBB...........................................................................................
+time  0: Swapped In Process B Size is  5 Duration is 5
+AAAAABBBBB..........................................................................................
+time  0: Swapped In Process C Size is 11 Duration is 4
+AAAAABBBBBC.........................................................................................
+time  0: Swapped In Process C Size is 11 Duration is 4
+AAAAABBBBBCC........................................................................................
+time  0: Swapped In Process C Size is 11 Duration is 4
+AAAAABBBBBCCC.......................................................................................
+time  0: Swapped In Process C Size is 11 Duration is 4
+AAAAABBBBBCCCC......................................................................................
+time  0: Swapped In Process C Size is 11 Duration is 4
+AAAAABBBBBCCCCC.....................................................................................
+time  0: Swapped In Process C Size is 11 Duration is 4
+AAAAABBBBBCCCCCC....................................................................................
+time  0: Swapped In Process C Size is 11 Duration is 4
+AAAAABBBBBCCCCCCC...................................................................................
+time  0: Swapped In Process C Size is 11 Duration is 4
+AAAAABBBBBCCCCCCCC..................................................................................
+time  0: Swapped In Process C Size is 11 Duration is 4
+AAAAABBBBBCCCCCCCCC.................................................................................
+time  0: Swapped In Process C Size is 11 Duration is 4
+AAAAABBBBBCCCCCCCCCC................................................................................
+time  0: Swapped In Process C Size is 11 Duration is 4
+AAAAABBBBBCCCCCCCCCCC...............................................................................
+time  2: Swapped Out Process A
+.....BBBBBCCCCCCCCCCC...............................................................................
+
+
+----------
+
+__STATS FOR PROCESSES__
+
+FIRST FIT: 22.8
+
++------------------------------+
+| Swapping Simulation Run 5    |
++------------------------------+
+
+Process: Name: A Size:  2 Duration 31
+Process: Name: B Size:  5 Duration 11
+Process: Name: C Size:  3 Duration 31
+Process: Name: D Size:  3 Duration 17
+Process: Name: E Size:  1 Duration 11
+Process: Name: F Size:  4 Duration 31
+Process: Name: G Size:  3 Duration  5
+Process: Name: H Size:  2 Duration 31
+Process: Name: I Size:  2 Duration 17
+Process: Name: J Size:  2 Duration 31
+Process: Name: K Size:  5 Duration 11
+Process: Name: L Size:  2 Duration 17
+Process: Name: M Size:  5 Duration 11
+Process: Name: N Size:  2 Duration 17
+Process: Name: O Size:  4 Duration 11
+Process: Name: P Size:  5 Duration 17
+Process: Name: Q Size:  3 Duration 31
+Process: Name: R Size:  4 Duration 11
+Process: Name: S Size:  2 Duration 17
+Process: Name: T Size:  3 Duration 17
+Process: Name: U Size:  1 Duration 31
+Process: Name: V Size:  1 Duration 17
+Process: Name: W Size:  5 Duration 31
+Process: Name: X Size:  1 Duration 17
+Process: Name: Y Size:  5 Duration  5
+Process: Name: Z Size:  1 Duration 11
+Process: Name: a Size:  2 Duration 17
+Process: Name: b Size:  3 Duration 11
+Process: Name: c Size:  4 Duration 17
+Process: Name: d Size:  2 Duration 31
+Process: Name: e Size:  3 Duration 31
+Process: Name: f Size:  3 Duration 31
+Process: Name: g Size:  2 Duration  5
+Process: Name: h Size:  3 Duration  5
+Process: Name: i Size:  4 Duration 31
+Process: Name: j Size:  5 Duration 11
+Process: Name: k Size:  1 Duration  5
+Process: Name: l Size:  3 Duration 11
+Process: Name: m Size:  3 Duration 11
+Process: Name: n Size:  3 Duration 17
+Process: Name: o Size:  4 Duration 17
+Process: Name: p Size:  2 Duration  5
+Process: Name: q Size:  3 Duration 31
+Process: Name: r Size:  3 Duration 17
+Process: Name: s Size:  1 Duration 17
+Process: Name: t Size:  4 Duration  5
+Process: Name: u Size:  3 Duration 17
+Process: Name: v Size:  5 Duration 17
+Process: Name: w Size:  1 Duration 31
+Process: Name: x Size:  5 Duration 11
+Process: Name: y Size:  3 Duration 17
+Process: Name: z Size:  1 Duration 31
+Process: Name: 0 Size:  5 Duration 11
+Process: Name: 1 Size:  4 Duration  5
+Process: Name: 2 Size:  2 Duration 11
+Process: Name: 3 Size:  5 Duration 11
+Process: Name: 4 Size:  5 Duration  5
+Process: Name: 5 Size:  5 Duration 11
+Process: Name: 6 Size:  5 Duration  5
+Process: Name: 7 Size:  4 Duration 11
+Process: Name: 8 Size:  5 Duration 11
+Process: Name: 9 Size:  4 Duration 11
+Process: Name: ¡ Size:  1 Duration 31
+Process: Name: ™ Size:  3 Duration 31
+Process: Name: £ Size:  4 Duration  5
+Process: Name: ¢ Size:  3 Duration  5
+Process: Name: ∞ Size:  4 Duration 31
+Process: Name: § Size:  1 Duration 17
+Process: Name: ¶ Size:  2 Duration 31
+Process: Name: • Size:  1 Duration 31
+Process: Name: ª Size:  4 Duration 17
+Process: Name: º Size:  2 Duration  5
+Process: Name: – Size:  5 Duration 11
+Process: Name: ≠ Size:  1 Duration 17
+Process: Name: ! Size:  1 Duration  5
+Process: Name: @ Size:  5 Duration 17
+Process: Name: # Size:  4 Duration 17
+Process: Name: $ Size:  5 Duration 17
+Process: Name: % Size:  1 Duration 31
+Process: Name: ^ Size:  1 Duration 31
+Process: Name: & Size:  2 Duration 11
+Process: Name: * Size:  3 Duration 17
+Process: Name: ( Size:  1 Duration 11
+Process: Name: ) Size:  2 Duration 31
+Process: Name: + Size:  1 Duration 31
+Process: Name: å Size:  2 Duration 11
+Process: Name: ∫ Size:  3 Duration  5
+Process: Name: ç Size:  5 Duration 31
+Process: Name: ∂ Size:  5 Duration 31
+Process: Name: ´ Size:  1 Duration 11
+Process: Name: ƒ Size:  2 Duration 31
+Process: Name: © Size:  1 Duration 17
+Process: Name: ˙ Size:  3 Duration 11
+Process: Name: ˆ Size:  1 Duration 31
+Process: Name: ∆ Size:  1 Duration 17
+Process: Name: ˚ Size:  3 Duration 11
+Process: Name: ¬ Size:  4 Duration 11
+Process: Name: µ Size:  3 Duration 17
+Process: Name: ˜ Size:  3 Duration  5
+Process: Name: ø Size:  2 Duration 17
+Process: Name: π Size:  3 Duration 17
+Process: Name: œ Size:  3 Duration  5
+Process: Name: ® Size:  3 Duration  5
+Process: Name: ß Size:  2 Duration  5
+Process: Name: † Size:  3 Duration 11
+Process: Name: ¨ Size:  2 Duration 11
+Process: Name: √ Size:  3 Duration 17
+Process: Name: ∑ Size:  2 Duration  5
+Process: Name: ≈ Size:  4 Duration  5
+Process: Name: ¥ Size:  2 Duration 17
+Process: Name: Ω Size:  5 Duration 31
+Process: Name: { Size:  4 Duration 17
+Process: Name: } Size:  2 Duration  5
+Process: Name: : Size:  1 Duration  5
+Process: Name: ' Size:  3 Duration 17
+Process: Name: < Size:  2 Duration 11
+Process: Name: > Size:  5 Duration 11
+Process: Name: ? Size:  1 Duration 11
+Process: Name: | Size:  3 Duration 17
+Process: Name: / Size:  2 Duration 11
+Process: Name: Å Size:  5 Duration 31
+Process: Name: ı Size:  2 Duration 17
+Process: Name: Ç Size:  5 Duration 31
+Process: Name: Î Size:  3 Duration 31
+Process: Name: ´ Size:  5 Duration  5
+Process: Name: Ï Size:  4 Duration 11
+Process: Name: ˝ Size:  4 Duration 31
+Process: Name: Ó Size:  3 Duration  5
+Process: Name: ˆ Size:  5 Duration 17
+Process: Name: Ô Size:  2 Duration  5
+Process: Name:  Size:  4 Duration  5
+Process: Name: Ò Size:  4 Duration 31
+Process: Name: Â Size:  4 Duration 31
+Process: Name: ˜ Size:  1 Duration 31
+Process: Name: Ø Size:  2 Duration 31
+Process: Name: ∏ Size:  3 Duration 11
+Process: Name: Œ Size:  2 Duration 17
+Process: Name: ‰ Size:  1 Duration  5
+Process: Name: Í Size:  4 Duration  5
+Process: Name: ˇ Size:  3 Duration 17
+Process: Name: ¨ Size:  2 Duration 31
+Process: Name: ◊ Size:  4 Duration 11
+Process: Name: „ Size:  5 Duration  5
+Process: Name: ˛ Size:  4 Duration 17
+Process: Name: Á Size:  5 Duration 11
+Process: Name: ¸ Size:  3 Duration  5
+Process: Name: € Size:  4 Duration 11
+Process: Name: ‹ Size:  3 Duration 31
+Process: Name: › Size:  1 Duration 11
+Process: Name: ‡ Size:  1 Duration  5
+Process: Name: ° Size:  3 Duration 11
+Process: Name: · Size:  4 Duration 11
+Process: Name: ‚ Size:  2 Duration  5
+Process: Name: ± Size:  5 Duration 11
+Process: Name: Ú Size:  1 Duration  5
+Process: Name: Æ Size:  3 Duration 31
+Process: Name: ˘ Size:  4 Duration 11
+Process: Name: ¿ Size:  1 Duration 11
+
+----------
+
+__FIRST FIT__
+
+time  0: Swapped In Process A Size is 31 Duration is 2
+A...................................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AA..................................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAA.................................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAA................................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAA...............................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAA..............................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAA.............................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAA............................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAA...........................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAA..........................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAA.........................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAA........................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAA.......................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAA......................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAA.....................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAA....................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAA...................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAA..................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAA.................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAA................................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAA...............................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAA..............................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAA.............................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAA............................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAA...........................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAAA..........................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAAAA.........................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAAAAA........................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAA.......................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA......................................................................
+time  0: Swapped In Process A Size is 31 Duration is 2
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.....................................................................
+time  2: Swapped Out Process A
+....................................................................................................
+
+
+----------
+
+__STATS FOR PROCESSES__
+
+FIRST FIT: 29.0
