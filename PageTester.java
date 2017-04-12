@@ -7,12 +7,21 @@ public class PageTester {
 	final static int NUMBER_OF_SIMULATIONS = 5;
 	
 	public static void main (String[] args) {
+		//FIFO
 		System.out.println("-----Start FIFO-----");
         int hitsForFIFO = runAlgo(new FIFO());
         System.out.println("-----End FIFO-----");
         
         System.out.println("\n -----The Paging Algortihm Hit Rate Averages-----");
         System.out.println("FIFO: " + hitsForFIFO);
+        
+        //LRU
+		System.out.println("-----Start LRU-----");
+        int hitsForLRU = runAlgo(new LRU());
+        System.out.println("-----End LRU-----");
+        
+        System.out.println("\n -----The Paging Algortihm Hit Rate Averages-----");
+        System.out.println("LRU: " + hitsForLRU);
 	}
 	
 	/**
