@@ -66,5 +66,26 @@ public abstract class PagingAlgo {
 
 	}
 
+	/**
+	 * A method to print the results of each page 
+	 * @param pageIn - the current page in
+	 * @param pageEvicted - the page that was taken out
+	 * @param memory - the pages in memory
+	 * @param referenceNumber - the reference number of the page
+	 */
+	void printRef2(char pageIn, char pageEvicted, Character[] x, int referenceNumber) {
+		System.out.println("\nPage In: " + pageIn);
+		System.out.println("Evicted: " + pageEvicted);
+		System.out.println("Reference Number: " + referenceNumber);
+		System.out.print("Memory: [" );
+		for (int i = 0; i < x.length; i++)
+		{
+			if (i == x.length -1) System.out.print(" " + x[i] + "]");
+			else if (i == 0) System.out.print(x[i] + ",");
+			else System.out.print(" " + x[i] + ",");
+		}
+		System.out.println();
+		
+	}
 
 }

@@ -22,6 +22,14 @@ public class PageTester {
         
         System.out.println("\n -----The Paging Algortihm Hit Rate Averages-----");
         System.out.println("LRU: " + hitsForLRU);
+        
+        //LFU
+    	System.out.println("-----Start LFU-----");
+        int hitsForLFU = runAlgo(new LFU());
+        System.out.println("-----End LFU-----");
+        
+        System.out.println("\n -----The Paging Algortihm Hit Rate Averages-----");
+        System.out.println("LFU: " + hitsForLFU);
 	}
 	
 	/**
