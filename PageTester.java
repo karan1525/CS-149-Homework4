@@ -44,8 +44,7 @@ public class PageTester {
 	/**
 	 * A helper method to run the paging algorithm
 	 *
-	 * @param algoToRun
-	 *            - the algorithm to run
+	 * @param algoToRun - the algorithm to run
 	 * @return the total hit count for a paging algorithm
 	 */
 	static int runAlgo(PagingAlgo algoToRun) {

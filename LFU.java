@@ -37,11 +37,11 @@ public class LFU extends PagingAlgo {
 				int value = frequencies.get(currPage) + 1;
 				frequencies.put(currPage, value);
 				totalHitCount++;
-				System.out.println("Got In Here");
+//				System.out.println("Got In Here");
 				if (inListing(arrivalInOrder, currPage) == false)
 					arrivalInOrder.add(currPage);
 			} else { // There Is A Page Fault
-				System.out.println("else");
+//				System.out.println("else");
 				Character chosen = getLeastFrequency(frequencies, arrivalInOrder);
 				removed = chosen;
 				// Handle Removal

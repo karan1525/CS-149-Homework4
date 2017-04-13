@@ -26,15 +26,15 @@ public class FIFO extends PagingAlgo {
 		while (loopCounter <= SIMULATION_TIME) {
 			currPage = DISK_FRAMES[currIndex]; //gets the current page from the DISK_FRAME
 			
-			if(!(memory.contains(currPage))) { //there is a page fault
-                if(memory.size() == 4)
-                {
-                    remPage = memory.removeFirst();
-                }
-                memory.addLast(currPage);
-            } else {
-            	totalHitCount++;
-            }
+			if(memory.contains(currPage)) {
+				totalHitCount++;
+			} else {
+				if(memory.size() == FRAME_SIZE) {
+					remPage = memory.removeFirst();
+				}
+				
+				memory.addLast(currPage);
+			}
 			
 		printReference(currPage, remPage, memory, currIndex); //print the stats every loop
 		

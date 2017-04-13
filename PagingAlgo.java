@@ -95,7 +95,7 @@ public abstract class PagingAlgo {
 		System.out.print("\nPage In: " + pageIn);
 		System.out.print(" | Reference Number: " + referenceNumber);
 		System.out.println(" | Evicted: " + pageEvicted);
-		System.out.println("Result Memory: [");
+		System.out.print("Result Memory: [");
 		for (int i = 0; i < x.length; i++) {
 			if (i == x.length - 1)
 				System.out.print(" " + x[i] + "]");
