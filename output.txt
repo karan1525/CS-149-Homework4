@@ -1,0 +1,7502 @@
+-----Start FIFO-----
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [K, L]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, L]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, L, U]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [K, L, U, T]
+
+Page In: S | Reference Number: 8 | Evicted: K
+Result Memory: [L, U, T, S]
+
+Page In: N | Reference Number: 3 | Evicted: L
+Result Memory: [U, T, S, N]
+
+Page In: M | Reference Number: 2 | Evicted: U
+Result Memory: [T, S, N, M]
+
+Page In: Q | Reference Number: 6 | Evicted: T
+Result Memory: [S, N, M, Q]
+
+Page In: R | Reference Number: 7 | Evicted: S
+Result Memory: [N, M, Q, R]
+
+Page In: T | Reference Number: 9 | Evicted: N
+Result Memory: [M, Q, R, T]
+
+Page In: L | Reference Number: 1 | Evicted: M
+Result Memory: [Q, R, T, L]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [Q, R, T, L]
+
+Page In: S | Reference Number: 8 | Evicted: Q
+Result Memory: [R, T, L, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [R, T, L, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, T, L, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, T, L, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [R, T, L, S]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [R, T, L, S]
+
+Page In: Q | Reference Number: 6 | Evicted: R
+Result Memory: [T, L, S, Q]
+
+Page In: R | Reference Number: 7 | Evicted: T
+Result Memory: [L, S, Q, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [L, S, Q, R]
+
+Page In: M | Reference Number: 2 | Evicted: L
+Result Memory: [S, Q, R, M]
+
+Page In: O | Reference Number: 4 | Evicted: S
+Result Memory: [Q, R, M, O]
+
+Page In: P | Reference Number: 5 | Evicted: Q
+Result Memory: [R, M, O, P]
+
+Page In: Q | Reference Number: 6 | Evicted: R
+Result Memory: [M, O, P, Q]
+
+Page In: R | Reference Number: 7 | Evicted: M
+Result Memory: [O, P, Q, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [O, P, Q, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [O, P, Q, R]
+
+Page In: T | Reference Number: 9 | Evicted: O
+Result Memory: [P, Q, R, T]
+
+Page In: L | Reference Number: 1 | Evicted: P
+Result Memory: [Q, R, T, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [Q, R, T, L]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [Q, R, T, L]
+
+Page In: U | Reference Number: 10 | Evicted: Q
+Result Memory: [R, T, L, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [R, T, L, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [R, T, L, U]
+
+Page In: O | Reference Number: 4 | Evicted: R
+Result Memory: [T, L, U, O]
+
+Page In: N | Reference Number: 3 | Evicted: T
+Result Memory: [L, U, O, N]
+
+Page In: Q | Reference Number: 6 | Evicted: L
+Result Memory: [U, O, N, Q]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [U, O, N, Q]
+
+Page In: M | Reference Number: 2 | Evicted: U
+Result Memory: [O, N, Q, M]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [O, N, Q, M]
+
+Page In: S | Reference Number: 8 | Evicted: O
+Result Memory: [N, Q, M, S]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [N, Q, M, S]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [N, Q, M, S]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [N, Q, M, S]
+
+Page In: T | Reference Number: 9 | Evicted: N
+Result Memory: [Q, M, S, T]
+
+Page In: O | Reference Number: 4 | Evicted: Q
+Result Memory: [M, S, T, O]
+
+Page In: K | Reference Number: 0 | Evicted: M
+Result Memory: [S, T, O, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, T, O, K]
+
+Page In: L | Reference Number: 1 | Evicted: S
+Result Memory: [T, O, K, L]
+
+Page In: M | Reference Number: 2 | Evicted: T
+Result Memory: [O, K, L, M]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [O, K, L, M]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [O, K, L, M]
+
+Page In: P | Reference Number: 5 | Evicted: O
+Result Memory: [K, L, M, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [K, L, M, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [K, L, M, P]
+
+Page In: T | Reference Number: 9 | Evicted: K
+Result Memory: [L, M, P, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [L, M, P, T]
+
+Page In: N | Reference Number: 3 | Evicted: L
+Result Memory: [M, P, T, N]
+
+Page In: U | Reference Number: 10 | Evicted: M
+Result Memory: [P, T, N, U]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [P, T, N, U]
+
+Page In: S | Reference Number: 8 | Evicted: P
+Result Memory: [T, N, U, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [T, N, U, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [T, N, U, S]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [T, N, U, S]
+
+Page In: K | Reference Number: 0 | Evicted: T
+Result Memory: [N, U, S, K]
+
+Page In: O | Reference Number: 4 | Evicted: N
+Result Memory: [U, S, K, O]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, S, K, O]
+
+Page In: Q | Reference Number: 6 | Evicted: U
+Result Memory: [S, K, O, Q]
+
+Page In: L | Reference Number: 1 | Evicted: S
+Result Memory: [K, O, Q, L]
+
+Page In: T | Reference Number: 9 | Evicted: K
+Result Memory: [O, Q, L, T]
+
+Page In: U | Reference Number: 10 | Evicted: O
+Result Memory: [Q, L, T, U]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [Q, L, T, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [Q, L, T, U]
+
+Page In: N | Reference Number: 3 | Evicted: Q
+Result Memory: [L, T, U, N]
+
+Page In: M | Reference Number: 2 | Evicted: L
+Result Memory: [T, U, N, M]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [T, U, N, M]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [T, U, N, M]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [T, U, N, M]
+
+Page In: P | Reference Number: 5 | Evicted: T
+Result Memory: [U, N, M, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [U, N, M, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [U, N, M, P]
+
+Page In: Q | Reference Number: 6 | Evicted: U
+Result Memory: [N, M, P, Q]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, M, P, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [N, M, P, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [N, M, P, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [N, M, P, Q]
+
+Page In: R | Reference Number: 7 | Evicted: N
+Result Memory: [M, P, Q, R]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [M, P, Q, R]
+
+Page In: N | Reference Number: 3 | Evicted: M
+Result Memory: [P, Q, R, N]
+
+Page In: O | Reference Number: 4 | Evicted: P
+Result Memory: [Q, R, N, O]
+
+Page In: P | Reference Number: 5 | Evicted: Q
+Result Memory: [R, N, O, P]
+
+Page In: K | Reference Number: 0 | Evicted: R
+Result Memory: [N, O, P, K]
+
+Page In: L | Reference Number: 1 | Evicted: N
+Result Memory: [O, P, K, L]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [O, P, K, L]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [O, P, K, L]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [O, P, K, L]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [O, P, K, L]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, P, K, L]
+
+Page In: Q | Reference Number: 6 | Evicted: O
+Result Memory: [P, K, L, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [P, K, L, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [P, K, L, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [P, K, L, Q]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [P, K, L, Q]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [P, K, L, Q]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [P, K, L, Q]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [P, K, L, Q]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [P, K, L, Q]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [P, K, L, Q]
+
+Page In: T | Reference Number: 9 | Evicted: P
+Result Memory: [K, L, Q, T]
+
+Page In: S | Reference Number: 8 | Evicted: K
+Result Memory: [L, Q, T, S]
+
+Page In: O | Reference Number: 4 | Evicted: L
+Result Memory: [Q, T, S, O]
+
+Page In: N | Reference Number: 3 | Evicted: Q
+Result Memory: [T, S, O, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [T, S, O, N]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [T, S, O, N]
+
+Page In: L | Reference Number: 1 | Evicted: T
+Result Memory: [S, O, N, L]
+
+Page In: K | Reference Number: 0 | Evicted: S
+Result Memory: [O, N, L, K]
+
+Page In: P | Reference Number: 5 | Evicted: O
+Result Memory: [N, L, K, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [N, L, K, P]
+
+Page In: O | Reference Number: 4 | Evicted: N
+Result Memory: [L, K, P, O]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [L, K, P, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [L, K, P, O]
+
+Page In: R | Reference Number: 7 | Evicted: L
+Result Memory: [K, P, O, R]
+
+Page In: S | Reference Number: 8 | Evicted: K
+Result Memory: [P, O, R, S]
+
+Page In: T | Reference Number: 9 | Evicted: P
+Result Memory: [O, R, S, T]
+
+Page In: P | Reference Number: 5 | Evicted: O
+Result Memory: [R, S, T, P]
+
+Page In: O | Reference Number: 4 | Evicted: R
+Result Memory: [S, T, P, O]
+
+Page In: N | Reference Number: 3 | Evicted: S
+Result Memory: [T, P, O, N]
+
+Page In: S | Reference Number: 8 | Evicted: T
+Result Memory: [P, O, N, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [P, O, N, S]
+
+Page In: U | Reference Number: 10 | Evicted: P
+Result Memory: [O, N, S, U]
+
+Page In: T | Reference Number: 9 | Evicted: O
+Result Memory: [N, S, U, T]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [S, U, T, P]
+
+Page In: O | Reference Number: 4 | Evicted: S
+Result Memory: [U, T, P, O]
+
+Page In: R | Reference Number: 7 | Evicted: U
+Result Memory: [T, P, O, R]
+
+Page In: S | Reference Number: 8 | Evicted: T
+Result Memory: [P, O, R, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [P, O, R, S]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [P, O, R, S]
+
+Page In: Q | Reference Number: 6 | Evicted: P
+Result Memory: [O, R, S, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [O, R, S, Q]
+
+Page In: P | Reference Number: 5 | Evicted: O
+Result Memory: [R, S, Q, P]
+
+Page In: O | Reference Number: 4 | Evicted: R
+Result Memory: [S, Q, P, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [S, Q, P, O]
+
+Page In: N | Reference Number: 3 | Evicted: S
+Result Memory: [Q, P, O, N]
+
+Page In: K | Reference Number: 0 | Evicted: Q
+Result Memory: [P, O, N, K]
+
+Page In: L | Reference Number: 1 | Evicted: P
+Result Memory: [O, N, K, L]
+
+Page In: M | Reference Number: 2 | Evicted: O
+Result Memory: [N, K, L, M]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [N, K, L, M]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [N, K, L, M]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [K, L, M, P]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [K, L, M, P]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [K, L, M, P]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [K, L, M, P]
+
+Page In: O | Reference Number: 4 | Evicted: K
+Result Memory: [L, M, P, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [L, M, P, O]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [L, M, P, O]
+
+Page In: R | Reference Number: 7 | Evicted: L
+Result Memory: [M, P, O, R]
+
+Page In: Q | Reference Number: 6 | Evicted: M
+Result Memory: [P, O, R, Q]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [P, O, R, Q]
+
+Page In: S | Reference Number: 8 | Evicted: P
+Result Memory: [O, R, Q, S]
+
+Page In: T | Reference Number: 9 | Evicted: O
+Result Memory: [R, Q, S, T]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [R, Q, S, T]
+
+Page In: O | Reference Number: 4 | Evicted: R
+Result Memory: [Q, S, T, O]
+
+Page In: K | Reference Number: 0 | Evicted: Q
+Result Memory: [S, T, O, K]
+
+Page In: L | Reference Number: 1 | Evicted: S
+Result Memory: [T, O, K, L]
+
+Page In: S | Reference Number: 8 | Evicted: T
+Result Memory: [O, K, L, S]
+
+Page In: T | Reference Number: 9 | Evicted: O
+Result Memory: [K, L, S, T]
+
+Page In: Q | Reference Number: 6 | Evicted: K
+Result Memory: [L, S, T, Q]
+
+Page In: N | Reference Number: 3 | Evicted: L
+Result Memory: [S, T, Q, N]
+
+Page In: M | Reference Number: 2 | Evicted: S
+Result Memory: [T, Q, N, M]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [T, Q, N, M]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [T, Q, N, M]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [T, Q, N, M]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [T, Q, N, M]
+
+Page In: R | Reference Number: 7 | Evicted: T
+Result Memory: [Q, N, M, R]
+
+Page In: S | Reference Number: 8 | Evicted: Q
+Result Memory: [N, M, R, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [N, M, R, S]
+
+Page In: L | Reference Number: 1 | Evicted: N
+Result Memory: [M, R, S, L]
+
+Page In: P | Reference Number: 5 | Evicted: M
+Result Memory: [R, S, L, P]
+
+Page In: Q | Reference Number: 6 | Evicted: R
+Result Memory: [S, L, P, Q]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [S, L, P, Q]
+
+Page In: O | Reference Number: 4 | Evicted: S
+Result Memory: [L, P, Q, O]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [L, P, Q, O]
+
+Page In: M | Reference Number: 2 | Evicted: L
+Result Memory: [P, Q, O, M]
+
+Page In: U | Reference Number: 10 | Evicted: P
+Result Memory: [Q, O, M, U]
+
+Page In: K | Reference Number: 0 | Evicted: Q
+Result Memory: [O, M, U, K]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [O, M, U, K]
+
+Page In: T | Reference Number: 9 | Evicted: O
+Result Memory: [M, U, K, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [M, U, K, T]
+
+Page In: L | Reference Number: 1 | Evicted: M
+Result Memory: [U, K, T, L]
+
+Page In: M | Reference Number: 2 | Evicted: U
+Result Memory: [K, T, L, M]
+
+Page In: N | Reference Number: 3 | Evicted: K
+Result Memory: [T, L, M, N]
+
+Page In: S | Reference Number: 8 | Evicted: T
+Result Memory: [L, M, N, S]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, M, N, S]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [L, M, N, S]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [L, M, N, S]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [L, M, N, S]
+
+Page In: R | Reference Number: 7 | Evicted: L
+Result Memory: [M, N, S, R]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [M, N, S, R]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [M, N, S, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [M, N, S, R]
+
+Page In: K | Reference Number: 0 | Evicted: M
+Result Memory: [N, S, R, K]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [N, S, R, K]
+
+Page In: U | Reference Number: 10 | Evicted: N
+Result Memory: [S, R, K, U]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, R, K, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [S, R, K, U]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, R, K, U]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, R, K, U]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, R, K, U]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, R, K, U]
+
+Page In: L | Reference Number: 1 | Evicted: S
+Result Memory: [R, K, U, L]
+
+Page In: P | Reference Number: 5 | Evicted: R
+Result Memory: [K, U, L, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [K, U, L, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [K, U, L, P]
+
+Page In: Q | Reference Number: 6 | Evicted: K
+Result Memory: [U, L, P, Q]
+
+Page In: T | Reference Number: 9 | Evicted: U
+Result Memory: [L, P, Q, T]
+
+Page In: U | Reference Number: 10 | Evicted: L
+Result Memory: [P, Q, T, U]
+
+Page In: R | Reference Number: 7 | Evicted: P
+Result Memory: [Q, T, U, R]
+
+Page In: S | Reference Number: 8 | Evicted: Q
+Result Memory: [T, U, R, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [T, U, R, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [T, U, R, S]
+
+Page In: M | Reference Number: 2 | Evicted: T
+Result Memory: [U, R, S, M]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, R, S, M]
+
+Page In: K | Reference Number: 0 | Evicted: U
+Result Memory: [R, S, M, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [R, S, M, K]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, S, M, K]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, S, M, K]
+
+Page In: L | Reference Number: 1 | Evicted: R
+Result Memory: [S, M, K, L]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, M, K, L]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, M, K, L]
+
+Page In: R | Reference Number: 7 | Evicted: S
+Result Memory: [M, K, L, R]
+
+Page In: Q | Reference Number: 6 | Evicted: M
+Result Memory: [K, L, R, Q]
+
+Page In: S | Reference Number: 8 | Evicted: K
+Result Memory: [L, R, Q, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [L, R, Q, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [L, R, Q, S]
+
+Page In: T | Reference Number: 9 | Evicted: L
+Result Memory: [R, Q, S, T]
+
+Page In: O | Reference Number: 4 | Evicted: R
+Result Memory: [Q, S, T, O]
+
+Page In: R | Reference Number: 7 | Evicted: Q
+Result Memory: [S, T, O, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [S, T, O, R]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, T, O, R]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, T, O, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [S, T, O, R]
+
+Page In: K | Reference Number: 0 | Evicted: S
+Result Memory: [T, O, R, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [T, O, R, K]
+
+Page In: L | Reference Number: 1 | Evicted: T
+Result Memory: [O, R, K, L]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [O, R, K, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [O, R, K, L]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [O, R, K, L]
+
+Page In: N | Reference Number: 3 | Evicted: O
+Result Memory: [R, K, L, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [R, K, L, N]
+
+Page In: M | Reference Number: 2 | Evicted: R
+Result Memory: [K, L, N, M]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [K, L, N, M]
+
+Page In: T | Reference Number: 9 | Evicted: K
+Result Memory: [L, N, M, T]
+
+Page In: S | Reference Number: 8 | Evicted: L
+Result Memory: [N, M, T, S]
+
+Page In: R | Reference Number: 7 | Evicted: N
+Result Memory: [M, T, S, R]
+
+Page In: Q | Reference Number: 6 | Evicted: M
+Result Memory: [T, S, R, Q]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [T, S, R, Q]
+
+Page In: L | Reference Number: 1 | Evicted: T
+Result Memory: [S, R, Q, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [S, R, Q, L]
+
+Page In: M | Reference Number: 2 | Evicted: S
+Result Memory: [R, Q, L, M]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [R, Q, L, M]
+
+Page In: T | Reference Number: 9 | Evicted: R
+Result Memory: [Q, L, M, T]
+
+Page In: U | Reference Number: 10 | Evicted: Q
+Result Memory: [L, M, T, U]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, M, T, U]
+
+Page In: K | Reference Number: 0 | Evicted: L
+Result Memory: [M, T, U, K]
+
+Page In: R | Reference Number: 7 | Evicted: M
+Result Memory: [T, U, K, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [T, U, K, R]
+
+Page In: S | Reference Number: 8 | Evicted: T
+Result Memory: [U, K, R, S]
+
+Page In: N | Reference Number: 3 | Evicted: U
+Result Memory: [K, R, S, N]
+
+Page In: O | Reference Number: 4 | Evicted: K
+Result Memory: [R, S, N, O]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [R, S, N, O]
+
+Page In: T | Reference Number: 9 | Evicted: R
+Result Memory: [S, N, O, T]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, N, O, T]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [S, N, O, T]
+
+Page In: L | Reference Number: 1 | Evicted: S
+Result Memory: [N, O, T, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [N, O, T, L]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [O, T, L, P]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [O, T, L, P]
+
+Page In: M | Reference Number: 2 | Evicted: O
+Result Memory: [T, L, P, M]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [T, L, P, M]
+
+Page In: Q | Reference Number: 6 | Evicted: T
+Result Memory: [L, P, M, Q]
+
+Page In: S | Reference Number: 8 | Evicted: L
+Result Memory: [P, M, Q, S]
+
+Page In: R | Reference Number: 7 | Evicted: P
+Result Memory: [M, Q, S, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [M, Q, S, R]
+
+Page In: L | Reference Number: 1 | Evicted: M
+Result Memory: [Q, S, R, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [Q, S, R, L]
+
+Page In: K | Reference Number: 0 | Evicted: Q
+Result Memory: [S, R, L, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, R, L, K]
+
+Page In: U | Reference Number: 10 | Evicted: S
+Result Memory: [R, L, K, U]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [R, L, K, U]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [R, L, K, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [R, L, K, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [R, L, K, U]
+
+Page In: P | Reference Number: 5 | Evicted: R
+Result Memory: [L, K, U, P]
+
+Page In: O | Reference Number: 4 | Evicted: L
+Result Memory: [K, U, P, O]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [K, U, P, O]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, U, P, O]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, U, P, O]
+
+Page In: L | Reference Number: 1 | Evicted: K
+Result Memory: [U, P, O, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [U, P, O, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [U, P, O, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [U, P, O, L]
+
+Page In: M | Reference Number: 2 | Evicted: U
+Result Memory: [P, O, L, M]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [P, O, L, M]
+
+Page In: K | Reference Number: 0 | Evicted: P
+Result Memory: [O, L, M, K]
+
+Page In: U | Reference Number: 10 | Evicted: O
+Result Memory: [L, M, K, U]
+
+Page In: P | Reference Number: 5 | Evicted: L
+Result Memory: [M, K, U, P]
+
+Page In: Q | Reference Number: 6 | Evicted: M
+Result Memory: [K, U, P, Q]
+
+Page In: L | Reference Number: 1 | Evicted: K
+Result Memory: [U, P, Q, L]
+
+Page In: M | Reference Number: 2 | Evicted: U
+Result Memory: [P, Q, L, M]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [P, Q, L, M]
+
+Page In: K | Reference Number: 0 | Evicted: P
+Result Memory: [Q, L, M, K]
+
+Page In: R | Reference Number: 7 | Evicted: Q
+Result Memory: [L, M, K, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [L, M, K, R]
+
+Page In: U | Reference Number: 10 | Evicted: L
+Result Memory: [M, K, R, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [M, K, R, U]
+
+Page In: O | Reference Number: 4 | Evicted: M
+Result Memory: [K, R, U, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [K, R, U, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [K, R, U, O]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, R, U, O]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, R, U, O]
+
+Page In: P | Reference Number: 5 | Evicted: K
+Result Memory: [R, U, O, P]
+
+Page In: Q | Reference Number: 6 | Evicted: R
+Result Memory: [U, O, P, Q]
+
+Page In: L | Reference Number: 1 | Evicted: U
+Result Memory: [O, P, Q, L]
+
+Page In: K | Reference Number: 0 | Evicted: O
+Result Memory: [P, Q, L, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [P, Q, L, K]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [P, Q, L, K]
+
+Page In: N | Reference Number: 3 | Evicted: P
+Result Memory: [Q, L, K, N]
+
+Page In: M | Reference Number: 2 | Evicted: Q
+Result Memory: [L, K, N, M]
+
+Page In: S | Reference Number: 8 | Evicted: L
+Result Memory: [K, N, M, S]
+
+Page In: O | Reference Number: 4 | Evicted: K
+Result Memory: [N, M, S, O]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, M, S, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [N, M, S, O]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [M, S, O, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [M, S, O, P]
+
+Page In: T | Reference Number: 9 | Evicted: M
+Result Memory: [S, O, P, T]
+
+Page In: L | Reference Number: 1 | Evicted: S
+Result Memory: [O, P, T, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [O, P, T, L]
+
+Page In: K | Reference Number: 0 | Evicted: O
+Result Memory: [P, T, L, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [P, T, L, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [P, T, L, K]
+
+Page In: N | Reference Number: 3 | Evicted: P
+Result Memory: [T, L, K, N]
+
+Page In: Q | Reference Number: 6 | Evicted: T
+Result Memory: [L, K, N, Q]
+
+Page In: R | Reference Number: 7 | Evicted: L
+Result Memory: [K, N, Q, R]
+
+Page In: U | Reference Number: 10 | Evicted: K
+Result Memory: [N, Q, R, U]
+
+Page In: T | Reference Number: 9 | Evicted: N
+Result Memory: [Q, R, U, T]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [Q, R, U, T]
+
+Page In: M | Reference Number: 2 | Evicted: Q
+Result Memory: [R, U, T, M]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [R, U, T, M]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, U, T, M]
+
+Page In: S | Reference Number: 8 | Evicted: R
+Result Memory: [U, T, M, S]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, T, M, S]
+
+Page In: O | Reference Number: 4 | Evicted: U
+Result Memory: [T, M, S, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [T, M, S, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [T, M, S, O]
+
+Page In: N | Reference Number: 3 | Evicted: T
+Result Memory: [M, S, O, N]
+
+Page In: U | Reference Number: 10 | Evicted: M
+Result Memory: [S, O, N, U]
+
+Page In: K | Reference Number: 0 | Evicted: S
+Result Memory: [O, N, U, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [O, N, U, K]
+
+Page In: L | Reference Number: 1 | Evicted: O
+Result Memory: [N, U, K, L]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [N, U, K, L]
+
+Page In: R | Reference Number: 7 | Evicted: N
+Result Memory: [U, K, L, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [U, K, L, R]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [U, K, L, R]
+
+Page In: Q | Reference Number: 6 | Evicted: U
+Result Memory: [K, L, R, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [K, L, R, Q]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [K, L, R, Q]
+
+Page In: S | Reference Number: 8 | Evicted: K
+Result Memory: [L, R, Q, S]
+
+Page In: M | Reference Number: 2 | Evicted: L
+Result Memory: [R, Q, S, M]
+
+Page In: L | Reference Number: 1 | Evicted: R
+Result Memory: [Q, S, M, L]
+
+Page In: T | Reference Number: 9 | Evicted: Q
+Result Memory: [S, M, L, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [S, M, L, T]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, M, L, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [S, M, L, T]
+
+Page In: Q | Reference Number: 6 | Evicted: S
+Result Memory: [M, L, T, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [M, L, T, Q]
+
+Page In: K | Reference Number: 0 | Evicted: M
+Result Memory: [L, T, Q, K]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [L, T, Q, K]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [L, T, Q, K]
+
+Page In: P | Reference Number: 5 | Evicted: L
+Result Memory: [T, Q, K, P]
+
+Page In: O | Reference Number: 4 | Evicted: T
+Result Memory: [Q, K, P, O]
+
+Page In: U | Reference Number: 10 | Evicted: Q
+Result Memory: [K, P, O, U]
+
+Page In: T | Reference Number: 9 | Evicted: K
+Result Memory: [P, O, U, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [P, O, U, T]
+
+Page In: S | Reference Number: 8 | Evicted: P
+Result Memory: [O, U, T, S]
+
+Page In: R | Reference Number: 7 | Evicted: O
+Result Memory: [U, T, S, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [U, T, S, R]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [U, T, S, R]
+
+Page In: N | Reference Number: 3 | Evicted: U
+Result Memory: [T, S, R, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [T, S, R, N]
+
+Page In: O | Reference Number: 4 | Evicted: T
+Result Memory: [S, R, N, O]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [S, R, N, O]
+
+Page In: T | Reference Number: 9 | Evicted: S
+Result Memory: [R, N, O, T]
+
+Page In: U | Reference Number: 10 | Evicted: R
+Result Memory: [N, O, T, U]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [N, O, T, U]
+
+Page In: R | Reference Number: 7 | Evicted: N
+Result Memory: [O, T, U, R]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [O, T, U, R]
+
+Page In: S | Reference Number: 8 | Evicted: O
+Result Memory: [T, U, R, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [T, U, R, S]
+
+Page In: O | Reference Number: 4 | Evicted: T
+Result Memory: [U, R, S, O]
+
+Page In: Q | Reference Number: 6 | Evicted: U
+Result Memory: [R, S, O, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [R, S, O, Q]
+
+Page In: K | Reference Number: 0 | Evicted: R
+Result Memory: [S, O, Q, K]
+
+Page In: L | Reference Number: 1 | Evicted: S
+Result Memory: [O, Q, K, L]
+
+Page In: P | Reference Number: 5 | Evicted: O
+Result Memory: [Q, K, L, P]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [Q, K, L, P]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [Q, K, L, P]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, K, L, P]
+
+Page In: T | Reference Number: 9 | Evicted: Q
+Result Memory: [K, L, P, T]
+
+Page In: U | Reference Number: 10 | Evicted: K
+Result Memory: [L, P, T, U]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [L, P, T, U]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [L, P, T, U]
+
+Page In: Q | Reference Number: 6 | Evicted: L
+Result Memory: [P, T, U, Q]
+
+Page In: L | Reference Number: 1 | Evicted: P
+Result Memory: [T, U, Q, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [T, U, Q, L]
+
+Page In: K | Reference Number: 0 | Evicted: T
+Result Memory: [U, Q, L, K]
+
+Page In: N | Reference Number: 3 | Evicted: U
+Result Memory: [Q, L, K, N]
+
+Page In: M | Reference Number: 2 | Evicted: Q
+Result Memory: [L, K, N, M]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [L, K, N, M]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [L, K, N, M]
+
+Page In: P | Reference Number: 5 | Evicted: L
+Result Memory: [K, N, M, P]
+
+Page In: R | Reference Number: 7 | Evicted: K
+Result Memory: [N, M, P, R]
+
+Page In: S | Reference Number: 8 | Evicted: N
+Result Memory: [M, P, R, S]
+
+Page In: T | Reference Number: 9 | Evicted: M
+Result Memory: [P, R, S, T]
+
+Page In: N | Reference Number: 3 | Evicted: P
+Result Memory: [R, S, T, N]
+
+Page In: Q | Reference Number: 6 | Evicted: R
+Result Memory: [S, T, N, Q]
+
+Page In: P | Reference Number: 5 | Evicted: S
+Result Memory: [T, N, Q, P]
+
+Page In: S | Reference Number: 8 | Evicted: T
+Result Memory: [N, Q, P, S]
+
+Page In: R | Reference Number: 7 | Evicted: N
+Result Memory: [Q, P, S, R]
+
+Page In: O | Reference Number: 4 | Evicted: Q
+Result Memory: [P, S, R, O]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [P, S, R, O]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [P, S, R, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [P, S, R, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [P, S, R, O]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [P, S, R, O]
+
+Page In: K | Reference Number: 0 | Evicted: P
+Result Memory: [S, R, O, K]
+
+Page In: U | Reference Number: 10 | Evicted: S
+Result Memory: [R, O, K, U]
+
+Page In: T | Reference Number: 9 | Evicted: R
+Result Memory: [O, K, U, T]
+
+Page In: N | Reference Number: 3 | Evicted: O
+Result Memory: [K, U, T, N]
+
+Page In: M | Reference Number: 2 | Evicted: K
+Result Memory: [U, T, N, M]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [U, T, N, M]
+
+Page In: L | Reference Number: 1 | Evicted: U
+Result Memory: [T, N, M, L]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [T, N, M, L]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [T, N, M, L]
+
+Page In: O | Reference Number: 4 | Evicted: T
+Result Memory: [N, M, L, O]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, M, L, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [N, M, L, O]
+
+Page In: T | Reference Number: 9 | Evicted: N
+Result Memory: [M, L, O, T]
+
+Page In: U | Reference Number: 10 | Evicted: M
+Result Memory: [L, O, T, U]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [L, O, T, U]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [L, O, T, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [L, O, T, U]
+
+Page In: Q | Reference Number: 6 | Evicted: L
+Result Memory: [O, T, U, Q]
+
+Page In: M | Reference Number: 2 | Evicted: O
+Result Memory: [T, U, Q, M]
+
+Page In: O | Reference Number: 4 | Evicted: T
+Result Memory: [U, Q, M, O]
+
+Page In: S | Reference Number: 8 | Evicted: U
+Result Memory: [Q, M, O, S]
+
+Page In: U | Reference Number: 10 | Evicted: Q
+Result Memory: [M, O, S, U]
+
+Page In: K | Reference Number: 0 | Evicted: M
+Result Memory: [O, S, U, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [O, S, U, K]
+
+Page In: M | Reference Number: 2 | Evicted: O
+Result Memory: [S, U, K, M]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [S, U, K, M]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, U, K, M]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [S, U, K, M]
+
+Page In: T | Reference Number: 9 | Evicted: S
+Result Memory: [U, K, M, T]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, K, M, T]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [U, K, M, T]
+
+Page In: Q | Reference Number: 6 | Evicted: U
+Result Memory: [K, M, T, Q]
+
+Page In: P | Reference Number: 5 | Evicted: K
+Result Memory: [M, T, Q, P]
+
+Page In: L | Reference Number: 1 | Evicted: M
+Result Memory: [T, Q, P, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [T, Q, P, L]
+
+Page In: N | Reference Number: 3 | Evicted: T
+Result Memory: [Q, P, L, N]
+
+Page In: U | Reference Number: 10 | Evicted: Q
+Result Memory: [P, L, N, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [P, L, N, U]
+
+Page In: R | Reference Number: 7 | Evicted: P
+Result Memory: [L, N, U, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [L, N, U, R]
+
+Page In: K | Reference Number: 0 | Evicted: L
+Result Memory: [N, U, R, K]
+
+Page In: L | Reference Number: 1 | Evicted: N
+Result Memory: [U, R, K, L]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [U, R, K, L]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [U, R, K, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [U, R, K, L]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [U, R, K, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [U, R, K, L]
+
+Page In: S | Reference Number: 8 | Evicted: U
+Result Memory: [R, K, L, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, K, L, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, K, L, S]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [R, K, L, S]
+
+Page In: M | Reference Number: 2 | Evicted: R
+Result Memory: [K, L, S, M]
+
+Page In: N | Reference Number: 3 | Evicted: K
+Result Memory: [L, S, M, N]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [L, S, M, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [L, S, M, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [L, S, M, N]
+
+Page In: P | Reference Number: 5 | Evicted: L
+Result Memory: [S, M, N, P]
+
+Page In: T | Reference Number: 9 | Evicted: S
+Result Memory: [M, N, P, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [M, N, P, T]
+
+Page In: S | Reference Number: 8 | Evicted: M
+Result Memory: [N, P, T, S]
+
+Page In: O | Reference Number: 4 | Evicted: N
+Result Memory: [P, T, S, O]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [P, T, S, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [P, T, S, O]
+
+Page In: Q | Reference Number: 6 | Evicted: P
+Result Memory: [T, S, O, Q]
+-----End FIFO-----
+-----Start LRU-----
+
+Page In: M | Reference Number: 1 | Evicted:  
+Result Memory: [M]
+
+Page In: L | Reference Number: 2 | Evicted:  
+Result Memory: [M, L]
+
+Page In: K | Reference Number: 3 | Evicted:  
+Result Memory: [M, L, K]
+
+Page In: N | Reference Number: 4 | Evicted:  
+Result Memory: [M, L, K, N]
+
+Page In: N | Reference Number: 5 | Evicted:  
+Result Memory: [M, L, K, N]
+
+Page In: S | Reference Number: 6 | Evicted: M
+Result Memory: [L, K, N, S]
+
+Page In: T | Reference Number: 7 | Evicted: L
+Result Memory: [K, N, S, T]
+
+Page In: U | Reference Number: 8 | Evicted: K
+Result Memory: [N, S, T, U]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [N, S, U, T]
+
+Page In: L | Reference Number: 10 | Evicted: N
+Result Memory: [S, U, T, L]
+
+Page In: M | Reference Number: 11 | Evicted: S
+Result Memory: [U, T, L, M]
+
+Page In: N | Reference Number: 12 | Evicted: U
+Result Memory: [T, L, M, N]
+
+Page In: O | Reference Number: 13 | Evicted: T
+Result Memory: [L, M, N, O]
+
+Page In: R | Reference Number: 14 | Evicted: L
+Result Memory: [M, N, O, R]
+
+Page In: Q | Reference Number: 15 | Evicted: M
+Result Memory: [N, O, R, Q]
+
+Page In: R | Reference Number: 16 | Evicted:  
+Result Memory: [N, O, Q, R]
+
+Page In: Q | Reference Number: 17 | Evicted:  
+Result Memory: [N, O, R, Q]
+
+Page In: R | Reference Number: 18 | Evicted:  
+Result Memory: [N, O, Q, R]
+
+Page In: R | Reference Number: 19 | Evicted:  
+Result Memory: [N, O, Q, R]
+
+Page In: Q | Reference Number: 20 | Evicted:  
+Result Memory: [N, O, R, Q]
+
+Page In: P | Reference Number: 21 | Evicted: N
+Result Memory: [O, R, Q, P]
+
+Page In: O | Reference Number: 22 | Evicted:  
+Result Memory: [R, Q, P, O]
+
+Page In: P | Reference Number: 23 | Evicted:  
+Result Memory: [R, Q, O, P]
+
+Page In: R | Reference Number: 24 | Evicted:  
+Result Memory: [Q, O, P, R]
+
+Page In: K | Reference Number: 25 | Evicted: Q
+Result Memory: [O, P, R, K]
+
+Page In: U | Reference Number: 26 | Evicted: O
+Result Memory: [P, R, K, U]
+
+Page In: P | Reference Number: 27 | Evicted:  
+Result Memory: [R, K, U, P]
+
+Page In: P | Reference Number: 28 | Evicted:  
+Result Memory: [R, K, U, P]
+
+Page In: Q | Reference Number: 29 | Evicted: R
+Result Memory: [K, U, P, Q]
+
+Page In: M | Reference Number: 30 | Evicted: K
+Result Memory: [U, P, Q, M]
+
+Page In: R | Reference Number: 31 | Evicted: U
+Result Memory: [P, Q, M, R]
+
+Page In: L | Reference Number: 32 | Evicted: P
+Result Memory: [Q, M, R, L]
+
+Page In: P | Reference Number: 33 | Evicted: Q
+Result Memory: [M, R, L, P]
+
+Page In: O | Reference Number: 34 | Evicted: M
+Result Memory: [R, L, P, O]
+
+Page In: T | Reference Number: 35 | Evicted: R
+Result Memory: [L, P, O, T]
+
+Page In: S | Reference Number: 36 | Evicted: L
+Result Memory: [P, O, T, S]
+
+Page In: R | Reference Number: 37 | Evicted: P
+Result Memory: [O, T, S, R]
+
+Page In: S | Reference Number: 38 | Evicted:  
+Result Memory: [O, T, R, S]
+
+Page In: S | Reference Number: 39 | Evicted:  
+Result Memory: [O, T, R, S]
+
+Page In: M | Reference Number: 40 | Evicted: O
+Result Memory: [T, R, S, M]
+
+Page In: Q | Reference Number: 41 | Evicted: T
+Result Memory: [R, S, M, Q]
+
+Page In: R | Reference Number: 42 | Evicted:  
+Result Memory: [S, M, Q, R]
+
+Page In: Q | Reference Number: 43 | Evicted:  
+Result Memory: [S, M, R, Q]
+
+Page In: R | Reference Number: 44 | Evicted:  
+Result Memory: [S, M, Q, R]
+
+Page In: R | Reference Number: 45 | Evicted:  
+Result Memory: [S, M, Q, R]
+
+Page In: N | Reference Number: 46 | Evicted: S
+Result Memory: [M, Q, R, N]
+
+Page In: Q | Reference Number: 47 | Evicted:  
+Result Memory: [M, R, N, Q]
+
+Page In: R | Reference Number: 48 | Evicted:  
+Result Memory: [M, N, Q, R]
+
+Page In: Q | Reference Number: 49 | Evicted:  
+Result Memory: [M, N, R, Q]
+
+Page In: Q | Reference Number: 50 | Evicted:  
+Result Memory: [M, N, R, Q]
+
+Page In: N | Reference Number: 51 | Evicted:  
+Result Memory: [M, R, Q, N]
+
+Page In: O | Reference Number: 52 | Evicted: M
+Result Memory: [R, Q, N, O]
+
+Page In: N | Reference Number: 53 | Evicted:  
+Result Memory: [R, Q, O, N]
+
+Page In: R | Reference Number: 54 | Evicted:  
+Result Memory: [Q, O, N, R]
+
+Page In: K | Reference Number: 55 | Evicted: Q
+Result Memory: [O, N, R, K]
+
+Page In: M | Reference Number: 56 | Evicted: O
+Result Memory: [N, R, K, M]
+
+Page In: L | Reference Number: 57 | Evicted: N
+Result Memory: [R, K, M, L]
+
+Page In: K | Reference Number: 58 | Evicted:  
+Result Memory: [R, M, L, K]
+
+Page In: U | Reference Number: 59 | Evicted: R
+Result Memory: [M, L, K, U]
+
+Page In: T | Reference Number: 60 | Evicted: M
+Result Memory: [L, K, U, T]
+
+Page In: S | Reference Number: 61 | Evicted: L
+Result Memory: [K, U, T, S]
+
+Page In: S | Reference Number: 62 | Evicted:  
+Result Memory: [K, U, T, S]
+
+Page In: S | Reference Number: 63 | Evicted:  
+Result Memory: [K, U, T, S]
+
+Page In: O | Reference Number: 64 | Evicted: K
+Result Memory: [U, T, S, O]
+
+Page In: O | Reference Number: 65 | Evicted:  
+Result Memory: [U, T, S, O]
+
+Page In: P | Reference Number: 66 | Evicted: U
+Result Memory: [T, S, O, P]
+
+Page In: M | Reference Number: 67 | Evicted: T
+Result Memory: [S, O, P, M]
+
+Page In: L | Reference Number: 68 | Evicted: S
+Result Memory: [O, P, M, L]
+
+Page In: M | Reference Number: 69 | Evicted:  
+Result Memory: [O, P, L, M]
+
+Page In: M | Reference Number: 70 | Evicted:  
+Result Memory: [O, P, L, M]
+
+Page In: P | Reference Number: 71 | Evicted:  
+Result Memory: [O, L, M, P]
+
+Page In: P | Reference Number: 72 | Evicted:  
+Result Memory: [O, L, M, P]
+
+Page In: R | Reference Number: 73 | Evicted: O
+Result Memory: [L, M, P, R]
+
+Page In: R | Reference Number: 74 | Evicted:  
+Result Memory: [L, M, P, R]
+
+Page In: R | Reference Number: 75 | Evicted:  
+Result Memory: [L, M, P, R]
+
+Page In: Q | Reference Number: 76 | Evicted: L
+Result Memory: [M, P, R, Q]
+
+Page In: Q | Reference Number: 77 | Evicted:  
+Result Memory: [M, P, R, Q]
+
+Page In: S | Reference Number: 78 | Evicted: M
+Result Memory: [P, R, Q, S]
+
+Page In: N | Reference Number: 79 | Evicted: P
+Result Memory: [R, Q, S, N]
+
+Page In: M | Reference Number: 80 | Evicted: R
+Result Memory: [Q, S, N, M]
+
+Page In: S | Reference Number: 81 | Evicted:  
+Result Memory: [Q, N, M, S]
+
+Page In: U | Reference Number: 82 | Evicted: Q
+Result Memory: [N, M, S, U]
+
+Page In: O | Reference Number: 83 | Evicted: N
+Result Memory: [M, S, U, O]
+
+Page In: N | Reference Number: 84 | Evicted: M
+Result Memory: [S, U, O, N]
+
+Page In: O | Reference Number: 85 | Evicted:  
+Result Memory: [S, U, N, O]
+
+Page In: O | Reference Number: 86 | Evicted:  
+Result Memory: [S, U, N, O]
+
+Page In: N | Reference Number: 87 | Evicted:  
+Result Memory: [S, U, O, N]
+
+Page In: M | Reference Number: 88 | Evicted: S
+Result Memory: [U, O, N, M]
+
+Page In: R | Reference Number: 89 | Evicted: U
+Result Memory: [O, N, M, R]
+
+Page In: T | Reference Number: 90 | Evicted: O
+Result Memory: [N, M, R, T]
+
+Page In: L | Reference Number: 91 | Evicted: N
+Result Memory: [M, R, T, L]
+
+Page In: L | Reference Number: 92 | Evicted:  
+Result Memory: [M, R, T, L]
+
+Page In: L | Reference Number: 93 | Evicted:  
+Result Memory: [M, R, T, L]
+
+Page In: O | Reference Number: 94 | Evicted: M
+Result Memory: [R, T, L, O]
+
+Page In: P | Reference Number: 95 | Evicted: R
+Result Memory: [T, L, O, P]
+
+Page In: P | Reference Number: 96 | Evicted:  
+Result Memory: [T, L, O, P]
+
+Page In: K | Reference Number: 97 | Evicted: T
+Result Memory: [L, O, P, K]
+
+Page In: M | Reference Number: 98 | Evicted: L
+Result Memory: [O, P, K, M]
+
+Page In: M | Reference Number: 99 | Evicted:  
+Result Memory: [O, P, K, M]
+
+Page In: M | Reference Number: 100 | Evicted:  
+Result Memory: [O, P, K, M]
+
+Page In: S | Reference Number: 1 | Evicted: O
+Result Memory: [P, K, M, S]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [P, K, S, M]
+
+Page In: N | Reference Number: 3 | Evicted: P
+Result Memory: [K, S, M, N]
+
+Page In: T | Reference Number: 4 | Evicted: K
+Result Memory: [S, M, N, T]
+
+Page In: T | Reference Number: 5 | Evicted:  
+Result Memory: [S, M, N, T]
+
+Page In: S | Reference Number: 6 | Evicted:  
+Result Memory: [M, N, T, S]
+
+Page In: T | Reference Number: 7 | Evicted:  
+Result Memory: [M, N, S, T]
+
+Page In: T | Reference Number: 8 | Evicted:  
+Result Memory: [M, N, S, T]
+
+Page In: U | Reference Number: 9 | Evicted: M
+Result Memory: [N, S, T, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [N, S, T, U]
+
+Page In: T | Reference Number: 11 | Evicted:  
+Result Memory: [N, S, U, T]
+
+Page In: N | Reference Number: 12 | Evicted:  
+Result Memory: [S, U, T, N]
+
+Page In: O | Reference Number: 13 | Evicted: S
+Result Memory: [U, T, N, O]
+
+Page In: P | Reference Number: 14 | Evicted: U
+Result Memory: [T, N, O, P]
+
+Page In: P | Reference Number: 15 | Evicted:  
+Result Memory: [T, N, O, P]
+
+Page In: P | Reference Number: 16 | Evicted:  
+Result Memory: [T, N, O, P]
+
+Page In: U | Reference Number: 17 | Evicted: T
+Result Memory: [N, O, P, U]
+
+Page In: U | Reference Number: 18 | Evicted:  
+Result Memory: [N, O, P, U]
+
+Page In: T | Reference Number: 19 | Evicted: N
+Result Memory: [O, P, U, T]
+
+Page In: S | Reference Number: 20 | Evicted: O
+Result Memory: [P, U, T, S]
+
+Page In: N | Reference Number: 21 | Evicted: P
+Result Memory: [U, T, S, N]
+
+Page In: O | Reference Number: 22 | Evicted: U
+Result Memory: [T, S, N, O]
+
+Page In: R | Reference Number: 23 | Evicted: T
+Result Memory: [S, N, O, R]
+
+Page In: U | Reference Number: 24 | Evicted: S
+Result Memory: [N, O, R, U]
+
+Page In: T | Reference Number: 25 | Evicted: N
+Result Memory: [O, R, U, T]
+
+Page In: T | Reference Number: 26 | Evicted:  
+Result Memory: [O, R, U, T]
+
+Page In: S | Reference Number: 27 | Evicted: O
+Result Memory: [R, U, T, S]
+
+Page In: R | Reference Number: 28 | Evicted:  
+Result Memory: [U, T, S, R]
+
+Page In: Q | Reference Number: 29 | Evicted: U
+Result Memory: [T, S, R, Q]
+
+Page In: Q | Reference Number: 30 | Evicted:  
+Result Memory: [T, S, R, Q]
+
+Page In: N | Reference Number: 31 | Evicted: T
+Result Memory: [S, R, Q, N]
+
+Page In: N | Reference Number: 32 | Evicted:  
+Result Memory: [S, R, Q, N]
+
+Page In: O | Reference Number: 33 | Evicted: S
+Result Memory: [R, Q, N, O]
+
+Page In: L | Reference Number: 34 | Evicted: R
+Result Memory: [Q, N, O, L]
+
+Page In: N | Reference Number: 35 | Evicted:  
+Result Memory: [Q, O, L, N]
+
+Page In: U | Reference Number: 36 | Evicted: Q
+Result Memory: [O, L, N, U]
+
+Page In: U | Reference Number: 37 | Evicted:  
+Result Memory: [O, L, N, U]
+
+Page In: U | Reference Number: 38 | Evicted:  
+Result Memory: [O, L, N, U]
+
+Page In: U | Reference Number: 39 | Evicted:  
+Result Memory: [O, L, N, U]
+
+Page In: T | Reference Number: 40 | Evicted: O
+Result Memory: [L, N, U, T]
+
+Page In: O | Reference Number: 41 | Evicted: L
+Result Memory: [N, U, T, O]
+
+Page In: N | Reference Number: 42 | Evicted:  
+Result Memory: [U, T, O, N]
+
+Page In: N | Reference Number: 43 | Evicted:  
+Result Memory: [U, T, O, N]
+
+Page In: M | Reference Number: 44 | Evicted: U
+Result Memory: [T, O, N, M]
+
+Page In: L | Reference Number: 45 | Evicted: T
+Result Memory: [O, N, M, L]
+
+Page In: P | Reference Number: 46 | Evicted: O
+Result Memory: [N, M, L, P]
+
+Page In: O | Reference Number: 47 | Evicted: N
+Result Memory: [M, L, P, O]
+
+Page In: O | Reference Number: 48 | Evicted:  
+Result Memory: [M, L, P, O]
+
+Page In: O | Reference Number: 49 | Evicted:  
+Result Memory: [M, L, P, O]
+
+Page In: S | Reference Number: 50 | Evicted: M
+Result Memory: [L, P, O, S]
+
+Page In: S | Reference Number: 51 | Evicted:  
+Result Memory: [L, P, O, S]
+
+Page In: S | Reference Number: 52 | Evicted:  
+Result Memory: [L, P, O, S]
+
+Page In: T | Reference Number: 53 | Evicted: L
+Result Memory: [P, O, S, T]
+
+Page In: S | Reference Number: 54 | Evicted:  
+Result Memory: [P, O, T, S]
+
+Page In: M | Reference Number: 55 | Evicted: P
+Result Memory: [O, T, S, M]
+
+Page In: N | Reference Number: 56 | Evicted: O
+Result Memory: [T, S, M, N]
+
+Page In: M | Reference Number: 57 | Evicted:  
+Result Memory: [T, S, N, M]
+
+Page In: L | Reference Number: 58 | Evicted: T
+Result Memory: [S, N, M, L]
+
+Page In: L | Reference Number: 59 | Evicted:  
+Result Memory: [S, N, M, L]
+
+Page In: M | Reference Number: 60 | Evicted:  
+Result Memory: [S, N, L, M]
+
+Page In: L | Reference Number: 61 | Evicted:  
+Result Memory: [S, N, M, L]
+
+Page In: R | Reference Number: 62 | Evicted: S
+Result Memory: [N, M, L, R]
+
+Page In: N | Reference Number: 63 | Evicted:  
+Result Memory: [M, L, R, N]
+
+Page In: N | Reference Number: 64 | Evicted:  
+Result Memory: [M, L, R, N]
+
+Page In: K | Reference Number: 65 | Evicted: M
+Result Memory: [L, R, N, K]
+
+Page In: Q | Reference Number: 66 | Evicted: L
+Result Memory: [R, N, K, Q]
+
+Page In: R | Reference Number: 67 | Evicted:  
+Result Memory: [N, K, Q, R]
+
+Page In: R | Reference Number: 68 | Evicted:  
+Result Memory: [N, K, Q, R]
+
+Page In: Q | Reference Number: 69 | Evicted:  
+Result Memory: [N, K, R, Q]
+
+Page In: P | Reference Number: 70 | Evicted: N
+Result Memory: [K, R, Q, P]
+
+Page In: L | Reference Number: 71 | Evicted: K
+Result Memory: [R, Q, P, L]
+
+Page In: T | Reference Number: 72 | Evicted: R
+Result Memory: [Q, P, L, T]
+
+Page In: T | Reference Number: 73 | Evicted:  
+Result Memory: [Q, P, L, T]
+
+Page In: M | Reference Number: 74 | Evicted: Q
+Result Memory: [P, L, T, M]
+
+Page In: L | Reference Number: 75 | Evicted:  
+Result Memory: [P, T, M, L]
+
+Page In: R | Reference Number: 76 | Evicted: P
+Result Memory: [T, M, L, R]
+
+Page In: Q | Reference Number: 77 | Evicted: T
+Result Memory: [M, L, R, Q]
+
+Page In: L | Reference Number: 78 | Evicted:  
+Result Memory: [M, R, Q, L]
+
+Page In: L | Reference Number: 79 | Evicted:  
+Result Memory: [M, R, Q, L]
+
+Page In: P | Reference Number: 80 | Evicted: M
+Result Memory: [R, Q, L, P]
+
+Page In: Q | Reference Number: 81 | Evicted:  
+Result Memory: [R, L, P, Q]
+
+Page In: K | Reference Number: 82 | Evicted: R
+Result Memory: [L, P, Q, K]
+
+Page In: P | Reference Number: 83 | Evicted:  
+Result Memory: [L, Q, K, P]
+
+Page In: U | Reference Number: 84 | Evicted: L
+Result Memory: [Q, K, P, U]
+
+Page In: N | Reference Number: 85 | Evicted: Q
+Result Memory: [K, P, U, N]
+
+Page In: Q | Reference Number: 86 | Evicted: K
+Result Memory: [P, U, N, Q]
+
+Page In: R | Reference Number: 87 | Evicted: P
+Result Memory: [U, N, Q, R]
+
+Page In: S | Reference Number: 88 | Evicted: U
+Result Memory: [N, Q, R, S]
+
+Page In: T | Reference Number: 89 | Evicted: N
+Result Memory: [Q, R, S, T]
+
+Page In: U | Reference Number: 90 | Evicted: Q
+Result Memory: [R, S, T, U]
+
+Page In: U | Reference Number: 91 | Evicted:  
+Result Memory: [R, S, T, U]
+
+Page In: O | Reference Number: 92 | Evicted: R
+Result Memory: [S, T, U, O]
+
+Page In: P | Reference Number: 93 | Evicted: S
+Result Memory: [T, U, O, P]
+
+Page In: Q | Reference Number: 94 | Evicted: T
+Result Memory: [U, O, P, Q]
+
+Page In: K | Reference Number: 95 | Evicted: U
+Result Memory: [O, P, Q, K]
+
+Page In: Q | Reference Number: 96 | Evicted:  
+Result Memory: [O, P, K, Q]
+
+Page In: M | Reference Number: 97 | Evicted: O
+Result Memory: [P, K, Q, M]
+
+Page In: L | Reference Number: 98 | Evicted: P
+Result Memory: [K, Q, M, L]
+
+Page In: M | Reference Number: 99 | Evicted:  
+Result Memory: [K, Q, L, M]
+
+Page In: O | Reference Number: 100 | Evicted: K
+Result Memory: [Q, L, M, O]
+
+Page In: Q | Reference Number: 1 | Evicted:  
+Result Memory: [L, M, O, Q]
+
+Page In: K | Reference Number: 2 | Evicted: L
+Result Memory: [M, O, Q, K]
+
+Page In: U | Reference Number: 3 | Evicted: M
+Result Memory: [O, Q, K, U]
+
+Page In: P | Reference Number: 4 | Evicted: O
+Result Memory: [Q, K, U, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [Q, K, U, P]
+
+Page In: R | Reference Number: 6 | Evicted: Q
+Result Memory: [K, U, P, R]
+
+Page In: Q | Reference Number: 7 | Evicted: K
+Result Memory: [U, P, R, Q]
+
+Page In: Q | Reference Number: 8 | Evicted:  
+Result Memory: [U, P, R, Q]
+
+Page In: P | Reference Number: 9 | Evicted:  
+Result Memory: [U, R, Q, P]
+
+Page In: K | Reference Number: 10 | Evicted: U
+Result Memory: [R, Q, P, K]
+
+Page In: R | Reference Number: 11 | Evicted:  
+Result Memory: [Q, P, K, R]
+
+Page In: K | Reference Number: 12 | Evicted:  
+Result Memory: [Q, P, R, K]
+
+Page In: U | Reference Number: 13 | Evicted: Q
+Result Memory: [P, R, K, U]
+
+Page In: T | Reference Number: 14 | Evicted: P
+Result Memory: [R, K, U, T]
+
+Page In: U | Reference Number: 15 | Evicted:  
+Result Memory: [R, K, T, U]
+
+Page In: K | Reference Number: 16 | Evicted:  
+Result Memory: [R, T, U, K]
+
+Page In: M | Reference Number: 17 | Evicted: R
+Result Memory: [T, U, K, M]
+
+Page In: N | Reference Number: 18 | Evicted: T
+Result Memory: [U, K, M, N]
+
+Page In: P | Reference Number: 19 | Evicted: U
+Result Memory: [K, M, N, P]
+
+Page In: Q | Reference Number: 20 | Evicted: K
+Result Memory: [M, N, P, Q]
+
+Page In: P | Reference Number: 21 | Evicted:  
+Result Memory: [M, N, Q, P]
+
+Page In: L | Reference Number: 22 | Evicted: M
+Result Memory: [N, Q, P, L]
+
+Page In: L | Reference Number: 23 | Evicted:  
+Result Memory: [N, Q, P, L]
+
+Page In: K | Reference Number: 24 | Evicted: N
+Result Memory: [Q, P, L, K]
+
+Page In: N | Reference Number: 25 | Evicted: Q
+Result Memory: [P, L, K, N]
+
+Page In: N | Reference Number: 26 | Evicted:  
+Result Memory: [P, L, K, N]
+
+Page In: Q | Reference Number: 27 | Evicted: P
+Result Memory: [L, K, N, Q]
+
+Page In: Q | Reference Number: 28 | Evicted:  
+Result Memory: [L, K, N, Q]
+
+Page In: Q | Reference Number: 29 | Evicted:  
+Result Memory: [L, K, N, Q]
+
+Page In: N | Reference Number: 30 | Evicted:  
+Result Memory: [L, K, Q, N]
+
+Page In: Q | Reference Number: 31 | Evicted:  
+Result Memory: [L, K, N, Q]
+
+Page In: P | Reference Number: 32 | Evicted: L
+Result Memory: [K, N, Q, P]
+
+Page In: K | Reference Number: 33 | Evicted:  
+Result Memory: [N, Q, P, K]
+
+Page In: L | Reference Number: 34 | Evicted: N
+Result Memory: [Q, P, K, L]
+
+Page In: K | Reference Number: 35 | Evicted:  
+Result Memory: [Q, P, L, K]
+
+Page In: K | Reference Number: 36 | Evicted:  
+Result Memory: [Q, P, L, K]
+
+Page In: L | Reference Number: 37 | Evicted:  
+Result Memory: [Q, P, K, L]
+
+Page In: M | Reference Number: 38 | Evicted: Q
+Result Memory: [P, K, L, M]
+
+Page In: N | Reference Number: 39 | Evicted: P
+Result Memory: [K, L, M, N]
+
+Page In: K | Reference Number: 40 | Evicted:  
+Result Memory: [L, M, N, K]
+
+Page In: S | Reference Number: 41 | Evicted: L
+Result Memory: [M, N, K, S]
+
+Page In: R | Reference Number: 42 | Evicted: M
+Result Memory: [N, K, S, R]
+
+Page In: Q | Reference Number: 43 | Evicted: N
+Result Memory: [K, S, R, Q]
+
+Page In: S | Reference Number: 44 | Evicted:  
+Result Memory: [K, R, Q, S]
+
+Page In: S | Reference Number: 45 | Evicted:  
+Result Memory: [K, R, Q, S]
+
+Page In: O | Reference Number: 46 | Evicted: K
+Result Memory: [R, Q, S, O]
+
+Page In: P | Reference Number: 47 | Evicted: R
+Result Memory: [Q, S, O, P]
+
+Page In: O | Reference Number: 48 | Evicted:  
+Result Memory: [Q, S, P, O]
+
+Page In: O | Reference Number: 49 | Evicted:  
+Result Memory: [Q, S, P, O]
+
+Page In: N | Reference Number: 50 | Evicted: Q
+Result Memory: [S, P, O, N]
+
+Page In: M | Reference Number: 51 | Evicted: S
+Result Memory: [P, O, N, M]
+
+Page In: U | Reference Number: 52 | Evicted: P
+Result Memory: [O, N, M, U]
+
+Page In: M | Reference Number: 53 | Evicted:  
+Result Memory: [O, N, U, M]
+
+Page In: L | Reference Number: 54 | Evicted: O
+Result Memory: [N, U, M, L]
+
+Page In: R | Reference Number: 55 | Evicted: N
+Result Memory: [U, M, L, R]
+
+Page In: K | Reference Number: 56 | Evicted: U
+Result Memory: [M, L, R, K]
+
+Page In: L | Reference Number: 57 | Evicted:  
+Result Memory: [M, R, K, L]
+
+Page In: L | Reference Number: 58 | Evicted:  
+Result Memory: [M, R, K, L]
+
+Page In: M | Reference Number: 59 | Evicted:  
+Result Memory: [R, K, L, M]
+
+Page In: M | Reference Number: 60 | Evicted:  
+Result Memory: [R, K, L, M]
+
+Page In: R | Reference Number: 61 | Evicted:  
+Result Memory: [K, L, M, R]
+
+Page In: U | Reference Number: 62 | Evicted: K
+Result Memory: [L, M, R, U]
+
+Page In: T | Reference Number: 63 | Evicted: L
+Result Memory: [M, R, U, T]
+
+Page In: S | Reference Number: 64 | Evicted: M
+Result Memory: [R, U, T, S]
+
+Page In: S | Reference Number: 65 | Evicted:  
+Result Memory: [R, U, T, S]
+
+Page In: R | Reference Number: 66 | Evicted:  
+Result Memory: [U, T, S, R]
+
+Page In: O | Reference Number: 67 | Evicted: U
+Result Memory: [T, S, R, O]
+
+Page In: S | Reference Number: 68 | Evicted:  
+Result Memory: [T, R, O, S]
+
+Page In: S | Reference Number: 69 | Evicted:  
+Result Memory: [T, R, O, S]
+
+Page In: S | Reference Number: 70 | Evicted:  
+Result Memory: [T, R, O, S]
+
+Page In: T | Reference Number: 71 | Evicted:  
+Result Memory: [R, O, S, T]
+
+Page In: T | Reference Number: 72 | Evicted:  
+Result Memory: [R, O, S, T]
+
+Page In: T | Reference Number: 73 | Evicted:  
+Result Memory: [R, O, S, T]
+
+Page In: T | Reference Number: 74 | Evicted:  
+Result Memory: [R, O, S, T]
+
+Page In: T | Reference Number: 75 | Evicted:  
+Result Memory: [R, O, S, T]
+
+Page In: T | Reference Number: 76 | Evicted:  
+Result Memory: [R, O, S, T]
+
+Page In: U | Reference Number: 77 | Evicted: R
+Result Memory: [O, S, T, U]
+
+Page In: T | Reference Number: 78 | Evicted:  
+Result Memory: [O, S, U, T]
+
+Page In: M | Reference Number: 79 | Evicted: O
+Result Memory: [S, U, T, M]
+
+Page In: S | Reference Number: 80 | Evicted:  
+Result Memory: [U, T, M, S]
+
+Page In: T | Reference Number: 81 | Evicted:  
+Result Memory: [U, M, S, T]
+
+Page In: S | Reference Number: 82 | Evicted:  
+Result Memory: [U, M, T, S]
+
+Page In: N | Reference Number: 83 | Evicted: U
+Result Memory: [M, T, S, N]
+
+Page In: O | Reference Number: 84 | Evicted: M
+Result Memory: [T, S, N, O]
+
+Page In: U | Reference Number: 85 | Evicted: T
+Result Memory: [S, N, O, U]
+
+Page In: O | Reference Number: 86 | Evicted:  
+Result Memory: [S, N, U, O]
+
+Page In: Q | Reference Number: 87 | Evicted: S
+Result Memory: [N, U, O, Q]
+
+Page In: Q | Reference Number: 88 | Evicted:  
+Result Memory: [N, U, O, Q]
+
+Page In: R | Reference Number: 89 | Evicted: N
+Result Memory: [U, O, Q, R]
+
+Page In: Q | Reference Number: 90 | Evicted:  
+Result Memory: [U, O, R, Q]
+
+Page In: R | Reference Number: 91 | Evicted:  
+Result Memory: [U, O, Q, R]
+
+Page In: Q | Reference Number: 92 | Evicted:  
+Result Memory: [U, O, R, Q]
+
+Page In: Q | Reference Number: 93 | Evicted:  
+Result Memory: [U, O, R, Q]
+
+Page In: M | Reference Number: 94 | Evicted: U
+Result Memory: [O, R, Q, M]
+
+Page In: T | Reference Number: 95 | Evicted: O
+Result Memory: [R, Q, M, T]
+
+Page In: S | Reference Number: 96 | Evicted: R
+Result Memory: [Q, M, T, S]
+
+Page In: O | Reference Number: 97 | Evicted: Q
+Result Memory: [M, T, S, O]
+
+Page In: O | Reference Number: 98 | Evicted:  
+Result Memory: [M, T, S, O]
+
+Page In: K | Reference Number: 99 | Evicted: M
+Result Memory: [T, S, O, K]
+
+Page In: Q | Reference Number: 100 | Evicted: T
+Result Memory: [S, O, K, Q]
+
+Page In: T | Reference Number: 1 | Evicted: S
+Result Memory: [O, K, Q, T]
+
+Page In: T | Reference Number: 2 | Evicted:  
+Result Memory: [O, K, Q, T]
+
+Page In: S | Reference Number: 3 | Evicted: O
+Result Memory: [K, Q, T, S]
+
+Page In: R | Reference Number: 4 | Evicted: K
+Result Memory: [Q, T, S, R]
+
+Page In: S | Reference Number: 5 | Evicted:  
+Result Memory: [Q, T, R, S]
+
+Page In: T | Reference Number: 6 | Evicted:  
+Result Memory: [Q, R, S, T]
+
+Page In: M | Reference Number: 7 | Evicted: Q
+Result Memory: [R, S, T, M]
+
+Page In: Q | Reference Number: 8 | Evicted: R
+Result Memory: [S, T, M, Q]
+
+Page In: M | Reference Number: 9 | Evicted:  
+Result Memory: [S, T, Q, M]
+
+Page In: O | Reference Number: 10 | Evicted: S
+Result Memory: [T, Q, M, O]
+
+Page In: R | Reference Number: 11 | Evicted: T
+Result Memory: [Q, M, O, R]
+
+Page In: T | Reference Number: 12 | Evicted: Q
+Result Memory: [M, O, R, T]
+
+Page In: K | Reference Number: 13 | Evicted: M
+Result Memory: [O, R, T, K]
+
+Page In: U | Reference Number: 14 | Evicted: O
+Result Memory: [R, T, K, U]
+
+Page In: T | Reference Number: 15 | Evicted:  
+Result Memory: [R, K, U, T]
+
+Page In: T | Reference Number: 16 | Evicted:  
+Result Memory: [R, K, U, T]
+
+Page In: N | Reference Number: 17 | Evicted: R
+Result Memory: [K, U, T, N]
+
+Page In: O | Reference Number: 18 | Evicted: K
+Result Memory: [U, T, N, O]
+
+Page In: S | Reference Number: 19 | Evicted: U
+Result Memory: [T, N, O, S]
+
+Page In: L | Reference Number: 20 | Evicted: T
+Result Memory: [N, O, S, L]
+
+Page In: L | Reference Number: 21 | Evicted:  
+Result Memory: [N, O, S, L]
+
+Page In: P | Reference Number: 22 | Evicted: N
+Result Memory: [O, S, L, P]
+
+Page In: U | Reference Number: 23 | Evicted: O
+Result Memory: [S, L, P, U]
+
+Page In: K | Reference Number: 24 | Evicted: S
+Result Memory: [L, P, U, K]
+
+Page In: L | Reference Number: 25 | Evicted:  
+Result Memory: [P, U, K, L]
+
+Page In: T | Reference Number: 26 | Evicted: P
+Result Memory: [U, K, L, T]
+
+Page In: T | Reference Number: 27 | Evicted:  
+Result Memory: [U, K, L, T]
+
+Page In: U | Reference Number: 28 | Evicted:  
+Result Memory: [K, L, T, U]
+
+Page In: M | Reference Number: 29 | Evicted: K
+Result Memory: [L, T, U, M]
+
+Page In: L | Reference Number: 30 | Evicted:  
+Result Memory: [T, U, M, L]
+
+Page In: P | Reference Number: 31 | Evicted: T
+Result Memory: [U, M, L, P]
+
+Page In: Q | Reference Number: 32 | Evicted: U
+Result Memory: [M, L, P, Q]
+
+Page In: L | Reference Number: 33 | Evicted:  
+Result Memory: [M, P, Q, L]
+
+Page In: O | Reference Number: 34 | Evicted: M
+Result Memory: [P, Q, L, O]
+
+Page In: P | Reference Number: 35 | Evicted:  
+Result Memory: [Q, L, O, P]
+
+Page In: P | Reference Number: 36 | Evicted:  
+Result Memory: [Q, L, O, P]
+
+Page In: P | Reference Number: 37 | Evicted:  
+Result Memory: [Q, L, O, P]
+
+Page In: P | Reference Number: 38 | Evicted:  
+Result Memory: [Q, L, O, P]
+
+Page In: M | Reference Number: 39 | Evicted: Q
+Result Memory: [L, O, P, M]
+
+Page In: R | Reference Number: 40 | Evicted: L
+Result Memory: [O, P, M, R]
+
+Page In: N | Reference Number: 41 | Evicted: O
+Result Memory: [P, M, R, N]
+
+Page In: P | Reference Number: 42 | Evicted:  
+Result Memory: [M, R, N, P]
+
+Page In: L | Reference Number: 43 | Evicted: M
+Result Memory: [R, N, P, L]
+
+Page In: K | Reference Number: 44 | Evicted: R
+Result Memory: [N, P, L, K]
+
+Page In: M | Reference Number: 45 | Evicted: N
+Result Memory: [P, L, K, M]
+
+Page In: M | Reference Number: 46 | Evicted:  
+Result Memory: [P, L, K, M]
+
+Page In: U | Reference Number: 47 | Evicted: P
+Result Memory: [L, K, M, U]
+
+Page In: P | Reference Number: 48 | Evicted: L
+Result Memory: [K, M, U, P]
+
+Page In: O | Reference Number: 49 | Evicted: K
+Result Memory: [M, U, P, O]
+
+Page In: N | Reference Number: 50 | Evicted: M
+Result Memory: [U, P, O, N]
+
+Page In: M | Reference Number: 51 | Evicted: U
+Result Memory: [P, O, N, M]
+
+Page In: L | Reference Number: 52 | Evicted: P
+Result Memory: [O, N, M, L]
+
+Page In: R | Reference Number: 53 | Evicted: O
+Result Memory: [N, M, L, R]
+
+Page In: Q | Reference Number: 54 | Evicted: N
+Result Memory: [M, L, R, Q]
+
+Page In: P | Reference Number: 55 | Evicted: M
+Result Memory: [L, R, Q, P]
+
+Page In: P | Reference Number: 56 | Evicted:  
+Result Memory: [L, R, Q, P]
+
+Page In: P | Reference Number: 57 | Evicted:  
+Result Memory: [L, R, Q, P]
+
+Page In: Q | Reference Number: 58 | Evicted:  
+Result Memory: [L, R, P, Q]
+
+Page In: M | Reference Number: 59 | Evicted: L
+Result Memory: [R, P, Q, M]
+
+Page In: Q | Reference Number: 60 | Evicted:  
+Result Memory: [R, P, M, Q]
+
+Page In: P | Reference Number: 61 | Evicted:  
+Result Memory: [R, M, Q, P]
+
+Page In: S | Reference Number: 62 | Evicted: R
+Result Memory: [M, Q, P, S]
+
+Page In: N | Reference Number: 63 | Evicted: M
+Result Memory: [Q, P, S, N]
+
+Page In: N | Reference Number: 64 | Evicted:  
+Result Memory: [Q, P, S, N]
+
+Page In: N | Reference Number: 65 | Evicted:  
+Result Memory: [Q, P, S, N]
+
+Page In: M | Reference Number: 66 | Evicted: Q
+Result Memory: [P, S, N, M]
+
+Page In: L | Reference Number: 67 | Evicted: P
+Result Memory: [S, N, M, L]
+
+Page In: L | Reference Number: 68 | Evicted:  
+Result Memory: [S, N, M, L]
+
+Page In: L | Reference Number: 69 | Evicted:  
+Result Memory: [S, N, M, L]
+
+Page In: M | Reference Number: 70 | Evicted:  
+Result Memory: [S, N, L, M]
+
+Page In: M | Reference Number: 71 | Evicted:  
+Result Memory: [S, N, L, M]
+
+Page In: M | Reference Number: 72 | Evicted:  
+Result Memory: [S, N, L, M]
+
+Page In: Q | Reference Number: 73 | Evicted: S
+Result Memory: [N, L, M, Q]
+
+Page In: P | Reference Number: 74 | Evicted: N
+Result Memory: [L, M, Q, P]
+
+Page In: L | Reference Number: 75 | Evicted:  
+Result Memory: [M, Q, P, L]
+
+Page In: N | Reference Number: 76 | Evicted: M
+Result Memory: [Q, P, L, N]
+
+Page In: K | Reference Number: 77 | Evicted: Q
+Result Memory: [P, L, N, K]
+
+Page In: K | Reference Number: 78 | Evicted:  
+Result Memory: [P, L, N, K]
+
+Page In: K | Reference Number: 79 | Evicted:  
+Result Memory: [P, L, N, K]
+
+Page In: U | Reference Number: 80 | Evicted: P
+Result Memory: [L, N, K, U]
+
+Page In: O | Reference Number: 81 | Evicted: L
+Result Memory: [N, K, U, O]
+
+Page In: U | Reference Number: 82 | Evicted:  
+Result Memory: [N, K, O, U]
+
+Page In: R | Reference Number: 83 | Evicted: N
+Result Memory: [K, O, U, R]
+
+Page In: K | Reference Number: 84 | Evicted:  
+Result Memory: [O, U, R, K]
+
+Page In: K | Reference Number: 85 | Evicted:  
+Result Memory: [O, U, R, K]
+
+Page In: P | Reference Number: 86 | Evicted: O
+Result Memory: [U, R, K, P]
+
+Page In: T | Reference Number: 87 | Evicted: U
+Result Memory: [R, K, P, T]
+
+Page In: T | Reference Number: 88 | Evicted:  
+Result Memory: [R, K, P, T]
+
+Page In: N | Reference Number: 89 | Evicted: R
+Result Memory: [K, P, T, N]
+
+Page In: U | Reference Number: 90 | Evicted: K
+Result Memory: [P, T, N, U]
+
+Page In: P | Reference Number: 91 | Evicted:  
+Result Memory: [T, N, U, P]
+
+Page In: P | Reference Number: 92 | Evicted:  
+Result Memory: [T, N, U, P]
+
+Page In: O | Reference Number: 93 | Evicted: T
+Result Memory: [N, U, P, O]
+
+Page In: P | Reference Number: 94 | Evicted:  
+Result Memory: [N, U, O, P]
+
+Page In: L | Reference Number: 95 | Evicted: N
+Result Memory: [U, O, P, L]
+
+Page In: Q | Reference Number: 96 | Evicted: U
+Result Memory: [O, P, L, Q]
+
+Page In: R | Reference Number: 97 | Evicted: O
+Result Memory: [P, L, Q, R]
+
+Page In: K | Reference Number: 98 | Evicted: P
+Result Memory: [L, Q, R, K]
+
+Page In: K | Reference Number: 99 | Evicted:  
+Result Memory: [L, Q, R, K]
+
+Page In: K | Reference Number: 100 | Evicted:  
+Result Memory: [L, Q, R, K]
+
+Page In: N | Reference Number: 1 | Evicted: L
+Result Memory: [Q, R, K, N]
+
+Page In: M | Reference Number: 2 | Evicted: Q
+Result Memory: [R, K, N, M]
+
+Page In: L | Reference Number: 3 | Evicted: R
+Result Memory: [K, N, M, L]
+
+Page In: M | Reference Number: 4 | Evicted:  
+Result Memory: [K, N, L, M]
+
+Page In: N | Reference Number: 5 | Evicted:  
+Result Memory: [K, L, M, N]
+
+Page In: N | Reference Number: 6 | Evicted:  
+Result Memory: [K, L, M, N]
+
+Page In: M | Reference Number: 7 | Evicted:  
+Result Memory: [K, L, N, M]
+
+Page In: N | Reference Number: 8 | Evicted:  
+Result Memory: [K, L, M, N]
+
+Page In: O | Reference Number: 9 | Evicted: K
+Result Memory: [L, M, N, O]
+
+Page In: P | Reference Number: 10 | Evicted: L
+Result Memory: [M, N, O, P]
+
+Page In: P | Reference Number: 11 | Evicted:  
+Result Memory: [M, N, O, P]
+
+Page In: P | Reference Number: 12 | Evicted:  
+Result Memory: [M, N, O, P]
+
+Page In: U | Reference Number: 13 | Evicted: M
+Result Memory: [N, O, P, U]
+
+Page In: M | Reference Number: 14 | Evicted: N
+Result Memory: [O, P, U, M]
+
+Page In: M | Reference Number: 15 | Evicted:  
+Result Memory: [O, P, U, M]
+
+Page In: O | Reference Number: 16 | Evicted:  
+Result Memory: [P, U, M, O]
+
+Page In: S | Reference Number: 17 | Evicted: P
+Result Memory: [U, M, O, S]
+
+Page In: R | Reference Number: 18 | Evicted: U
+Result Memory: [M, O, S, R]
+
+Page In: Q | Reference Number: 19 | Evicted: M
+Result Memory: [O, S, R, Q]
+
+Page In: P | Reference Number: 20 | Evicted: O
+Result Memory: [S, R, Q, P]
+
+Page In: O | Reference Number: 21 | Evicted: S
+Result Memory: [R, Q, P, O]
+
+Page In: R | Reference Number: 22 | Evicted:  
+Result Memory: [Q, P, O, R]
+
+Page In: T | Reference Number: 23 | Evicted: Q
+Result Memory: [P, O, R, T]
+
+Page In: S | Reference Number: 24 | Evicted: P
+Result Memory: [O, R, T, S]
+
+Page In: P | Reference Number: 25 | Evicted: O
+Result Memory: [R, T, S, P]
+
+Page In: Q | Reference Number: 26 | Evicted: R
+Result Memory: [T, S, P, Q]
+
+Page In: N | Reference Number: 27 | Evicted: T
+Result Memory: [S, P, Q, N]
+
+Page In: O | Reference Number: 28 | Evicted: S
+Result Memory: [P, Q, N, O]
+
+Page In: O | Reference Number: 29 | Evicted:  
+Result Memory: [P, Q, N, O]
+
+Page In: P | Reference Number: 30 | Evicted:  
+Result Memory: [Q, N, O, P]
+
+Page In: U | Reference Number: 31 | Evicted: Q
+Result Memory: [N, O, P, U]
+
+Page In: K | Reference Number: 32 | Evicted: N
+Result Memory: [O, P, U, K]
+
+Page In: L | Reference Number: 33 | Evicted: O
+Result Memory: [P, U, K, L]
+
+Page In: K | Reference Number: 34 | Evicted:  
+Result Memory: [P, U, L, K]
+
+Page In: K | Reference Number: 35 | Evicted:  
+Result Memory: [P, U, L, K]
+
+Page In: K | Reference Number: 36 | Evicted:  
+Result Memory: [P, U, L, K]
+
+Page In: L | Reference Number: 37 | Evicted:  
+Result Memory: [P, U, K, L]
+
+Page In: K | Reference Number: 38 | Evicted:  
+Result Memory: [P, U, L, K]
+
+Page In: S | Reference Number: 39 | Evicted: P
+Result Memory: [U, L, K, S]
+
+Page In: N | Reference Number: 40 | Evicted: U
+Result Memory: [L, K, S, N]
+
+Page In: O | Reference Number: 41 | Evicted: L
+Result Memory: [K, S, N, O]
+
+Page In: O | Reference Number: 42 | Evicted:  
+Result Memory: [K, S, N, O]
+
+Page In: T | Reference Number: 43 | Evicted: K
+Result Memory: [S, N, O, T]
+
+Page In: S | Reference Number: 44 | Evicted:  
+Result Memory: [N, O, T, S]
+
+Page In: R | Reference Number: 45 | Evicted: N
+Result Memory: [O, T, S, R]
+
+Page In: R | Reference Number: 46 | Evicted:  
+Result Memory: [O, T, S, R]
+
+Page In: N | Reference Number: 47 | Evicted: O
+Result Memory: [T, S, R, N]
+
+Page In: O | Reference Number: 48 | Evicted: T
+Result Memory: [S, R, N, O]
+
+Page In: U | Reference Number: 49 | Evicted: S
+Result Memory: [R, N, O, U]
+
+Page In: N | Reference Number: 50 | Evicted:  
+Result Memory: [R, O, U, N]
+
+Page In: O | Reference Number: 51 | Evicted:  
+Result Memory: [R, U, N, O]
+
+Page In: P | Reference Number: 52 | Evicted: R
+Result Memory: [U, N, O, P]
+
+Page In: M | Reference Number: 53 | Evicted: U
+Result Memory: [N, O, P, M]
+
+Page In: R | Reference Number: 54 | Evicted: N
+Result Memory: [O, P, M, R]
+
+Page In: T | Reference Number: 55 | Evicted: O
+Result Memory: [P, M, R, T]
+
+Page In: T | Reference Number: 56 | Evicted:  
+Result Memory: [P, M, R, T]
+
+Page In: U | Reference Number: 57 | Evicted: P
+Result Memory: [M, R, T, U]
+
+Page In: K | Reference Number: 58 | Evicted: M
+Result Memory: [R, T, U, K]
+
+Page In: M | Reference Number: 59 | Evicted: R
+Result Memory: [T, U, K, M]
+
+Page In: N | Reference Number: 60 | Evicted: T
+Result Memory: [U, K, M, N]
+
+Page In: N | Reference Number: 61 | Evicted:  
+Result Memory: [U, K, M, N]
+
+Page In: M | Reference Number: 62 | Evicted:  
+Result Memory: [U, K, N, M]
+
+Page In: L | Reference Number: 63 | Evicted: U
+Result Memory: [K, N, M, L]
+
+Page In: K | Reference Number: 64 | Evicted:  
+Result Memory: [N, M, L, K]
+
+Page In: U | Reference Number: 65 | Evicted: N
+Result Memory: [M, L, K, U]
+
+Page In: N | Reference Number: 66 | Evicted: M
+Result Memory: [L, K, U, N]
+
+Page In: P | Reference Number: 67 | Evicted: L
+Result Memory: [K, U, N, P]
+
+Page In: P | Reference Number: 68 | Evicted:  
+Result Memory: [K, U, N, P]
+
+Page In: Q | Reference Number: 69 | Evicted: K
+Result Memory: [U, N, P, Q]
+
+Page In: P | Reference Number: 70 | Evicted:  
+Result Memory: [U, N, Q, P]
+
+Page In: P | Reference Number: 71 | Evicted:  
+Result Memory: [U, N, Q, P]
+
+Page In: Q | Reference Number: 72 | Evicted:  
+Result Memory: [U, N, P, Q]
+
+Page In: Q | Reference Number: 73 | Evicted:  
+Result Memory: [U, N, P, Q]
+
+Page In: S | Reference Number: 74 | Evicted: U
+Result Memory: [N, P, Q, S]
+
+Page In: K | Reference Number: 75 | Evicted: N
+Result Memory: [P, Q, S, K]
+
+Page In: Q | Reference Number: 76 | Evicted:  
+Result Memory: [P, S, K, Q]
+
+Page In: T | Reference Number: 77 | Evicted: P
+Result Memory: [S, K, Q, T]
+
+Page In: O | Reference Number: 78 | Evicted: S
+Result Memory: [K, Q, T, O]
+
+Page In: L | Reference Number: 79 | Evicted: K
+Result Memory: [Q, T, O, L]
+
+Page In: L | Reference Number: 80 | Evicted:  
+Result Memory: [Q, T, O, L]
+
+Page In: L | Reference Number: 81 | Evicted:  
+Result Memory: [Q, T, O, L]
+
+Page In: L | Reference Number: 82 | Evicted:  
+Result Memory: [Q, T, O, L]
+
+Page In: O | Reference Number: 83 | Evicted:  
+Result Memory: [Q, T, L, O]
+
+Page In: L | Reference Number: 84 | Evicted:  
+Result Memory: [Q, T, O, L]
+
+Page In: L | Reference Number: 85 | Evicted:  
+Result Memory: [Q, T, O, L]
+
+Page In: L | Reference Number: 86 | Evicted:  
+Result Memory: [Q, T, O, L]
+
+Page In: K | Reference Number: 87 | Evicted: Q
+Result Memory: [T, O, L, K]
+
+Page In: U | Reference Number: 88 | Evicted: T
+Result Memory: [O, L, K, U]
+
+Page In: R | Reference Number: 89 | Evicted: O
+Result Memory: [L, K, U, R]
+
+Page In: Q | Reference Number: 90 | Evicted: L
+Result Memory: [K, U, R, Q]
+
+Page In: P | Reference Number: 91 | Evicted: K
+Result Memory: [U, R, Q, P]
+
+Page In: L | Reference Number: 92 | Evicted: U
+Result Memory: [R, Q, P, L]
+
+Page In: Q | Reference Number: 93 | Evicted:  
+Result Memory: [R, P, L, Q]
+
+Page In: L | Reference Number: 94 | Evicted:  
+Result Memory: [R, P, Q, L]
+
+Page In: O | Reference Number: 95 | Evicted: R
+Result Memory: [P, Q, L, O]
+
+Page In: P | Reference Number: 96 | Evicted:  
+Result Memory: [Q, L, O, P]
+
+Page In: P | Reference Number: 97 | Evicted:  
+Result Memory: [Q, L, O, P]
+
+Page In: O | Reference Number: 98 | Evicted:  
+Result Memory: [Q, L, P, O]
+
+Page In: P | Reference Number: 99 | Evicted:  
+Result Memory: [Q, L, O, P]
+
+Page In: Q | Reference Number: 100 | Evicted:  
+Result Memory: [L, O, P, Q]
+-----End LRU-----
+-----Start LFU-----
+
+Page In: P | Reference Number: 0 | Evicted: O
+Result Memory: [P, null, null, null]
+
+Page In: P | Reference Number: 1 | Evicted:  
+Result Memory: [P, null, null, null]
+
+Page In: T | Reference Number: 2 | Evicted: P
+Result Memory: [P, T, null, null]
+
+Page In: T | Reference Number: 3 | Evicted:  
+Result Memory: [P, T, null, null]
+
+Page In: T | Reference Number: 4 | Evicted:  
+Result Memory: [P, T, null, null]
+
+Page In: S | Reference Number: 5 | Evicted: P
+Result Memory: [P, T, S, null]
+
+Page In: R | Reference Number: 6 | Evicted: S
+Result Memory: [P, T, S, R]
+
+Page In: S | Reference Number: 7 | Evicted:  
+Result Memory: [P, T, S, R]
+
+Page In: R | Reference Number: 8 | Evicted:  
+Result Memory: [P, T, S, R]
+
+Page In: Q | Reference Number: 9 | Evicted: P
+Result Memory: [Q, T, S, R]
+
+Page In: Q | Reference Number: 10 | Evicted:  
+Result Memory: [Q, T, S, R]
+
+Page In: U | Reference Number: 11 | Evicted: S
+Result Memory: [Q, T, U, R]
+
+Page In: U | Reference Number: 12 | Evicted:  
+Result Memory: [Q, T, U, R]
+
+Page In: N | Reference Number: 13 | Evicted: R
+Result Memory: [Q, T, U, N]
+
+Page In: M | Reference Number: 14 | Evicted: N
+Result Memory: [Q, T, U, M]
+
+Page In: M | Reference Number: 15 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: Q | Reference Number: 16 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: Q | Reference Number: 17 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: Q | Reference Number: 18 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: R | Reference Number: 19 | Evicted: U
+Result Memory: [Q, T, R, M]
+
+Page In: Q | Reference Number: 20 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: M | Reference Number: 21 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: L | Reference Number: 22 | Evicted: R
+Result Memory: [Q, T, L, M]
+
+Page In: M | Reference Number: 23 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: S | Reference Number: 24 | Evicted: L
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 25 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: K | Reference Number: 26 | Evicted: S
+Result Memory: [Q, T, K, M]
+
+Page In: S | Reference Number: 27 | Evicted: K
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 28 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: O | Reference Number: 29 | Evicted: R
+Result Memory: [Q, T, O, M]
+
+Page In: O | Reference Number: 30 | Evicted:  
+Result Memory: [Q, T, O, M]
+
+Page In: T | Reference Number: 31 | Evicted:  
+Result Memory: [Q, T, O, M]
+
+Page In: P | Reference Number: 32 | Evicted: O
+Result Memory: [Q, T, P, M]
+
+Page In: U | Reference Number: 33 | Evicted: P
+Result Memory: [Q, T, U, M]
+
+Page In: U | Reference Number: 34 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: U | Reference Number: 35 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: K | Reference Number: 36 | Evicted: U
+Result Memory: [Q, T, K, M]
+
+Page In: L | Reference Number: 37 | Evicted: K
+Result Memory: [Q, T, L, M]
+
+Page In: L | Reference Number: 38 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: O | Reference Number: 39 | Evicted: L
+Result Memory: [Q, T, O, M]
+
+Page In: O | Reference Number: 40 | Evicted:  
+Result Memory: [Q, T, O, M]
+
+Page In: O | Reference Number: 41 | Evicted:  
+Result Memory: [Q, T, O, M]
+
+Page In: S | Reference Number: 42 | Evicted: O
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 43 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: T | Reference Number: 44 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: U | Reference Number: 45 | Evicted: R
+Result Memory: [Q, T, U, M]
+
+Page In: U | Reference Number: 46 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: L | Reference Number: 47 | Evicted: U
+Result Memory: [Q, T, L, M]
+
+Page In: Q | Reference Number: 48 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: K | Reference Number: 49 | Evicted: L
+Result Memory: [Q, T, K, M]
+
+Page In: K | Reference Number: 50 | Evicted:  
+Result Memory: [Q, T, K, M]
+
+Page In: Q | Reference Number: 51 | Evicted:  
+Result Memory: [Q, T, K, M]
+
+Page In: Q | Reference Number: 52 | Evicted:  
+Result Memory: [Q, T, K, M]
+
+Page In: M | Reference Number: 53 | Evicted:  
+Result Memory: [Q, T, K, M]
+
+Page In: M | Reference Number: 54 | Evicted:  
+Result Memory: [Q, T, K, M]
+
+Page In: N | Reference Number: 55 | Evicted: K
+Result Memory: [Q, T, N, M]
+
+Page In: K | Reference Number: 56 | Evicted: N
+Result Memory: [Q, T, K, M]
+
+Page In: U | Reference Number: 57 | Evicted: K
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 58 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: S | Reference Number: 59 | Evicted: U
+Result Memory: [Q, T, S, M]
+
+Page In: P | Reference Number: 60 | Evicted: S
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 61 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 62 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 63 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: O | Reference Number: 64 | Evicted: P
+Result Memory: [Q, T, O, M]
+
+Page In: N | Reference Number: 65 | Evicted: O
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 66 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: O | Reference Number: 67 | Evicted: N
+Result Memory: [Q, T, O, M]
+
+Page In: O | Reference Number: 68 | Evicted:  
+Result Memory: [Q, T, O, M]
+
+Page In: L | Reference Number: 69 | Evicted: O
+Result Memory: [Q, T, L, M]
+
+Page In: P | Reference Number: 70 | Evicted: L
+Result Memory: [Q, T, P, M]
+
+Page In: L | Reference Number: 71 | Evicted: P
+Result Memory: [Q, T, L, M]
+
+Page In: K | Reference Number: 72 | Evicted: L
+Result Memory: [Q, T, K, M]
+
+Page In: L | Reference Number: 73 | Evicted: K
+Result Memory: [Q, T, L, M]
+
+Page In: M | Reference Number: 74 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: L | Reference Number: 75 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: K | Reference Number: 76 | Evicted: L
+Result Memory: [Q, T, K, M]
+
+Page In: P | Reference Number: 77 | Evicted: K
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 78 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 79 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: S | Reference Number: 80 | Evicted: P
+Result Memory: [Q, T, S, M]
+
+Page In: K | Reference Number: 81 | Evicted: S
+Result Memory: [Q, T, K, M]
+
+Page In: N | Reference Number: 82 | Evicted: K
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 83 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: P | Reference Number: 84 | Evicted: N
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 85 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 86 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 87 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 88 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: O | Reference Number: 89 | Evicted: P
+Result Memory: [Q, T, O, M]
+
+Page In: O | Reference Number: 90 | Evicted:  
+Result Memory: [Q, T, O, M]
+
+Page In: P | Reference Number: 91 | Evicted: O
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 92 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 93 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 94 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 95 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: R | Reference Number: 96 | Evicted: P
+Result Memory: [Q, T, R, M]
+
+Page In: R | Reference Number: 97 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 98 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 99 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: L | Reference Number: 0 | Evicted: R
+Result Memory: [Q, T, L, M]
+
+Page In: Q | Reference Number: 1 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: R | Reference Number: 2 | Evicted: L
+Result Memory: [Q, T, R, M]
+
+Page In: R | Reference Number: 3 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: Q | Reference Number: 4 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: N | Reference Number: 5 | Evicted: R
+Result Memory: [Q, T, N, M]
+
+Page In: T | Reference Number: 6 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: U | Reference Number: 7 | Evicted: N
+Result Memory: [Q, T, U, M]
+
+Page In: U | Reference Number: 8 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: K | Reference Number: 10 | Evicted: U
+Result Memory: [Q, T, K, M]
+
+Page In: L | Reference Number: 11 | Evicted: K
+Result Memory: [Q, T, L, M]
+
+Page In: L | Reference Number: 12 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: L | Reference Number: 13 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: T | Reference Number: 14 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: M | Reference Number: 15 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: M | Reference Number: 16 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: O | Reference Number: 17 | Evicted: L
+Result Memory: [Q, T, O, M]
+
+Page In: P | Reference Number: 18 | Evicted: O
+Result Memory: [Q, T, P, M]
+
+Page In: O | Reference Number: 19 | Evicted: P
+Result Memory: [Q, T, O, M]
+
+Page In: P | Reference Number: 20 | Evicted: O
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 21 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: K | Reference Number: 22 | Evicted: P
+Result Memory: [Q, T, K, M]
+
+Page In: U | Reference Number: 23 | Evicted: K
+Result Memory: [Q, T, U, M]
+
+Page In: U | Reference Number: 24 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: P | Reference Number: 25 | Evicted: U
+Result Memory: [Q, T, P, M]
+
+Page In: O | Reference Number: 26 | Evicted: P
+Result Memory: [Q, T, O, M]
+
+Page In: K | Reference Number: 27 | Evicted: O
+Result Memory: [Q, T, K, M]
+
+Page In: K | Reference Number: 28 | Evicted:  
+Result Memory: [Q, T, K, M]
+
+Page In: U | Reference Number: 29 | Evicted: K
+Result Memory: [Q, T, U, M]
+
+Page In: U | Reference Number: 30 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 31 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: S | Reference Number: 32 | Evicted: U
+Result Memory: [Q, T, S, M]
+
+Page In: U | Reference Number: 33 | Evicted: S
+Result Memory: [Q, T, U, M]
+
+Page In: Q | Reference Number: 34 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: Q | Reference Number: 35 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 36 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: P | Reference Number: 37 | Evicted: U
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 38 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 39 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 40 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: N | Reference Number: 41 | Evicted: P
+Result Memory: [Q, T, N, M]
+
+Page In: M | Reference Number: 42 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: L | Reference Number: 43 | Evicted: N
+Result Memory: [Q, T, L, M]
+
+Page In: S | Reference Number: 44 | Evicted: L
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 45 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 46 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 47 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: R | Reference Number: 48 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: M | Reference Number: 49 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: N | Reference Number: 50 | Evicted: R
+Result Memory: [Q, T, N, M]
+
+Page In: M | Reference Number: 51 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: Q | Reference Number: 52 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: Q | Reference Number: 53 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: K | Reference Number: 54 | Evicted: N
+Result Memory: [Q, T, K, M]
+
+Page In: U | Reference Number: 55 | Evicted: K
+Result Memory: [Q, T, U, M]
+
+Page In: M | Reference Number: 56 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: S | Reference Number: 57 | Evicted: U
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 58 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 59 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 60 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 61 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: N | Reference Number: 62 | Evicted: S
+Result Memory: [Q, T, N, M]
+
+Page In: O | Reference Number: 63 | Evicted: N
+Result Memory: [Q, T, O, M]
+
+Page In: U | Reference Number: 64 | Evicted: O
+Result Memory: [Q, T, U, M]
+
+Page In: N | Reference Number: 65 | Evicted: U
+Result Memory: [Q, T, N, M]
+
+Page In: T | Reference Number: 66 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: Q | Reference Number: 67 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: U | Reference Number: 68 | Evicted: N
+Result Memory: [Q, T, U, M]
+
+Page In: M | Reference Number: 69 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: N | Reference Number: 70 | Evicted: U
+Result Memory: [Q, T, N, M]
+
+Page In: M | Reference Number: 71 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: R | Reference Number: 72 | Evicted: N
+Result Memory: [Q, T, R, M]
+
+Page In: Q | Reference Number: 73 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: R | Reference Number: 74 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: Q | Reference Number: 75 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: Q | Reference Number: 76 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: R | Reference Number: 77 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: Q | Reference Number: 78 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: Q | Reference Number: 79 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: P | Reference Number: 80 | Evicted: R
+Result Memory: [Q, T, P, M]
+
+Page In: S | Reference Number: 81 | Evicted: P
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 82 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 83 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 84 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 85 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 86 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 87 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: Q | Reference Number: 88 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: P | Reference Number: 89 | Evicted: R
+Result Memory: [Q, T, P, M]
+
+Page In: M | Reference Number: 90 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: N | Reference Number: 91 | Evicted: P
+Result Memory: [Q, T, N, M]
+
+Page In: S | Reference Number: 92 | Evicted: N
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 93 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 94 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: M | Reference Number: 95 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: M | Reference Number: 96 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 97 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: M | Reference Number: 98 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: L | Reference Number: 99 | Evicted: S
+Result Memory: [Q, T, L, M]
+
+Page In: S | Reference Number: 0 | Evicted: L
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 1 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 2 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: L | Reference Number: 3 | Evicted: S
+Result Memory: [Q, T, L, M]
+
+Page In: P | Reference Number: 4 | Evicted: L
+Result Memory: [Q, T, P, M]
+
+Page In: S | Reference Number: 5 | Evicted: P
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 6 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 7 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 8 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: O | Reference Number: 9 | Evicted: S
+Result Memory: [Q, T, O, M]
+
+Page In: U | Reference Number: 10 | Evicted: O
+Result Memory: [Q, T, U, M]
+
+Page In: N | Reference Number: 11 | Evicted: U
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 12 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: T | Reference Number: 13 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: S | Reference Number: 14 | Evicted: N
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 15 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 16 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: P | Reference Number: 17 | Evicted: S
+Result Memory: [Q, T, P, M]
+
+Page In: O | Reference Number: 18 | Evicted: P
+Result Memory: [Q, T, O, M]
+
+Page In: N | Reference Number: 19 | Evicted: O
+Result Memory: [Q, T, N, M]
+
+Page In: M | Reference Number: 20 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: M | Reference Number: 21 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: S | Reference Number: 22 | Evicted: N
+Result Memory: [Q, T, S, M]
+
+Page In: U | Reference Number: 23 | Evicted: S
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 24 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: S | Reference Number: 25 | Evicted: U
+Result Memory: [Q, T, S, M]
+
+Page In: P | Reference Number: 26 | Evicted: S
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 27 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: U | Reference Number: 28 | Evicted: P
+Result Memory: [Q, T, U, M]
+
+Page In: K | Reference Number: 29 | Evicted: U
+Result Memory: [Q, T, K, M]
+
+Page In: S | Reference Number: 30 | Evicted: K
+Result Memory: [Q, T, S, M]
+
+Page In: L | Reference Number: 31 | Evicted: S
+Result Memory: [Q, T, L, M]
+
+Page In: L | Reference Number: 32 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: K | Reference Number: 33 | Evicted: L
+Result Memory: [Q, T, K, M]
+
+Page In: K | Reference Number: 34 | Evicted:  
+Result Memory: [Q, T, K, M]
+
+Page In: R | Reference Number: 35 | Evicted: K
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 36 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: U | Reference Number: 37 | Evicted: S
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 38 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: U | Reference Number: 39 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: O | Reference Number: 40 | Evicted: U
+Result Memory: [Q, T, O, M]
+
+Page In: N | Reference Number: 41 | Evicted: O
+Result Memory: [Q, T, N, M]
+
+Page In: M | Reference Number: 42 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: Q | Reference Number: 43 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 44 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: O | Reference Number: 45 | Evicted: N
+Result Memory: [Q, T, O, M]
+
+Page In: K | Reference Number: 46 | Evicted: O
+Result Memory: [Q, T, K, M]
+
+Page In: P | Reference Number: 47 | Evicted: K
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 48 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 49 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 50 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: N | Reference Number: 51 | Evicted: P
+Result Memory: [Q, T, N, M]
+
+Page In: O | Reference Number: 52 | Evicted: N
+Result Memory: [Q, T, O, M]
+
+Page In: R | Reference Number: 53 | Evicted: O
+Result Memory: [Q, T, R, M]
+
+Page In: M | Reference Number: 54 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: L | Reference Number: 55 | Evicted: R
+Result Memory: [Q, T, L, M]
+
+Page In: M | Reference Number: 56 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: Q | Reference Number: 57 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: Q | Reference Number: 58 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: U | Reference Number: 59 | Evicted: L
+Result Memory: [Q, T, U, M]
+
+Page In: U | Reference Number: 60 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 61 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 62 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: S | Reference Number: 63 | Evicted: U
+Result Memory: [Q, T, S, M]
+
+Page In: P | Reference Number: 64 | Evicted: S
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 65 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 66 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 67 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 68 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: S | Reference Number: 69 | Evicted: P
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 70 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 71 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: K | Reference Number: 72 | Evicted: S
+Result Memory: [Q, T, K, M]
+
+Page In: U | Reference Number: 73 | Evicted: K
+Result Memory: [Q, T, U, M]
+
+Page In: L | Reference Number: 74 | Evicted: U
+Result Memory: [Q, T, L, M]
+
+Page In: R | Reference Number: 75 | Evicted: L
+Result Memory: [Q, T, R, M]
+
+Page In: M | Reference Number: 76 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: N | Reference Number: 77 | Evicted: R
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 78 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 79 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 80 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: M | Reference Number: 81 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 82 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: K | Reference Number: 83 | Evicted: N
+Result Memory: [Q, T, K, M]
+
+Page In: K | Reference Number: 84 | Evicted:  
+Result Memory: [Q, T, K, M]
+
+Page In: L | Reference Number: 85 | Evicted: K
+Result Memory: [Q, T, L, M]
+
+Page In: L | Reference Number: 86 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: K | Reference Number: 87 | Evicted: L
+Result Memory: [Q, T, K, M]
+
+Page In: U | Reference Number: 88 | Evicted: K
+Result Memory: [Q, T, U, M]
+
+Page In: N | Reference Number: 89 | Evicted: U
+Result Memory: [Q, T, N, M]
+
+Page In: M | Reference Number: 90 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: S | Reference Number: 91 | Evicted: N
+Result Memory: [Q, T, S, M]
+
+Page In: N | Reference Number: 92 | Evicted: S
+Result Memory: [Q, T, N, M]
+
+Page In: M | Reference Number: 93 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 94 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: O | Reference Number: 95 | Evicted: N
+Result Memory: [Q, T, O, M]
+
+Page In: N | Reference Number: 96 | Evicted: O
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 97 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 98 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: S | Reference Number: 99 | Evicted: N
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 0 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 1 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 2 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: Q | Reference Number: 3 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: M | Reference Number: 4 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: M | Reference Number: 5 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: M | Reference Number: 6 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: M | Reference Number: 7 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: M | Reference Number: 8 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: L | Reference Number: 9 | Evicted: R
+Result Memory: [Q, T, L, M]
+
+Page In: M | Reference Number: 10 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: M | Reference Number: 11 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: M | Reference Number: 12 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: L | Reference Number: 13 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: R | Reference Number: 14 | Evicted: L
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 15 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 16 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: R | Reference Number: 17 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 18 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 19 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 20 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 21 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: P | Reference Number: 22 | Evicted: S
+Result Memory: [Q, T, P, M]
+
+Page In: O | Reference Number: 23 | Evicted: P
+Result Memory: [Q, T, O, M]
+
+Page In: P | Reference Number: 24 | Evicted: O
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 25 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: O | Reference Number: 26 | Evicted: P
+Result Memory: [Q, T, O, M]
+
+Page In: Q | Reference Number: 27 | Evicted:  
+Result Memory: [Q, T, O, M]
+
+Page In: P | Reference Number: 28 | Evicted: O
+Result Memory: [Q, T, P, M]
+
+Page In: L | Reference Number: 29 | Evicted: P
+Result Memory: [Q, T, L, M]
+
+Page In: M | Reference Number: 30 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: P | Reference Number: 31 | Evicted: L
+Result Memory: [Q, T, P, M]
+
+Page In: M | Reference Number: 32 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: L | Reference Number: 33 | Evicted: P
+Result Memory: [Q, T, L, M]
+
+Page In: K | Reference Number: 34 | Evicted: L
+Result Memory: [Q, T, K, M]
+
+Page In: M | Reference Number: 35 | Evicted:  
+Result Memory: [Q, T, K, M]
+
+Page In: M | Reference Number: 36 | Evicted:  
+Result Memory: [Q, T, K, M]
+
+Page In: N | Reference Number: 37 | Evicted: K
+Result Memory: [Q, T, N, M]
+
+Page In: Q | Reference Number: 38 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: Q | Reference Number: 39 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: S | Reference Number: 40 | Evicted: N
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 41 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: M | Reference Number: 42 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: M | Reference Number: 43 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 44 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: N | Reference Number: 45 | Evicted: S
+Result Memory: [Q, T, N, M]
+
+Page In: R | Reference Number: 46 | Evicted: N
+Result Memory: [Q, T, R, M]
+
+Page In: T | Reference Number: 47 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 48 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 49 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 50 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 51 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 52 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: O | Reference Number: 53 | Evicted: S
+Result Memory: [Q, T, O, M]
+
+Page In: O | Reference Number: 54 | Evicted:  
+Result Memory: [Q, T, O, M]
+
+Page In: O | Reference Number: 55 | Evicted:  
+Result Memory: [Q, T, O, M]
+
+Page In: S | Reference Number: 56 | Evicted: O
+Result Memory: [Q, T, S, M]
+
+Page In: O | Reference Number: 57 | Evicted: S
+Result Memory: [Q, T, O, M]
+
+Page In: P | Reference Number: 58 | Evicted: O
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 59 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 60 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: O | Reference Number: 61 | Evicted: P
+Result Memory: [Q, T, O, M]
+
+Page In: S | Reference Number: 62 | Evicted: O
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 63 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 64 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: O | Reference Number: 65 | Evicted: S
+Result Memory: [Q, T, O, M]
+
+Page In: O | Reference Number: 66 | Evicted:  
+Result Memory: [Q, T, O, M]
+
+Page In: P | Reference Number: 67 | Evicted: O
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 68 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: R | Reference Number: 69 | Evicted: P
+Result Memory: [Q, T, R, M]
+
+Page In: N | Reference Number: 70 | Evicted: R
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 71 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 72 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: O | Reference Number: 73 | Evicted: N
+Result Memory: [Q, T, O, M]
+
+Page In: R | Reference Number: 74 | Evicted: O
+Result Memory: [Q, T, R, M]
+
+Page In: R | Reference Number: 75 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: R | Reference Number: 76 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 77 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 78 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 79 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: T | Reference Number: 80 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: U | Reference Number: 81 | Evicted: R
+Result Memory: [Q, T, U, M]
+
+Page In: K | Reference Number: 82 | Evicted: U
+Result Memory: [Q, T, K, M]
+
+Page In: L | Reference Number: 83 | Evicted: K
+Result Memory: [Q, T, L, M]
+
+Page In: M | Reference Number: 84 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: M | Reference Number: 85 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: N | Reference Number: 86 | Evicted: L
+Result Memory: [Q, T, N, M]
+
+Page In: O | Reference Number: 87 | Evicted: N
+Result Memory: [Q, T, O, M]
+
+Page In: R | Reference Number: 88 | Evicted: O
+Result Memory: [Q, T, R, M]
+
+Page In: R | Reference Number: 89 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 90 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 91 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 92 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 93 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: M | Reference Number: 94 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: M | Reference Number: 95 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: U | Reference Number: 96 | Evicted: S
+Result Memory: [Q, T, U, M]
+
+Page In: K | Reference Number: 97 | Evicted: U
+Result Memory: [Q, T, K, M]
+
+Page In: L | Reference Number: 98 | Evicted: K
+Result Memory: [Q, T, L, M]
+
+Page In: N | Reference Number: 99 | Evicted: L
+Result Memory: [Q, T, N, M]
+
+Page In: K | Reference Number: 0 | Evicted: N
+Result Memory: [Q, T, K, M]
+
+Page In: U | Reference Number: 1 | Evicted: K
+Result Memory: [Q, T, U, M]
+
+Page In: U | Reference Number: 2 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 3 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 4 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: P | Reference Number: 5 | Evicted: U
+Result Memory: [Q, T, P, M]
+
+Page In: M | Reference Number: 6 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: T | Reference Number: 7 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: U | Reference Number: 8 | Evicted: P
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: N | Reference Number: 10 | Evicted: U
+Result Memory: [Q, T, N, M]
+
+Page In: O | Reference Number: 11 | Evicted: N
+Result Memory: [Q, T, O, M]
+
+Page In: P | Reference Number: 12 | Evicted: O
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 13 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 14 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 15 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 16 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: T | Reference Number: 17 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: T | Reference Number: 18 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: U | Reference Number: 19 | Evicted: P
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 20 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: U | Reference Number: 21 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: U | Reference Number: 22 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: K | Reference Number: 23 | Evicted: U
+Result Memory: [Q, T, K, M]
+
+Page In: N | Reference Number: 24 | Evicted: K
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 25 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 26 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: O | Reference Number: 27 | Evicted: N
+Result Memory: [Q, T, O, M]
+
+Page In: O | Reference Number: 28 | Evicted:  
+Result Memory: [Q, T, O, M]
+
+Page In: P | Reference Number: 29 | Evicted: O
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 30 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 31 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: K | Reference Number: 32 | Evicted: P
+Result Memory: [Q, T, K, M]
+
+Page In: S | Reference Number: 33 | Evicted: K
+Result Memory: [Q, T, S, M]
+
+Page In: N | Reference Number: 34 | Evicted: S
+Result Memory: [Q, T, N, M]
+
+Page In: Q | Reference Number: 35 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: P | Reference Number: 36 | Evicted: N
+Result Memory: [Q, T, P, M]
+
+Page In: O | Reference Number: 37 | Evicted: P
+Result Memory: [Q, T, O, M]
+
+Page In: R | Reference Number: 38 | Evicted: O
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 39 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 40 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 41 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 42 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 43 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 44 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: R | Reference Number: 45 | Evicted: S
+Result Memory: [Q, T, R, M]
+
+Page In: R | Reference Number: 46 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: T | Reference Number: 47 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: U | Reference Number: 48 | Evicted: R
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 49 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: U | Reference Number: 50 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 51 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: S | Reference Number: 52 | Evicted: U
+Result Memory: [Q, T, S, M]
+
+Page In: S | Reference Number: 53 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: T | Reference Number: 54 | Evicted:  
+Result Memory: [Q, T, S, M]
+
+Page In: U | Reference Number: 55 | Evicted: S
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 56 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: O | Reference Number: 57 | Evicted: U
+Result Memory: [Q, T, O, M]
+
+Page In: N | Reference Number: 58 | Evicted: O
+Result Memory: [Q, T, N, M]
+
+Page In: M | Reference Number: 59 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: N | Reference Number: 60 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: M | Reference Number: 61 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: M | Reference Number: 62 | Evicted:  
+Result Memory: [Q, T, N, M]
+
+Page In: U | Reference Number: 63 | Evicted: N
+Result Memory: [Q, T, U, M]
+
+Page In: R | Reference Number: 64 | Evicted: U
+Result Memory: [Q, T, R, M]
+
+Page In: Q | Reference Number: 65 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: P | Reference Number: 66 | Evicted: R
+Result Memory: [Q, T, P, M]
+
+Page In: L | Reference Number: 67 | Evicted: P
+Result Memory: [Q, T, L, M]
+
+Page In: K | Reference Number: 68 | Evicted: L
+Result Memory: [Q, T, K, M]
+
+Page In: O | Reference Number: 69 | Evicted: K
+Result Memory: [Q, T, O, M]
+
+Page In: P | Reference Number: 70 | Evicted: O
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 71 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 72 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: K | Reference Number: 73 | Evicted: P
+Result Memory: [Q, T, K, M]
+
+Page In: R | Reference Number: 74 | Evicted: K
+Result Memory: [Q, T, R, M]
+
+Page In: T | Reference Number: 75 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: L | Reference Number: 76 | Evicted: R
+Result Memory: [Q, T, L, M]
+
+Page In: K | Reference Number: 77 | Evicted: L
+Result Memory: [Q, T, K, M]
+
+Page In: L | Reference Number: 78 | Evicted: K
+Result Memory: [Q, T, L, M]
+
+Page In: T | Reference Number: 79 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: Q | Reference Number: 80 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: P | Reference Number: 81 | Evicted: L
+Result Memory: [Q, T, P, M]
+
+Page In: K | Reference Number: 82 | Evicted: P
+Result Memory: [Q, T, K, M]
+
+Page In: K | Reference Number: 83 | Evicted:  
+Result Memory: [Q, T, K, M]
+
+Page In: L | Reference Number: 84 | Evicted: K
+Result Memory: [Q, T, L, M]
+
+Page In: M | Reference Number: 85 | Evicted:  
+Result Memory: [Q, T, L, M]
+
+Page In: U | Reference Number: 86 | Evicted: L
+Result Memory: [Q, T, U, M]
+
+Page In: P | Reference Number: 87 | Evicted: U
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 88 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: Q | Reference Number: 89 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: R | Reference Number: 90 | Evicted: P
+Result Memory: [Q, T, R, M]
+
+Page In: R | Reference Number: 91 | Evicted:  
+Result Memory: [Q, T, R, M]
+
+Page In: S | Reference Number: 92 | Evicted: R
+Result Memory: [Q, T, S, M]
+
+Page In: N | Reference Number: 93 | Evicted: S
+Result Memory: [Q, T, N, M]
+
+Page In: P | Reference Number: 94 | Evicted: N
+Result Memory: [Q, T, P, M]
+
+Page In: P | Reference Number: 95 | Evicted:  
+Result Memory: [Q, T, P, M]
+
+Page In: O | Reference Number: 96 | Evicted: P
+Result Memory: [Q, T, O, M]
+
+Page In: U | Reference Number: 97 | Evicted: O
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 98 | Evicted:  
+Result Memory: [Q, T, U, M]
+
+Page In: T | Reference Number: 99 | Evicted:  
+Result Memory: [Q, T, U, M]
+-----End LFU-----
+-----Start MFU-----
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [P]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [P, Q]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [P, Q]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [P, Q, M]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [P, Q, M, T]
+
+Page In: K | Reference Number: 0 | Evicted: P
+Result Memory: [K, Q, M, T]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, Q, M, T]
+
+Page In: L | Reference Number: 1 | Evicted: K
+Result Memory: [L, Q, M, T]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, Q, M, T]
+
+Page In: K | Reference Number: 0 | Evicted: L
+Result Memory: [K, Q, M, T]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [K, Q, M, T]
+
+Page In: L | Reference Number: 1 | Evicted: M
+Result Memory: [K, Q, L, T]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, Q, L, T]
+
+Page In: R | Reference Number: 7 | Evicted: K
+Result Memory: [R, Q, L, T]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [R, Q, L, T]
+
+Page In: K | Reference Number: 0 | Evicted: L
+Result Memory: [R, Q, K, T]
+
+Page In: U | Reference Number: 10 | Evicted: R
+Result Memory: [U, Q, K, T]
+
+Page In: L | Reference Number: 1 | Evicted: U
+Result Memory: [L, Q, K, T]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, Q, K, T]
+
+Page In: N | Reference Number: 3 | Evicted: L
+Result Memory: [N, Q, K, T]
+
+Page In: S | Reference Number: 8 | Evicted: N
+Result Memory: [S, Q, K, T]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, Q, K, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [S, Q, K, T]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, Q, K, T]
+
+Page In: R | Reference Number: 7 | Evicted: S
+Result Memory: [R, Q, K, T]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [R, Q, K, T]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, Q, K, T]
+
+Page In: N | Reference Number: 3 | Evicted: R
+Result Memory: [N, Q, K, T]
+
+Page In: P | Reference Number: 5 | Evicted: Q
+Result Memory: [N, P, K, T]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [N, P, K, T]
+
+Page In: O | Reference Number: 4 | Evicted: P
+Result Memory: [N, O, K, T]
+
+Page In: R | Reference Number: 7 | Evicted: T
+Result Memory: [N, O, K, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [N, O, K, R]
+
+Page In: Q | Reference Number: 6 | Evicted: R
+Result Memory: [N, O, K, Q]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [N, O, K, Q]
+
+Page In: L | Reference Number: 1 | Evicted: K
+Result Memory: [N, O, L, Q]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [N, O, L, Q]
+
+Page In: K | Reference Number: 0 | Evicted: L
+Result Memory: [N, O, K, Q]
+
+Page In: M | Reference Number: 2 | Evicted: N
+Result Memory: [M, O, K, Q]
+
+Page In: L | Reference Number: 1 | Evicted: M
+Result Memory: [L, O, K, Q]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, O, K, Q]
+
+Page In: M | Reference Number: 2 | Evicted: L
+Result Memory: [M, O, K, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [M, O, K, Q]
+
+Page In: P | Reference Number: 5 | Evicted: Q
+Result Memory: [M, O, K, P]
+
+Page In: Q | Reference Number: 6 | Evicted: M
+Result Memory: [Q, O, K, P]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, O, K, P]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, O, K, P]
+
+Page In: U | Reference Number: 10 | Evicted: Q
+Result Memory: [U, O, K, P]
+
+Page In: R | Reference Number: 7 | Evicted: U
+Result Memory: [R, O, K, P]
+
+Page In: T | Reference Number: 9 | Evicted: R
+Result Memory: [T, O, K, P]
+
+Page In: S | Reference Number: 8 | Evicted: T
+Result Memory: [S, O, K, P]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, O, K, P]
+
+Page In: U | Reference Number: 10 | Evicted: S
+Result Memory: [U, O, K, P]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [U, O, K, P]
+
+Page In: L | Reference Number: 1 | Evicted: K
+Result Memory: [U, O, L, P]
+
+Page In: K | Reference Number: 0 | Evicted: U
+Result Memory: [K, O, L, P]
+
+Page In: M | Reference Number: 2 | Evicted: K
+Result Memory: [M, O, L, P]
+
+Page In: U | Reference Number: 10 | Evicted: M
+Result Memory: [U, O, L, P]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [U, O, L, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [U, O, L, P]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [U, O, L, P]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [U, O, L, P]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [U, O, L, P]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [U, O, L, P]
+
+Page In: N | Reference Number: 3 | Evicted: O
+Result Memory: [U, N, L, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [U, N, L, P]
+
+Page In: S | Reference Number: 8 | Evicted: P
+Result Memory: [U, N, L, S]
+
+Page In: O | Reference Number: 4 | Evicted: L
+Result Memory: [U, N, O, S]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [U, N, O, S]
+
+Page In: M | Reference Number: 2 | Evicted: N
+Result Memory: [U, M, O, S]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [U, M, O, S]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [U, M, O, S]
+
+Page In: N | Reference Number: 3 | Evicted: O
+Result Memory: [U, M, N, S]
+
+Page In: P | Reference Number: 5 | Evicted: U
+Result Memory: [P, M, N, S]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [P, M, N, S]
+
+Page In: L | Reference Number: 1 | Evicted: M
+Result Memory: [P, L, N, S]
+
+Page In: Q | Reference Number: 6 | Evicted: P
+Result Memory: [Q, L, N, S]
+
+Page In: K | Reference Number: 0 | Evicted: Q
+Result Memory: [K, L, N, S]
+
+Page In: U | Reference Number: 10 | Evicted: K
+Result Memory: [U, L, N, S]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, L, N, S]
+
+Page In: T | Reference Number: 9 | Evicted: U
+Result Memory: [T, L, N, S]
+
+Page In: O | Reference Number: 4 | Evicted: T
+Result Memory: [O, L, N, S]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [O, L, N, S]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [O, L, N, S]
+
+Page In: R | Reference Number: 7 | Evicted: L
+Result Memory: [O, R, N, S]
+
+Page In: T | Reference Number: 9 | Evicted: O
+Result Memory: [T, R, N, S]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [T, R, N, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [T, R, N, S]
+
+Page In: K | Reference Number: 0 | Evicted: T
+Result Memory: [K, R, N, S]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, R, N, S]
+
+Page In: L | Reference Number: 1 | Evicted: K
+Result Memory: [L, R, N, S]
+
+Page In: M | Reference Number: 2 | Evicted: S
+Result Memory: [L, R, N, M]
+
+Page In: S | Reference Number: 8 | Evicted: L
+Result Memory: [S, R, N, M]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, R, N, M]
+
+Page In: U | Reference Number: 10 | Evicted: S
+Result Memory: [U, R, N, M]
+
+Page In: T | Reference Number: 9 | Evicted: U
+Result Memory: [T, R, N, M]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [T, R, N, M]
+
+Page In: U | Reference Number: 10 | Evicted: T
+Result Memory: [U, R, N, M]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, R, N, M]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [U, R, N, M]
+
+Page In: S | Reference Number: 8 | Evicted: U
+Result Memory: [S, R, N, M]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [S, R, N, M]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [S, R, N, M]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [S, R, N, M]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [S, R, N, M]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [S, R, N, M]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, R, N, M]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, R, N, M]
+
+Page In: T | Reference Number: 9 | Evicted: M
+Result Memory: [S, R, N, T]
+
+Page In: O | Reference Number: 4 | Evicted: S
+Result Memory: [O, R, N, T]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, R, N, T]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [O, R, N, T]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, R, N, T]
+
+Page In: S | Reference Number: 8 | Evicted: O
+Result Memory: [S, R, N, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [S, R, N, T]
+
+Page In: U | Reference Number: 10 | Evicted: R
+Result Memory: [S, U, N, T]
+
+Page In: R | Reference Number: 7 | Evicted: N
+Result Memory: [S, U, R, T]
+
+Page In: O | Reference Number: 4 | Evicted: T
+Result Memory: [S, U, R, O]
+
+Page In: P | Reference Number: 5 | Evicted: S
+Result Memory: [P, U, R, O]
+
+Page In: Q | Reference Number: 6 | Evicted: P
+Result Memory: [Q, U, R, O]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, U, R, O]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, U, R, O]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [Q, U, R, O]
+
+Page In: S | Reference Number: 8 | Evicted: Q
+Result Memory: [S, U, R, O]
+
+Page In: T | Reference Number: 9 | Evicted: R
+Result Memory: [S, U, T, O]
+
+Page In: L | Reference Number: 1 | Evicted: S
+Result Memory: [L, U, T, O]
+
+Page In: P | Reference Number: 5 | Evicted: L
+Result Memory: [P, U, T, O]
+
+Page In: Q | Reference Number: 6 | Evicted: P
+Result Memory: [Q, U, T, O]
+
+Page In: L | Reference Number: 1 | Evicted: Q
+Result Memory: [L, U, T, O]
+
+Page In: M | Reference Number: 2 | Evicted: L
+Result Memory: [M, U, T, O]
+
+Page In: L | Reference Number: 1 | Evicted: M
+Result Memory: [L, U, T, O]
+
+Page In: R | Reference Number: 7 | Evicted: L
+Result Memory: [R, U, T, O]
+
+Page In: Q | Reference Number: 6 | Evicted: R
+Result Memory: [Q, U, T, O]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [Q, U, T, O]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [Q, U, T, O]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [Q, U, T, O]
+
+Page In: S | Reference Number: 8 | Evicted: T
+Result Memory: [Q, U, S, O]
+
+Page In: R | Reference Number: 7 | Evicted: U
+Result Memory: [Q, R, S, O]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, R, S, O]
+
+Page In: P | Reference Number: 5 | Evicted: Q
+Result Memory: [P, R, S, O]
+
+Page In: K | Reference Number: 0 | Evicted: P
+Result Memory: [K, R, S, O]
+
+Page In: U | Reference Number: 10 | Evicted: K
+Result Memory: [U, R, S, O]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [U, R, S, O]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, R, S, O]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, R, S, O]
+
+Page In: Q | Reference Number: 6 | Evicted: U
+Result Memory: [Q, R, S, O]
+
+Page In: N | Reference Number: 3 | Evicted: R
+Result Memory: [Q, N, S, O]
+
+Page In: M | Reference Number: 2 | Evicted: Q
+Result Memory: [M, N, S, O]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [M, N, S, O]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [M, N, S, O]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [M, N, S, O]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [M, N, S, O]
+
+Page In: R | Reference Number: 7 | Evicted: N
+Result Memory: [M, R, S, O]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [M, R, S, O]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [M, R, S, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [M, R, S, O]
+
+Page In: N | Reference Number: 3 | Evicted: S
+Result Memory: [M, R, N, O]
+
+Page In: U | Reference Number: 10 | Evicted: M
+Result Memory: [U, R, N, O]
+
+Page In: T | Reference Number: 9 | Evicted: R
+Result Memory: [U, T, N, O]
+
+Page In: K | Reference Number: 0 | Evicted: O
+Result Memory: [U, T, N, K]
+
+Page In: L | Reference Number: 1 | Evicted: U
+Result Memory: [L, T, N, K]
+
+Page In: Q | Reference Number: 6 | Evicted: L
+Result Memory: [Q, T, N, K]
+
+Page In: R | Reference Number: 7 | Evicted: Q
+Result Memory: [R, T, N, K]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [R, T, N, K]
+
+Page In: U | Reference Number: 10 | Evicted: T
+Result Memory: [R, U, N, K]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [R, U, N, K]
+
+Page In: T | Reference Number: 9 | Evicted: U
+Result Memory: [R, T, N, K]
+
+Page In: S | Reference Number: 8 | Evicted: R
+Result Memory: [S, T, N, K]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [S, T, N, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, T, N, K]
+
+Page In: R | Reference Number: 7 | Evicted: N
+Result Memory: [S, T, R, K]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [S, T, R, K]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, T, R, K]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [S, T, R, K]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, T, R, K]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [S, T, R, K]
+
+Page In: Q | Reference Number: 6 | Evicted: S
+Result Memory: [Q, T, R, K]
+
+Page In: L | Reference Number: 1 | Evicted: R
+Result Memory: [Q, T, L, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [Q, T, L, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [Q, T, L, K]
+
+Page In: U | Reference Number: 10 | Evicted: K
+Result Memory: [Q, T, L, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [Q, T, L, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [Q, T, L, U]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [Q, T, L, U]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, T, L, U]
+
+Page In: R | Reference Number: 7 | Evicted: T
+Result Memory: [Q, R, L, U]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, R, L, U]
+
+Page In: P | Reference Number: 5 | Evicted: Q
+Result Memory: [P, R, L, U]
+
+Page In: O | Reference Number: 4 | Evicted: U
+Result Memory: [P, R, L, O]
+
+Page In: N | Reference Number: 3 | Evicted: P
+Result Memory: [N, R, L, O]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [P, R, L, O]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [P, R, L, O]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [P, R, L, O]
+
+Page In: N | Reference Number: 3 | Evicted: L
+Result Memory: [P, R, N, O]
+
+Page In: Q | Reference Number: 6 | Evicted: P
+Result Memory: [Q, R, N, O]
+
+Page In: T | Reference Number: 9 | Evicted: Q
+Result Memory: [T, R, N, O]
+
+Page In: K | Reference Number: 0 | Evicted: T
+Result Memory: [K, R, N, O]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [K, R, N, O]
+
+Page In: L | Reference Number: 1 | Evicted: R
+Result Memory: [K, L, N, O]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, L, N, O]
+
+Page In: R | Reference Number: 7 | Evicted: K
+Result Memory: [R, L, N, O]
+
+Page In: S | Reference Number: 8 | Evicted: R
+Result Memory: [S, L, N, O]
+
+Page In: K | Reference Number: 0 | Evicted: S
+Result Memory: [K, L, N, O]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, L, N, O]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [K, L, N, O]
+
+Page In: Q | Reference Number: 6 | Evicted: K
+Result Memory: [Q, L, N, O]
+
+Page In: P | Reference Number: 5 | Evicted: L
+Result Memory: [Q, P, N, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [Q, P, N, O]
+
+Page In: K | Reference Number: 0 | Evicted: O
+Result Memory: [Q, P, N, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [Q, P, N, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [Q, P, N, K]
+
+Page In: U | Reference Number: 10 | Evicted: K
+Result Memory: [Q, P, N, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [Q, P, N, U]
+
+Page In: O | Reference Number: 4 | Evicted: U
+Result Memory: [Q, P, N, O]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [Q, P, N, O]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [Q, P, N, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [Q, P, N, O]
+
+Page In: U | Reference Number: 10 | Evicted: P
+Result Memory: [Q, U, N, O]
+
+Page In: R | Reference Number: 7 | Evicted: O
+Result Memory: [Q, U, N, R]
+
+Page In: O | Reference Number: 4 | Evicted: Q
+Result Memory: [O, U, N, R]
+
+Page In: S | Reference Number: 8 | Evicted: O
+Result Memory: [S, U, N, R]
+
+Page In: L | Reference Number: 1 | Evicted: S
+Result Memory: [L, U, N, R]
+
+Page In: K | Reference Number: 0 | Evicted: L
+Result Memory: [K, U, N, R]
+
+Page In: L | Reference Number: 1 | Evicted: K
+Result Memory: [L, U, N, R]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, U, N, R]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, U, N, R]
+
+Page In: K | Reference Number: 0 | Evicted: L
+Result Memory: [K, U, N, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [K, U, N, R]
+
+Page In: S | Reference Number: 8 | Evicted: R
+Result Memory: [K, U, N, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [K, U, N, S]
+
+Page In: T | Reference Number: 9 | Evicted: S
+Result Memory: [K, U, N, T]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, U, N, T]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, U, N, T]
+
+Page In: L | Reference Number: 1 | Evicted: K
+Result Memory: [L, U, N, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [L, U, N, T]
+
+Page In: S | Reference Number: 8 | Evicted: U
+Result Memory: [L, S, N, T]
+
+Page In: U | Reference Number: 10 | Evicted: T
+Result Memory: [L, S, N, U]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, S, N, U]
+
+Page In: K | Reference Number: 0 | Evicted: L
+Result Memory: [K, S, N, U]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, S, N, U]
+
+Page In: P | Reference Number: 5 | Evicted: K
+Result Memory: [P, S, N, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [P, S, N, U]
+
+Page In: L | Reference Number: 1 | Evicted: U
+Result Memory: [P, S, N, L]
+
+Page In: M | Reference Number: 2 | Evicted: P
+Result Memory: [M, S, N, L]
+
+Page In: U | Reference Number: 10 | Evicted: M
+Result Memory: [U, S, N, L]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, S, N, L]
+
+Page In: K | Reference Number: 0 | Evicted: U
+Result Memory: [K, S, N, L]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [K, S, N, L]
+
+Page In: T | Reference Number: 9 | Evicted: N
+Result Memory: [K, S, T, L]
+
+Page In: Q | Reference Number: 6 | Evicted: K
+Result Memory: [Q, S, T, L]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, S, T, L]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, S, T, L]
+
+Page In: R | Reference Number: 7 | Evicted: Q
+Result Memory: [R, S, T, L]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, S, T, L]
+
+Page In: Q | Reference Number: 6 | Evicted: R
+Result Memory: [Q, S, T, L]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, S, T, L]
+
+Page In: M | Reference Number: 2 | Evicted: Q
+Result Memory: [M, S, T, L]
+
+Page In: O | Reference Number: 4 | Evicted: M
+Result Memory: [O, S, T, L]
+
+Page In: P | Reference Number: 5 | Evicted: O
+Result Memory: [P, S, T, L]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [P, S, T, L]
+
+Page In: M | Reference Number: 2 | Evicted: P
+Result Memory: [M, S, T, L]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [M, S, T, L]
+
+Page In: Q | Reference Number: 6 | Evicted: M
+Result Memory: [Q, S, T, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [Q, S, T, L]
+
+Page In: N | Reference Number: 3 | Evicted: L
+Result Memory: [Q, S, T, N]
+
+Page In: O | Reference Number: 4 | Evicted: Q
+Result Memory: [O, S, T, N]
+
+Page In: K | Reference Number: 0 | Evicted: O
+Result Memory: [K, S, T, N]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, S, T, N]
+
+Page In: P | Reference Number: 5 | Evicted: K
+Result Memory: [P, S, T, N]
+
+Page In: U | Reference Number: 10 | Evicted: P
+Result Memory: [U, S, T, N]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, S, T, N]
+
+Page In: K | Reference Number: 0 | Evicted: U
+Result Memory: [K, S, T, N]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, S, T, N]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, S, T, N]
+
+Page In: M | Reference Number: 2 | Evicted: K
+Result Memory: [M, S, T, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [M, S, T, N]
+
+Page In: U | Reference Number: 10 | Evicted: N
+Result Memory: [M, S, T, U]
+
+Page In: Q | Reference Number: 6 | Evicted: M
+Result Memory: [Q, S, T, U]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, S, T, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [Q, S, T, U]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [Q, S, T, U]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [Q, S, T, U]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [Q, S, T, U]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [Q, S, T, U]
+
+Page In: L | Reference Number: 1 | Evicted: T
+Result Memory: [Q, S, L, U]
+
+Page In: T | Reference Number: 9 | Evicted: Q
+Result Memory: [T, S, L, U]
+
+Page In: O | Reference Number: 4 | Evicted: S
+Result Memory: [T, O, L, U]
+
+Page In: N | Reference Number: 3 | Evicted: U
+Result Memory: [T, O, L, N]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [T, O, L, N]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [T, O, L, N]
+
+Page In: K | Reference Number: 0 | Evicted: T
+Result Memory: [K, O, L, N]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [K, O, L, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [K, O, L, N]
+
+Page In: M | Reference Number: 2 | Evicted: O
+Result Memory: [K, M, L, N]
+
+Page In: R | Reference Number: 7 | Evicted: N
+Result Memory: [K, M, L, R]
+
+Page In: O | Reference Number: 4 | Evicted: K
+Result Memory: [O, M, L, R]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, M, L, R]
+
+Page In: U | Reference Number: 10 | Evicted: O
+Result Memory: [U, M, L, R]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, M, L, R]
+
+Page In: K | Reference Number: 0 | Evicted: U
+Result Memory: [K, M, L, R]
+
+Page In: U | Reference Number: 10 | Evicted: K
+Result Memory: [U, M, L, R]
+
+Page In: T | Reference Number: 9 | Evicted: U
+Result Memory: [T, M, L, R]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [T, M, L, R]
+
+Page In: O | Reference Number: 4 | Evicted: L
+Result Memory: [T, M, O, R]
+
+Page In: P | Reference Number: 5 | Evicted: T
+Result Memory: [P, M, O, R]
+
+Page In: Q | Reference Number: 6 | Evicted: P
+Result Memory: [Q, M, O, R]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [Q, M, O, R]
+
+Page In: S | Reference Number: 8 | Evicted: M
+Result Memory: [Q, S, O, R]
+
+Page In: M | Reference Number: 2 | Evicted: Q
+Result Memory: [M, S, O, R]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [M, S, O, R]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [M, S, O, R]
+
+Page In: N | Reference Number: 3 | Evicted: M
+Result Memory: [N, S, O, R]
+
+Page In: U | Reference Number: 10 | Evicted: N
+Result Memory: [U, S, O, R]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, S, O, R]
+
+Page In: K | Reference Number: 0 | Evicted: U
+Result Memory: [K, S, O, R]
+
+Page In: U | Reference Number: 10 | Evicted: K
+Result Memory: [U, S, O, R]
+
+Page In: T | Reference Number: 9 | Evicted: U
+Result Memory: [T, S, O, R]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [T, S, O, R]
+
+Page In: P | Reference Number: 5 | Evicted: O
+Result Memory: [T, S, P, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [T, S, P, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [T, S, P, R]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [T, S, P, R]
+
+Page In: M | Reference Number: 2 | Evicted: R
+Result Memory: [T, S, P, M]
+
+Page In: L | Reference Number: 1 | Evicted: T
+Result Memory: [L, S, P, M]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, S, P, M]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [L, S, P, M]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, S, P, M]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [L, S, P, M]
+
+Page In: U | Reference Number: 10 | Evicted: L
+Result Memory: [U, S, P, M]
+
+Page In: K | Reference Number: 0 | Evicted: S
+Result Memory: [U, K, P, M]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [U, K, P, M]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, K, P, M]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, K, P, M]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [U, K, P, M]
+
+Page In: S | Reference Number: 8 | Evicted: U
+Result Memory: [S, K, P, M]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, K, P, M]
+
+Page In: L | Reference Number: 1 | Evicted: K
+Result Memory: [S, L, P, M]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [S, L, P, M]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [S, L, P, M]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [S, L, P, M]
+
+Page In: O | Reference Number: 4 | Evicted: P
+Result Memory: [S, L, O, M]
+
+Page In: T | Reference Number: 9 | Evicted: L
+Result Memory: [S, T, O, M]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [S, T, O, M]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, T, O, M]
+
+Page In: R | Reference Number: 7 | Evicted: S
+Result Memory: [R, T, O, M]
+
+Page In: S | Reference Number: 8 | Evicted: T
+Result Memory: [R, S, O, M]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [R, S, O, M]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [R, S, O, M]
+
+Page In: K | Reference Number: 0 | Evicted: O
+Result Memory: [R, S, K, M]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [R, S, K, M]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, S, K, M]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [R, S, K, M]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, S, K, M]
+
+Page In: Q | Reference Number: 6 | Evicted: R
+Result Memory: [Q, S, K, M]
+
+Page In: U | Reference Number: 10 | Evicted: S
+Result Memory: [Q, U, K, M]
+
+Page In: P | Reference Number: 5 | Evicted: M
+Result Memory: [Q, U, K, P]
+
+Page In: O | Reference Number: 4 | Evicted: Q
+Result Memory: [O, U, K, P]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [O, U, K, P]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [O, U, K, P]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [O, U, K, P]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [O, U, K, P]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [O, U, K, P]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [O, U, K, P]
+
+Page In: M | Reference Number: 2 | Evicted: U
+Result Memory: [O, M, K, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [O, M, K, P]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, M, K, P]
+
+Page In: N | Reference Number: 3 | Evicted: K
+Result Memory: [O, M, N, P]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [O, M, N, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [O, M, N, P]
+
+Page In: Q | Reference Number: 6 | Evicted: P
+Result Memory: [O, M, N, Q]
+
+Page In: P | Reference Number: 5 | Evicted: O
+Result Memory: [P, M, N, Q]
+
+Page In: S | Reference Number: 8 | Evicted: M
+Result Memory: [P, S, N, Q]
+
+Page In: O | Reference Number: 4 | Evicted: P
+Result Memory: [O, S, N, Q]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [O, S, N, Q]
+
+Page In: T | Reference Number: 9 | Evicted: S
+Result Memory: [O, T, N, Q]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [O, T, N, Q]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, T, N, Q]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, T, N, Q]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [O, T, N, Q]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [O, T, N, Q]
+
+Page In: M | Reference Number: 2 | Evicted: O
+Result Memory: [M, T, N, Q]
+
+Page In: L | Reference Number: 1 | Evicted: N
+Result Memory: [M, T, L, Q]
+
+Page In: P | Reference Number: 5 | Evicted: T
+Result Memory: [M, P, L, Q]
+
+Page In: T | Reference Number: 9 | Evicted: M
+Result Memory: [T, P, L, Q]
+
+Page In: S | Reference Number: 8 | Evicted: T
+Result Memory: [S, P, L, Q]
+
+Page In: N | Reference Number: 3 | Evicted: S
+Result Memory: [N, P, L, Q]
+
+Page In: U | Reference Number: 10 | Evicted: N
+Result Memory: [U, P, L, Q]
+
+Page In: K | Reference Number: 0 | Evicted: U
+Result Memory: [K, P, L, Q]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, P, L, Q]
+
+Page In: U | Reference Number: 10 | Evicted: K
+Result Memory: [U, P, L, Q]
+
+Page In: T | Reference Number: 9 | Evicted: U
+Result Memory: [T, P, L, Q]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [T, P, L, Q]
+
+Page In: M | Reference Number: 2 | Evicted: L
+Result Memory: [T, P, M, Q]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [T, P, M, Q]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [T, P, M, Q]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [T, P, M, Q]
+
+Page In: S | Reference Number: 8 | Evicted: M
+Result Memory: [T, P, S, Q]
+
+Page In: U | Reference Number: 10 | Evicted: T
+Result Memory: [U, P, S, Q]
+
+Page In: K | Reference Number: 0 | Evicted: U
+Result Memory: [K, P, S, Q]
+
+Page In: L | Reference Number: 1 | Evicted: K
+Result Memory: [L, P, S, Q]
+
+Page In: M | Reference Number: 2 | Evicted: L
+Result Memory: [M, P, S, Q]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [M, P, S, Q]
+
+Page In: L | Reference Number: 1 | Evicted: M
+Result Memory: [L, P, S, Q]
+
+Page In: M | Reference Number: 2 | Evicted: L
+Result Memory: [M, P, S, Q]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [M, P, S, Q]
+
+Page In: T | Reference Number: 9 | Evicted: S
+Result Memory: [M, P, T, Q]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [M, P, T, Q]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [M, P, T, Q]
+
+Page In: K | Reference Number: 0 | Evicted: T
+Result Memory: [M, P, K, Q]
+
+Page In: U | Reference Number: 10 | Evicted: M
+Result Memory: [U, P, K, Q]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [U, P, K, Q]
+
+Page In: L | Reference Number: 1 | Evicted: K
+Result Memory: [U, P, L, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [U, P, L, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [U, P, L, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [U, P, L, Q]
+
+Page In: S | Reference Number: 8 | Evicted: Q
+Result Memory: [U, P, L, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [U, P, L, S]
+
+Page In: N | Reference Number: 3 | Evicted: S
+Result Memory: [U, P, L, N]
+
+Page In: R | Reference Number: 7 | Evicted: U
+Result Memory: [R, P, L, N]
+
+Page In: Q | Reference Number: 6 | Evicted: R
+Result Memory: [Q, P, L, N]
+
+Page In: R | Reference Number: 7 | Evicted: Q
+Result Memory: [R, P, L, N]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, P, L, N]
+
+Page In: Q | Reference Number: 6 | Evicted: R
+Result Memory: [Q, P, L, N]
+
+Page In: U | Reference Number: 10 | Evicted: Q
+Result Memory: [U, P, L, N]
+
+Page In: Q | Reference Number: 6 | Evicted: U
+Result Memory: [Q, P, L, N]
+
+Page In: R | Reference Number: 7 | Evicted: Q
+Result Memory: [R, P, L, N]
+
+Page In: S | Reference Number: 8 | Evicted: R
+Result Memory: [S, P, L, N]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, P, L, N]
+
+Page In: O | Reference Number: 4 | Evicted: S
+Result Memory: [O, P, L, N]
+
+Page In: S | Reference Number: 8 | Evicted: O
+Result Memory: [S, P, L, N]
+
+Page In: T | Reference Number: 9 | Evicted: S
+Result Memory: [T, P, L, N]
+
+Page In: U | Reference Number: 10 | Evicted: T
+Result Memory: [U, P, L, N]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [U, P, L, N]
+
+Page In: Q | Reference Number: 6 | Evicted: P
+Result Memory: [U, Q, L, N]
+
+Page In: T | Reference Number: 9 | Evicted: U
+Result Memory: [T, Q, L, N]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [T, Q, L, N]
+
+Page In: K | Reference Number: 0 | Evicted: L
+Result Memory: [T, Q, K, N]
+
+Page In: U | Reference Number: 10 | Evicted: T
+Result Memory: [U, Q, K, N]
+
+Page In: R | Reference Number: 7 | Evicted: U
+Result Memory: [R, Q, K, N]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, Q, K, N]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [R, Q, K, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [R, Q, K, N]
+
+Page In: O | Reference Number: 4 | Evicted: R
+Result Memory: [O, Q, K, N]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, Q, K, N]
+
+Page In: L | Reference Number: 1 | Evicted: O
+Result Memory: [L, Q, K, N]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [L, Q, K, N]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, Q, K, N]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, Q, K, N]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, Q, K, N]
+
+Page In: T | Reference Number: 9 | Evicted: L
+Result Memory: [T, Q, K, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [T, Q, K, N]
+
+Page In: M | Reference Number: 2 | Evicted: N
+Result Memory: [T, Q, K, M]
+
+Page In: L | Reference Number: 1 | Evicted: Q
+Result Memory: [T, L, K, M]
+
+Page In: N | Reference Number: 3 | Evicted: K
+Result Memory: [T, L, N, M]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [T, L, N, M]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [T, L, N, M]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [T, L, P, M]
+
+Page In: U | Reference Number: 10 | Evicted: M
+Result Memory: [T, L, P, U]
+
+Page In: M | Reference Number: 2 | Evicted: T
+Result Memory: [M, L, P, U]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [M, L, P, U]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [M, L, P, U]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [M, L, P, U]
+
+Page In: N | Reference Number: 3 | Evicted: L
+Result Memory: [M, N, P, U]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [M, N, P, U]
+
+Page In: O | Reference Number: 4 | Evicted: N
+Result Memory: [M, O, P, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [M, O, P, U]
+
+Page In: R | Reference Number: 7 | Evicted: U
+Result Memory: [M, O, P, R]
+
+Page In: Q | Reference Number: 6 | Evicted: M
+Result Memory: [Q, O, P, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [Q, O, P, R]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, O, P, R]
+
+Page In: U | Reference Number: 10 | Evicted: Q
+Result Memory: [U, O, P, R]
+
+Page In: T | Reference Number: 9 | Evicted: R
+Result Memory: [U, O, P, T]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [U, O, P, T]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [U, O, P, T]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [U, O, P, T]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [U, O, P, T]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [U, O, P, T]
+
+Page In: R | Reference Number: 7 | Evicted: P
+Result Memory: [U, O, R, T]
+
+Page In: S | Reference Number: 8 | Evicted: O
+Result Memory: [U, S, R, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [U, S, R, T]
+
+Page In: Q | Reference Number: 6 | Evicted: T
+Result Memory: [U, S, R, Q]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [U, S, R, Q]
+
+Page In: M | Reference Number: 2 | Evicted: R
+Result Memory: [U, S, M, Q]
+
+Page In: P | Reference Number: 5 | Evicted: U
+Result Memory: [P, S, M, Q]
+
+Page In: O | Reference Number: 4 | Evicted: P
+Result Memory: [O, S, M, Q]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, S, M, Q]
+
+Page In: N | Reference Number: 3 | Evicted: O
+Result Memory: [N, S, M, Q]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, S, M, Q]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, S, M, Q]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, S, M, Q]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, S, M, Q]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [N, S, M, Q]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [N, S, M, Q]
+
+Page In: L | Reference Number: 1 | Evicted: N
+Result Memory: [L, S, M, Q]
+
+Page In: N | Reference Number: 3 | Evicted: M
+Result Memory: [L, S, N, Q]
+-----End MFU-----
+-----Start Random Pick-----
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [P]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [Q, P]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [M, Q, P]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, M, Q, P]
+
+Page In: O | Reference Number: 4 | Evicted: P
+Result Memory: [O, Q, M, N]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, Q, M, N]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [P, M, Q, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [P, M, Q, O]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [P, M, Q, O]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [P, M, Q, O]
+
+Page In: R | Reference Number: 7 | Evicted: O
+Result Memory: [R, Q, M, P]
+
+Page In: O | Reference Number: 4 | Evicted: P
+Result Memory: [O, M, Q, R]
+
+Page In: N | Reference Number: 3 | Evicted: R
+Result Memory: [N, Q, M, O]
+
+Page In: U | Reference Number: 10 | Evicted: O
+Result Memory: [U, M, Q, N]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [P, Q, M, U]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [P, Q, M, U]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [P, Q, M, U]
+
+Page In: S | Reference Number: 8 | Evicted: U
+Result Memory: [S, M, Q, P]
+
+Page In: R | Reference Number: 7 | Evicted: P
+Result Memory: [R, Q, M, S]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: N | Reference Number: 3 | Evicted: S
+Result Memory: [N, M, Q, R]
+
+Page In: O | Reference Number: 4 | Evicted: R
+Result Memory: [O, Q, M, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [O, Q, M, N]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [P, M, Q, O]
+
+Page In: T | Reference Number: 9 | Evicted: O
+Result Memory: [T, Q, M, P]
+
+Page In: S | Reference Number: 8 | Evicted: P
+Result Memory: [S, M, Q, T]
+
+Page In: R | Reference Number: 7 | Evicted: T
+Result Memory: [R, Q, M, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: O | Reference Number: 4 | Evicted: S
+Result Memory: [O, M, Q, R]
+
+Page In: N | Reference Number: 3 | Evicted: R
+Result Memory: [N, Q, M, O]
+
+Page In: K | Reference Number: 0 | Evicted: O
+Result Memory: [K, M, Q, N]
+
+Page In: L | Reference Number: 1 | Evicted: N
+Result Memory: [L, Q, M, K]
+
+Page In: S | Reference Number: 8 | Evicted: K
+Result Memory: [S, M, Q, L]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, M, Q, L]
+
+Page In: U | Reference Number: 10 | Evicted: L
+Result Memory: [U, Q, M, S]
+
+Page In: L | Reference Number: 1 | Evicted: S
+Result Memory: [L, M, Q, U]
+
+Page In: K | Reference Number: 0 | Evicted: U
+Result Memory: [K, Q, M, L]
+
+Page In: N | Reference Number: 3 | Evicted: L
+Result Memory: [N, M, Q, K]
+
+Page In: O | Reference Number: 4 | Evicted: K
+Result Memory: [O, Q, M, N]
+
+Page In: S | Reference Number: 8 | Evicted: N
+Result Memory: [S, M, Q, O]
+
+Page In: R | Reference Number: 7 | Evicted: O
+Result Memory: [R, Q, M, S]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: K | Reference Number: 0 | Evicted: S
+Result Memory: [K, M, Q, R]
+
+Page In: U | Reference Number: 10 | Evicted: R
+Result Memory: [U, Q, M, K]
+
+Page In: T | Reference Number: 9 | Evicted: K
+Result Memory: [T, M, Q, U]
+
+Page In: S | Reference Number: 8 | Evicted: U
+Result Memory: [S, Q, M, T]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, Q, M, T]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, Q, M, T]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, Q, M, T]
+
+Page In: U | Reference Number: 10 | Evicted: T
+Result Memory: [U, M, Q, S]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [U, M, Q, S]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, M, Q, S]
+
+Page In: N | Reference Number: 3 | Evicted: S
+Result Memory: [N, Q, M, U]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [N, Q, M, U]
+
+Page In: T | Reference Number: 9 | Evicted: U
+Result Memory: [T, M, Q, N]
+
+Page In: S | Reference Number: 8 | Evicted: N
+Result Memory: [S, Q, M, T]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, Q, M, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [S, Q, M, T]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, Q, M, T]
+
+Page In: N | Reference Number: 3 | Evicted: T
+Result Memory: [N, M, Q, S]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, M, Q, S]
+
+Page In: O | Reference Number: 4 | Evicted: S
+Result Memory: [O, Q, M, N]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [P, M, Q, O]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [P, M, Q, O]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [P, M, Q, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [P, M, Q, O]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [P, M, Q, O]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [P, M, Q, O]
+
+Page In: U | Reference Number: 10 | Evicted: O
+Result Memory: [U, Q, M, P]
+
+Page In: K | Reference Number: 0 | Evicted: P
+Result Memory: [K, M, Q, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, M, Q, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, M, Q, U]
+
+Page In: P | Reference Number: 5 | Evicted: U
+Result Memory: [P, Q, M, K]
+
+Page In: T | Reference Number: 9 | Evicted: K
+Result Memory: [T, M, Q, P]
+
+Page In: S | Reference Number: 8 | Evicted: P
+Result Memory: [S, Q, M, T]
+
+Page In: P | Reference Number: 5 | Evicted: T
+Result Memory: [P, M, Q, S]
+
+Page In: U | Reference Number: 10 | Evicted: S
+Result Memory: [U, Q, M, P]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, Q, M, P]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, Q, M, P]
+
+Page In: T | Reference Number: 9 | Evicted: P
+Result Memory: [T, M, Q, U]
+
+Page In: S | Reference Number: 8 | Evicted: U
+Result Memory: [S, Q, M, T]
+
+Page In: L | Reference Number: 1 | Evicted: T
+Result Memory: [L, M, Q, S]
+
+Page In: N | Reference Number: 3 | Evicted: S
+Result Memory: [N, Q, M, L]
+
+Page In: O | Reference Number: 4 | Evicted: L
+Result Memory: [O, M, Q, N]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [P, Q, M, O]
+
+Page In: K | Reference Number: 0 | Evicted: O
+Result Memory: [K, M, Q, P]
+
+Page In: R | Reference Number: 7 | Evicted: P
+Result Memory: [R, Q, M, K]
+
+Page In: U | Reference Number: 10 | Evicted: K
+Result Memory: [U, M, Q, R]
+
+Page In: N | Reference Number: 3 | Evicted: R
+Result Memory: [N, Q, M, U]
+
+Page In: K | Reference Number: 0 | Evicted: U
+Result Memory: [K, M, Q, N]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [K, M, Q, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [K, M, Q, N]
+
+Page In: R | Reference Number: 7 | Evicted: N
+Result Memory: [R, Q, M, K]
+
+Page In: T | Reference Number: 9 | Evicted: R
+Result Memory: [K, M, Q, T]
+
+Page In: U | Reference Number: 10 | Evicted: K
+Result Memory: [T, Q, M, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [T, Q, M, U]
+
+Page In: N | Reference Number: 3 | Evicted: T
+Result Memory: [U, M, Q, N]
+
+Page In: T | Reference Number: 9 | Evicted: U
+Result Memory: [N, Q, M, T]
+
+Page In: L | Reference Number: 1 | Evicted: N
+Result Memory: [T, M, Q, L]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [T, M, Q, L]
+
+Page In: S | Reference Number: 8 | Evicted: T
+Result Memory: [L, Q, M, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [L, Q, M, S]
+
+Page In: R | Reference Number: 7 | Evicted: L
+Result Memory: [S, M, Q, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [S, M, Q, R]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, M, Q, R]
+
+Page In: K | Reference Number: 0 | Evicted: S
+Result Memory: [R, Q, M, K]
+
+Page In: L | Reference Number: 1 | Evicted: R
+Result Memory: [K, M, Q, L]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [K, M, Q, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [K, M, Q, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [K, M, Q, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [K, M, Q, L]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, M, Q, L]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [K, M, Q, L]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [K, M, Q, L]
+
+Page In: R | Reference Number: 7 | Evicted: K
+Result Memory: [L, Q, M, R]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [L, Q, M, R]
+
+Page In: P | Reference Number: 5 | Evicted: L
+Result Memory: [R, M, Q, P]
+
+Page In: K | Reference Number: 0 | Evicted: R
+Result Memory: [P, Q, M, K]
+
+Page In: U | Reference Number: 10 | Evicted: P
+Result Memory: [K, M, Q, U]
+
+Page In: L | Reference Number: 1 | Evicted: K
+Result Memory: [U, Q, M, L]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [U, Q, M, L]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [U, Q, M, L]
+
+Page In: R | Reference Number: 7 | Evicted: U
+Result Memory: [L, M, Q, R]
+
+Page In: T | Reference Number: 9 | Evicted: L
+Result Memory: [R, Q, M, T]
+
+Page In: S | Reference Number: 8 | Evicted: R
+Result Memory: [T, M, Q, S]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [T, M, Q, S]
+
+Page In: P | Reference Number: 5 | Evicted: T
+Result Memory: [S, Q, M, P]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, Q, M, P]
+
+Page In: T | Reference Number: 9 | Evicted: S
+Result Memory: [P, M, Q, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [P, M, Q, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [P, M, Q, T]
+
+Page In: S | Reference Number: 8 | Evicted: P
+Result Memory: [T, Q, M, S]
+
+Page In: L | Reference Number: 1 | Evicted: T
+Result Memory: [S, M, Q, L]
+
+Page In: K | Reference Number: 0 | Evicted: S
+Result Memory: [L, Q, M, K]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, Q, M, K]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, Q, M, K]
+
+Page In: O | Reference Number: 4 | Evicted: L
+Result Memory: [K, M, Q, O]
+
+Page In: P | Reference Number: 5 | Evicted: K
+Result Memory: [O, Q, M, P]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [O, Q, M, P]
+
+Page In: R | Reference Number: 7 | Evicted: O
+Result Memory: [P, M, Q, R]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [P, M, Q, R]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [P, M, Q, R]
+
+Page In: L | Reference Number: 1 | Evicted: P
+Result Memory: [R, Q, M, L]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [R, Q, M, L]
+
+Page In: K | Reference Number: 0 | Evicted: R
+Result Memory: [L, M, Q, K]
+
+Page In: N | Reference Number: 3 | Evicted: L
+Result Memory: [K, Q, M, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [K, Q, M, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [K, Q, M, N]
+
+Page In: O | Reference Number: 4 | Evicted: K
+Result Memory: [N, M, Q, O]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [O, Q, M, P]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, Q, M, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [O, Q, M, P]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [O, Q, M, P]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [O, Q, M, P]
+
+Page In: R | Reference Number: 7 | Evicted: O
+Result Memory: [P, M, Q, R]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [P, M, Q, R]
+
+Page In: S | Reference Number: 8 | Evicted: P
+Result Memory: [R, Q, M, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [R, Q, M, S]
+
+Page In: U | Reference Number: 10 | Evicted: R
+Result Memory: [S, M, Q, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [S, M, Q, U]
+
+Page In: K | Reference Number: 0 | Evicted: S
+Result Memory: [U, Q, M, K]
+
+Page In: O | Reference Number: 4 | Evicted: U
+Result Memory: [K, M, Q, O]
+
+Page In: P | Reference Number: 5 | Evicted: K
+Result Memory: [O, Q, M, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [O, Q, M, P]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, Q, M, P]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, Q, M, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [O, Q, M, P]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [O, Q, M, P]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, Q, M, P]
+
+Page In: N | Reference Number: 3 | Evicted: O
+Result Memory: [P, M, Q, N]
+
+Page In: O | Reference Number: 4 | Evicted: P
+Result Memory: [N, Q, M, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [N, Q, M, O]
+
+Page In: T | Reference Number: 9 | Evicted: N
+Result Memory: [O, M, Q, T]
+
+Page In: L | Reference Number: 1 | Evicted: O
+Result Memory: [T, Q, M, L]
+
+Page In: N | Reference Number: 3 | Evicted: T
+Result Memory: [L, M, Q, N]
+
+Page In: K | Reference Number: 0 | Evicted: L
+Result Memory: [N, Q, M, K]
+
+Page In: U | Reference Number: 10 | Evicted: N
+Result Memory: [K, M, Q, U]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [K, M, Q, U]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [K, M, Q, U]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [K, M, Q, U]
+
+Page In: P | Reference Number: 5 | Evicted: K
+Result Memory: [U, Q, M, P]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [U, Q, M, P]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [U, Q, M, P]
+
+Page In: N | Reference Number: 3 | Evicted: U
+Result Memory: [P, M, Q, N]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [P, M, Q, N]
+
+Page In: T | Reference Number: 9 | Evicted: P
+Result Memory: [N, Q, M, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [N, Q, M, T]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [N, Q, M, T]
+
+Page In: K | Reference Number: 0 | Evicted: N
+Result Memory: [T, M, Q, K]
+
+Page In: S | Reference Number: 8 | Evicted: T
+Result Memory: [K, Q, M, S]
+
+Page In: P | Reference Number: 5 | Evicted: M
+Result Memory: [S, P, Q, K]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [S, P, Q, K]
+
+Page In: M | Reference Number: 2 | Evicted: Q
+Result Memory: [K, M, P, S]
+
+Page In: N | Reference Number: 3 | Evicted: P
+Result Memory: [S, N, M, K]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [S, N, M, K]
+
+Page In: U | Reference Number: 10 | Evicted: M
+Result Memory: [K, U, N, S]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, U, N, S]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, U, N, S]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, U, N, S]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, U, N, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [K, U, N, S]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, U, N, S]
+
+Page In: Q | Reference Number: 6 | Evicted: N
+Result Memory: [S, Q, U, K]
+
+Page In: N | Reference Number: 3 | Evicted: U
+Result Memory: [K, N, Q, S]
+
+Page In: P | Reference Number: 5 | Evicted: Q
+Result Memory: [S, P, N, K]
+
+Page In: T | Reference Number: 9 | Evicted: N
+Result Memory: [K, T, P, S]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, T, P, S]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, T, P, S]
+
+Page In: U | Reference Number: 10 | Evicted: P
+Result Memory: [S, U, T, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, U, T, K]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, U, T, K]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [S, U, T, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, U, T, K]
+
+Page In: L | Reference Number: 1 | Evicted: T
+Result Memory: [K, L, U, S]
+
+Page In: P | Reference Number: 5 | Evicted: U
+Result Memory: [S, P, L, K]
+
+Page In: O | Reference Number: 4 | Evicted: L
+Result Memory: [K, O, P, S]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [K, O, P, S]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [K, O, P, S]
+
+Page In: Q | Reference Number: 6 | Evicted: P
+Result Memory: [S, Q, O, K]
+
+Page In: R | Reference Number: 7 | Evicted: O
+Result Memory: [K, R, Q, S]
+
+Page In: U | Reference Number: 10 | Evicted: Q
+Result Memory: [S, U, R, K]
+
+Page In: T | Reference Number: 9 | Evicted: R
+Result Memory: [K, T, U, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [K, T, U, S]
+
+Page In: R | Reference Number: 7 | Evicted: U
+Result Memory: [S, R, T, K]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, R, T, K]
+
+Page In: M | Reference Number: 2 | Evicted: T
+Result Memory: [K, M, R, S]
+
+Page In: L | Reference Number: 1 | Evicted: R
+Result Memory: [S, L, M, K]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [S, L, M, K]
+
+Page In: T | Reference Number: 9 | Evicted: M
+Result Memory: [K, T, L, S]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [K, T, L, S]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, T, L, S]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, T, L, S]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, T, L, S]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [K, T, L, S]
+
+Page In: M | Reference Number: 2 | Evicted: L
+Result Memory: [S, M, T, K]
+
+Page In: P | Reference Number: 5 | Evicted: T
+Result Memory: [K, P, M, S]
+
+Page In: Q | Reference Number: 6 | Evicted: M
+Result Memory: [S, Q, P, K]
+
+Page In: R | Reference Number: 7 | Evicted: P
+Result Memory: [K, R, Q, S]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [K, R, Q, S]
+
+Page In: P | Reference Number: 5 | Evicted: Q
+Result Memory: [S, P, R, K]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [S, P, R, K]
+
+Page In: O | Reference Number: 4 | Evicted: R
+Result Memory: [K, O, P, S]
+
+Page In: N | Reference Number: 3 | Evicted: P
+Result Memory: [S, N, O, K]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [S, N, O, K]
+
+Page In: M | Reference Number: 2 | Evicted: O
+Result Memory: [K, M, N, S]
+
+Page In: U | Reference Number: 10 | Evicted: N
+Result Memory: [S, U, M, K]
+
+Page In: O | Reference Number: 4 | Evicted: M
+Result Memory: [K, O, U, S]
+
+Page In: P | Reference Number: 5 | Evicted: U
+Result Memory: [S, P, O, K]
+
+Page In: Q | Reference Number: 6 | Evicted: O
+Result Memory: [K, Q, P, S]
+
+Page In: M | Reference Number: 2 | Evicted: P
+Result Memory: [S, M, Q, K]
+
+Page In: N | Reference Number: 3 | Evicted: Q
+Result Memory: [K, N, M, S]
+
+Page In: Q | Reference Number: 6 | Evicted: M
+Result Memory: [S, Q, N, K]
+
+Page In: L | Reference Number: 1 | Evicted: N
+Result Memory: [K, L, Q, S]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [K, L, Q, S]
+
+Page In: N | Reference Number: 3 | Evicted: Q
+Result Memory: [S, N, L, K]
+
+Page In: M | Reference Number: 2 | Evicted: L
+Result Memory: [K, M, N, S]
+
+Page In: R | Reference Number: 7 | Evicted: N
+Result Memory: [S, R, M, K]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [S, R, M, K]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, R, M, K]
+
+Page In: N | Reference Number: 3 | Evicted: M
+Result Memory: [K, N, R, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [K, N, R, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [K, N, R, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [K, N, R, S]
+
+Page In: U | Reference Number: 10 | Evicted: R
+Result Memory: [S, U, N, K]
+
+Page In: L | Reference Number: 1 | Evicted: N
+Result Memory: [K, L, U, S]
+
+Page In: O | Reference Number: 4 | Evicted: U
+Result Memory: [S, O, L, K]
+
+Page In: P | Reference Number: 5 | Evicted: L
+Result Memory: [K, P, O, S]
+
+Page In: Q | Reference Number: 6 | Evicted: O
+Result Memory: [S, Q, P, K]
+
+Page In: M | Reference Number: 2 | Evicted: P
+Result Memory: [K, M, Q, S]
+
+Page In: N | Reference Number: 3 | Evicted: Q
+Result Memory: [S, N, M, K]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [S, N, M, K]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, N, M, K]
+
+Page In: O | Reference Number: 4 | Evicted: M
+Result Memory: [K, O, N, S]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [S, P, O, K]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [S, P, O, K]
+
+Page In: T | Reference Number: 9 | Evicted: O
+Result Memory: [K, T, P, S]
+
+Page In: Q | Reference Number: 6 | Evicted: P
+Result Memory: [S, Q, T, K]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [S, Q, T, K]
+
+Page In: L | Reference Number: 1 | Evicted: T
+Result Memory: [K, L, Q, S]
+
+Page In: T | Reference Number: 9 | Evicted: Q
+Result Memory: [S, T, L, K]
+
+Page In: N | Reference Number: 3 | Evicted: L
+Result Memory: [K, N, T, S]
+
+Page In: R | Reference Number: 7 | Evicted: T
+Result Memory: [S, R, N, K]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, R, N, K]
+
+Page In: L | Reference Number: 1 | Evicted: N
+Result Memory: [K, L, R, S]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [K, L, R, S]
+
+Page In: M | Reference Number: 2 | Evicted: R
+Result Memory: [S, M, L, K]
+
+Page In: Q | Reference Number: 6 | Evicted: L
+Result Memory: [K, Q, M, S]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, Q, M, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [K, Q, M, S]
+
+Page In: T | Reference Number: 9 | Evicted: M
+Result Memory: [S, T, Q, K]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, T, Q, K]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [S, T, Q, K]
+
+Page In: L | Reference Number: 1 | Evicted: T
+Result Memory: [K, Q, L, S]
+
+Page In: M | Reference Number: 2 | Evicted: Q
+Result Memory: [S, L, M, K]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [S, L, M, K]
+
+Page In: P | Reference Number: 5 | Evicted: L
+Result Memory: [K, M, P, S]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [K, M, P, S]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [K, M, P, S]
+
+Page In: Q | Reference Number: 6 | Evicted: M
+Result Memory: [S, P, Q, K]
+
+Page In: R | Reference Number: 7 | Evicted: P
+Result Memory: [K, Q, R, S]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [K, Q, R, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [K, Q, R, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [K, Q, R, S]
+
+Page In: U | Reference Number: 10 | Evicted: Q
+Result Memory: [S, R, U, K]
+
+Page In: T | Reference Number: 9 | Evicted: R
+Result Memory: [K, U, T, S]
+
+Page In: Q | Reference Number: 6 | Evicted: U
+Result Memory: [S, T, Q, K]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, T, Q, K]
+
+Page In: P | Reference Number: 5 | Evicted: T
+Result Memory: [K, Q, P, S]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [K, Q, P, S]
+
+Page In: N | Reference Number: 3 | Evicted: Q
+Result Memory: [S, P, N, K]
+
+Page In: Q | Reference Number: 6 | Evicted: P
+Result Memory: [K, N, Q, S]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [K, N, Q, S]
+
+Page In: T | Reference Number: 9 | Evicted: N
+Result Memory: [S, Q, T, K]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, Q, T, K]
+
+Page In: R | Reference Number: 7 | Evicted: Q
+Result Memory: [K, T, R, S]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [K, T, R, S]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [K, T, R, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [K, T, R, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [K, T, R, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [K, T, R, S]
+
+Page In: P | Reference Number: 5 | Evicted: T
+Result Memory: [S, R, P, K]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, R, P, K]
+
+Page In: L | Reference Number: 1 | Evicted: R
+Result Memory: [K, P, L, S]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [K, P, L, S]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, P, L, S]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [K, P, L, S]
+
+Page In: P | Reference Number: 5 | Evicted:  
+Result Memory: [K, P, L, S]
+
+Page In: U | Reference Number: 10 | Evicted: P
+Result Memory: [S, L, U, K]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [S, L, U, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, L, U, K]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [S, L, U, K]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [S, L, U, K]
+
+Page In: M | Reference Number: 2 | Evicted: L
+Result Memory: [K, U, M, S]
+
+Page In: L | Reference Number: 1 | Evicted: U
+Result Memory: [S, M, L, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, M, L, K]
+
+Page In: U | Reference Number: 10 | Evicted: M
+Result Memory: [K, L, U, S]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [K, L, U, S]
+
+Page In: Q | Reference Number: 6 | Evicted: L
+Result Memory: [S, U, Q, K]
+
+Page In: R | Reference Number: 7 | Evicted: U
+Result Memory: [K, Q, R, S]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [K, Q, R, S]
+
+Page In: Q | Reference Number: 6 | Evicted:  
+Result Memory: [K, Q, R, S]
+
+Page In: P | Reference Number: 5 | Evicted: Q
+Result Memory: [S, R, P, K]
+
+Page In: M | Reference Number: 2 | Evicted: R
+Result Memory: [K, P, M, S]
+
+Page In: N | Reference Number: 3 | Evicted: P
+Result Memory: [S, M, N, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, M, N, K]
+
+Page In: O | Reference Number: 4 | Evicted: M
+Result Memory: [K, N, O, S]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [K, N, O, S]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [K, N, O, S]
+
+Page In: T | Reference Number: 9 | Evicted: N
+Result Memory: [S, O, T, K]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, O, T, K]
+
+Page In: L | Reference Number: 1 | Evicted: O
+Result Memory: [K, T, L, S]
+
+Page In: M | Reference Number: 2 | Evicted: T
+Result Memory: [S, L, M, K]
+
+Page In: T | Reference Number: 9 | Evicted: L
+Result Memory: [K, M, T, S]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [K, M, T, S]
+
+Page In: U | Reference Number: 10 | Evicted: M
+Result Memory: [S, T, U, K]
+
+Page In: P | Reference Number: 5 | Evicted: T
+Result Memory: [K, U, P, S]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, U, P, S]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, U, P, S]
+
+Page In: T | Reference Number: 9 | Evicted: U
+Result Memory: [S, P, T, K]
+
+Page In: U | Reference Number: 10 | Evicted: P
+Result Memory: [K, T, U, S]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [K, T, U, S]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, T, U, S]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [K, T, U, S]
+
+Page In: O | Reference Number: 4 | Evicted: T
+Result Memory: [S, U, O, K]
+
+Page In: N | Reference Number: 3 | Evicted: U
+Result Memory: [K, O, N, S]
+
+Page In: R | Reference Number: 7 | Evicted: O
+Result Memory: [S, N, R, K]
+
+Page In: L | Reference Number: 1 | Evicted: N
+Result Memory: [K, R, L, S]
+
+Page In: M | Reference Number: 2 | Evicted: R
+Result Memory: [S, L, M, K]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [S, L, M, K]
+
+Page In: T | Reference Number: 9 | Evicted: L
+Result Memory: [K, M, T, S]
+
+Page In: U | Reference Number: 10 | Evicted: M
+Result Memory: [S, T, U, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, T, U, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [S, T, U, K]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [S, T, U, K]
+
+Page In: L | Reference Number: 1 | Evicted: T
+Result Memory: [K, U, L, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [K, U, L, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [K, U, L, S]
+
+Page In: R | Reference Number: 7 | Evicted: U
+Result Memory: [S, L, R, K]
+
+Page In: N | Reference Number: 3 | Evicted: L
+Result Memory: [K, R, N, S]
+
+Page In: T | Reference Number: 9 | Evicted: R
+Result Memory: [S, N, T, K]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, N, T, K]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [S, N, T, K]
+
+Page In: P | Reference Number: 5 | Evicted: N
+Result Memory: [K, T, P, S]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [K, T, P, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [K, T, P, S]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [K, T, P, S]
+
+Page In: U | Reference Number: 10 | Evicted: T
+Result Memory: [S, P, U, K]
+
+Page In: R | Reference Number: 7 | Evicted: P
+Result Memory: [K, U, R, S]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [K, U, R, S]
+
+Page In: M | Reference Number: 2 | Evicted: U
+Result Memory: [S, R, M, K]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [S, R, M, K]
+
+Page In: O | Reference Number: 4 | Evicted: K
+Result Memory: [O, M, R, S]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, M, R, S]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, M, R, S]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, M, R, S]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, M, R, S]
+
+Page In: P | Reference Number: 5 | Evicted: S
+Result Memory: [P, R, M, O]
+
+Page In: T | Reference Number: 9 | Evicted: O
+Result Memory: [T, M, R, P]
+
+Page In: U | Reference Number: 10 | Evicted: P
+Result Memory: [U, R, M, T]
+
+Page In: K | Reference Number: 0 | Evicted: T
+Result Memory: [K, M, R, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, M, R, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, M, R, U]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, M, R, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [K, M, R, U]
+
+Page In: T | Reference Number: 9 | Evicted: U
+Result Memory: [T, R, M, K]
+
+Page In: U | Reference Number: 10 | Evicted: K
+Result Memory: [U, M, R, T]
+
+Page In: K | Reference Number: 0 | Evicted: T
+Result Memory: [K, R, M, U]
+
+Page In: L | Reference Number: 1 | Evicted: U
+Result Memory: [L, M, R, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [L, M, R, K]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, M, R, K]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, M, R, K]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, M, R, K]
+
+Page In: O | Reference Number: 4 | Evicted: K
+Result Memory: [O, R, M, L]
+
+Page In: S | Reference Number: 8 | Evicted: L
+Result Memory: [S, M, R, O]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, M, R, O]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [S, M, R, O]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [S, M, R, O]
+
+Page In: T | Reference Number: 9 | Evicted: O
+Result Memory: [T, R, M, S]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [T, R, M, S]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [T, R, M, S]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [T, R, M, S]
+
+Page In: N | Reference Number: 3 | Evicted: S
+Result Memory: [N, M, R, T]
+
+Page In: S | Reference Number: 8 | Evicted: T
+Result Memory: [S, R, M, N]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [S, R, M, N]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [S, R, M, N]
+
+Page In: Q | Reference Number: 6 | Evicted: N
+Result Memory: [Q, M, R, S]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [Q, M, R, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [Q, M, R, S]
+
+Page In: N | Reference Number: 3 | Evicted: S
+Result Memory: [N, R, M, Q]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, R, M, Q]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, R, M, Q]
+
+Page In: O | Reference Number: 4 | Evicted: Q
+Result Memory: [O, M, R, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [O, M, R, N]
+
+Page In: S | Reference Number: 8 | Evicted: N
+Result Memory: [S, R, M, O]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [S, R, M, O]
+
+Page In: N | Reference Number: 3 | Evicted: O
+Result Memory: [N, M, R, S]
+
+Page In: K | Reference Number: 0 | Evicted: S
+Result Memory: [K, R, M, N]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [K, R, M, N]
+
+Page In: O | Reference Number: 4 | Evicted: N
+Result Memory: [O, M, R, K]
+
+Page In: N | Reference Number: 3 | Evicted: K
+Result Memory: [N, R, M, O]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [N, R, M, O]
+
+Page In: L | Reference Number: 1 | Evicted: O
+Result Memory: [L, M, R, N]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, M, R, N]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, M, R, N]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, M, R, N]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, M, R, N]
+
+Page In: L | Reference Number: 1 | Evicted:  
+Result Memory: [L, M, R, N]
+
+Page In: K | Reference Number: 0 | Evicted: N
+Result Memory: [K, R, M, L]
+
+Page In: U | Reference Number: 10 | Evicted: L
+Result Memory: [U, M, R, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [U, M, R, K]
+
+Page In: K | Reference Number: 0 | Evicted:  
+Result Memory: [U, M, R, K]
+
+Page In: P | Reference Number: 5 | Evicted: K
+Result Memory: [P, R, M, U]
+
+Page In: O | Reference Number: 4 | Evicted: U
+Result Memory: [O, M, R, P]
+
+Page In: N | Reference Number: 3 | Evicted: P
+Result Memory: [N, R, M, O]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, R, M, O]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, R, M, O]
+
+Page In: K | Reference Number: 0 | Evicted: O
+Result Memory: [K, M, R, N]
+
+Page In: U | Reference Number: 10 | Evicted: N
+Result Memory: [U, R, M, K]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [U, R, M, K]
+
+Page In: T | Reference Number: 9 | Evicted: K
+Result Memory: [T, M, R, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [T, M, R, U]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [T, M, R, U]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [T, M, R, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [T, M, R, U]
+
+Page In: U | Reference Number: 10 | Evicted:  
+Result Memory: [T, M, R, U]
+
+Page In: T | Reference Number: 9 | Evicted:  
+Result Memory: [T, M, R, U]
+
+Page In: L | Reference Number: 1 | Evicted: U
+Result Memory: [L, R, M, T]
+
+Page In: K | Reference Number: 0 | Evicted: T
+Result Memory: [K, M, R, L]
+
+Page In: S | Reference Number: 8 | Evicted: L
+Result Memory: [S, R, M, K]
+
+Page In: T | Reference Number: 9 | Evicted: K
+Result Memory: [T, M, R, S]
+
+Page In: U | Reference Number: 10 | Evicted: S
+Result Memory: [U, R, M, T]
+
+Page In: Q | Reference Number: 6 | Evicted: T
+Result Memory: [Q, M, R, U]
+
+Page In: R | Reference Number: 7 | Evicted:  
+Result Memory: [Q, M, R, U]
+
+Page In: S | Reference Number: 8 | Evicted: U
+Result Memory: [S, R, M, Q]
+
+Page In: P | Reference Number: 5 | Evicted: Q
+Result Memory: [P, M, R, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [P, M, R, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [P, M, R, S]
+
+Page In: S | Reference Number: 8 | Evicted:  
+Result Memory: [P, M, R, S]
+
+Page In: T | Reference Number: 9 | Evicted: S
+Result Memory: [T, R, M, P]
+
+Page In: N | Reference Number: 3 | Evicted: P
+Result Memory: [N, M, R, T]
+
+Page In: M | Reference Number: 2 | Evicted:  
+Result Memory: [N, M, R, T]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [N, M, R, T]
+
+Page In: O | Reference Number: 4 | Evicted: T
+Result Memory: [O, R, M, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [O, R, M, N]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, R, M, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [O, R, M, N]
+
+Page In: N | Reference Number: 3 | Evicted:  
+Result Memory: [O, R, M, N]
+
+Page In: O | Reference Number: 4 | Evicted:  
+Result Memory: [O, R, M, N]
+
+Page In: S | Reference Number: 8 | Evicted: N
+Result Memory: [S, M, R, O]
+
+Page In: P | Reference Number: 5 | Evicted: O
+Result Memory: [P, R, M, S]
+-----End Random Pick-----
+
+ -----The Paging Algortihm Hit Rate Averages-----
+FIFO: 46
+LRU: 45
+LFU: 50
+MFU: 46
+Random Pick: 52
